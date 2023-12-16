@@ -1,0 +1,1162 @@
+state,state_abbreviation,county,fips,party,candidate,MAX(votes),fraction_votes,county_state
+Alabama,AL,Autauga,1001,Republican,Donald_Trump,5387,0.445,Autauga_AL
+Alabama,AL,Baldwin,1003,Republican,Donald_Trump,23618,0.469,Baldwin_AL
+Alabama,AL,Barbour,1005,Republican,Donald_Trump,1710,0.501,Barbour_AL
+Alabama,AL,Bullock,1011,Republican,Donald_Trump,313,0.565,Bullock_AL
+Alabama,AL,Calhoun,1015,Republican,Donald_Trump,8960,0.451,Calhoun_AL
+Alabama,AL,Chilton,1021,Republican,Donald_Trump,5273,0.493,Chilton_AL
+Alabama,AL,Choctaw,1023,Republican,Donald_Trump,1070,0.499,Choctaw_AL
+Alabama,AL,Coffee,1031,Republican,Donald_Trump,4304,0.414,Coffee_AL
+Alabama,AL,Colbert,1033,Republican,Donald_Trump,3858,0.474,Colbert_AL
+Alabama,AL,Conecuh,1035,Republican,Donald_Trump,768,0.59,Conecuh_AL
+Alabama,AL,Coosa,1037,Republican,Donald_Trump,1233,0.553,Coosa_AL
+Alabama,AL,Covington,1039,Republican,Donald_Trump,4608,0.481,Covington_AL
+Alabama,AL,Crenshaw,1041,Republican,Donald_Trump,1496,0.545,Crenshaw_AL
+Alabama,AL,Cullman,1043,Republican,Donald_Trump,10618,0.506,Cullman_AL
+Alabama,AL,Dale,1045,Republican,Donald_Trump,4151,0.453,Dale_AL
+Alabama,AL,Elmore,1051,Republican,Donald_Trump,8525,0.478,Elmore_AL
+Alabama,AL,Etowah,1055,Republican,Donald_Trump,8657,0.461,Etowah_AL
+Alabama,AL,Geneva,1061,Republican,Donald_Trump,3106,0.486,Geneva_AL
+Alabama,AL,Houston,1069,Republican,Donald_Trump,8171,0.404,Houston_AL
+Alabama,AL,Jefferson,1073,Republican,Donald_Trump,32853,0.35,Jefferson_AL
+Alabama,AL,Lauderdale,1077,Republican,Donald_Trump,7502,0.421,Lauderdale_AL
+Alabama,AL,Limestone,1083,Republican,Donald_Trump,8198,0.43,Limestone_AL
+Alabama,AL,Madison,1089,Republican,Donald_Trump,23791,0.362,Madison_AL
+Alabama,AL,Marengo,1091,Republican,Donald_Trump,580,0.539,Marengo_AL
+Alabama,AL,Marshall,1095,Republican,Donald_Trump,9115,0.495,Marshall_AL
+Alabama,AL,Mobile,1097,Republican,Donald_Trump,28326,0.452,Mobile_AL
+Alabama,AL,Morgan,1103,Republican,Donald_Trump,10909,0.446,Morgan_AL
+Alabama,AL,Pike,1109,Republican,Donald_Trump,2493,0.46,Pike_AL
+Alabama,AL,Russell,1113,Republican,Donald_Trump,1784,0.474,Russell_AL
+Alabama,AL,Talladega,1121,Republican,Donald_Trump,6304,0.51,Talladega_AL
+Alabama,AL,Tallapoosa,1123,Republican,Donald_Trump,4658,0.528,Tallapoosa_AL
+Alabama,AL,Tuscaloosa,1125,Republican,Donald_Trump,11652,0.375,Tuscaloosa_AL
+Alabama,AL,Walker,1127,Republican,Donald_Trump,8394,0.551,Walker_AL
+Alabama,AL,Winston,1133,Republican,Donald_Trump,3352,0.561,Winston_AL
+Arizona,AZ,Apache,4001,Republican,Donald_Trump,1088,0.436,Apache_AZ
+Arizona,AZ,Cochise,4003,Republican,Donald_Trump,6339,0.498,Cochise_AZ
+Arizona,AZ,Coconino,4005,Republican,Donald_Trump,3324,0.392,Coconino_AZ
+Arizona,AZ,Gila,4007,Republican,Donald_Trump,3065,0.539,Gila_AZ
+Arizona,AZ,Graham,4009,Republican,Ted_Cruz,1606,0.419,Graham_AZ
+Arizona,AZ,Greenlee,4011,Republican,Donald_Trump,282,0.448,Greenlee_AZ
+Arizona,AZ,La Paz,4012,Republican,Donald_Trump,940,0.674,La Paz_AZ
+Arizona,AZ,Maricopa,4013,Republican,Donald_Trump,144522,0.462,Maricopa_AZ
+Arizona,AZ,Mohave,4015,Republican,Donald_Trump,14154,0.648,Mohave_AZ
+Arizona,AZ,Navajo,4017,Republican,Donald_Trump,3558,0.414,Navajo_AZ
+Arizona,AZ,Pima,4019,Republican,Donald_Trump,36804,0.436,Pima_AZ
+Arizona,AZ,Pinal,4021,Republican,Donald_Trump,12182,0.575,Pinal_AZ
+Arizona,AZ,Santa Cruz,4023,Republican,Donald_Trump,762,0.452,Santa Cruz_AZ
+Arizona,AZ,Yavapai,4025,Republican,Donald_Trump,17005,0.476,Yavapai_AZ
+Arizona,AZ,Yuma,4027,Republican,Donald_Trump,4390,0.495,Yuma_AZ
+Arkansas,AR,Arkansas,5001,Republican,Donald_Trump,1073,0.385,Arkansas_AR
+Arkansas,AR,Ashley,5003,Republican,Donald_Trump,586,0.404,Ashley_AR
+Arkansas,AR,Baxter,5005,Republican,Donald_Trump,3798,0.438,Baxter_AR
+Arkansas,AR,Benton,5007,Republican,Marco_Rubio,12863,0.303,Benton_AR
+Arkansas,AR,Chicot,5017,Republican,Donald_Trump,416,0.511,Chicot_AR
+Arkansas,AR,Cleburne,5023,Republican,Donald_Trump,2530,0.368,Cleburne_AR
+Arkansas,AR,Conway,5029,Republican,Donald_Trump,805,0.362,Conway_AR
+Arkansas,AR,Craighead,5031,Republican,Ted_Cruz,4108,0.334,Craighead_AR
+Arkansas,AR,Crawford,5033,Republican,Ted_Cruz,3926,0.371,Crawford_AR
+Arkansas,AR,Crittenden,5035,Republican,Donald_Trump,1359,0.444,Crittenden_AR
+Arkansas,AR,Cross,5037,Republican,Donald_Trump,972,0.401,Cross_AR
+Arkansas,AR,Desha,5041,Republican,Donald_Trump,234,0.531,Desha_AR
+Arkansas,AR,Drew,5043,Republican,Donald_Trump,795,0.366,Drew_AR
+Arkansas,AR,Faulkner,5045,Republican,Ted_Cruz,6228,0.333,Faulkner_AR
+Arkansas,AR,Garland,5051,Republican,Donald_Trump,5538,0.352,Garland_AR
+Arkansas,AR,Grant,5053,Republican,Ted_Cruz,1329,0.411,Grant_AR
+Arkansas,AR,Hempstead,5057,Republican,Ted_Cruz,917,0.378,Hempstead_AR
+Arkansas,AR,Hot Spring,5059,Republican,Donald_Trump,1597,0.373,Hot Spring_AR
+Arkansas,AR,Independence,5063,Republican,Donald_Trump,2077,0.349,Independence_AR
+Arkansas,AR,Izard,5065,Republican,Donald_Trump,873,0.42,Izard_AR
+Arkansas,AR,Little River,5081,Republican,Donald_Trump,521,0.388,Little River_AR
+Arkansas,AR,Lonoke,5085,Republican,Ted_Cruz,4028,0.342,Lonoke_AR
+Arkansas,AR,Miller,5091,Republican,Ted_Cruz,2741,0.392,Miller_AR
+Arkansas,AR,Mississippi,5093,Republican,Donald_Trump,1575,0.426,Mississippi_AR
+Arkansas,AR,Nevada,5099,Republican,Ted_Cruz,246,0.359,Nevada_AR
+Arkansas,AR,Phillips,5107,Republican,Donald_Trump,363,0.566,Phillips_AR
+Arkansas,AR,Poinsett,5111,Republican,Donald_Trump,1036,0.385,Poinsett_AR
+Arkansas,AR,Pope,5115,Republican,Donald_Trump,3073,0.321,Pope_AR
+Arkansas,AR,Prairie,5117,Republican,Ted_Cruz,466,0.425,Prairie_AR
+Arkansas,AR,Pulaski,5119,Republican,Marco_Rubio,16282,0.352,Pulaski_AR
+Arkansas,AR,Saline,5125,Republican,Ted_Cruz,7507,0.331,Saline_AR
+Arkansas,AR,Searcy,5129,Republican,Donald_Trump,939,0.39,Searcy_AR
+Arkansas,AR,Sebastian,5131,Republican,Donald_Trump,6030,0.323,Sebastian_AR
+Arkansas,AR,Sharp,5135,Republican,Donald_Trump,1241,0.419,Sharp_AR
+Arkansas,AR,Washington,5143,Republican,Ted_Cruz,8890,0.307,Washington_AR
+Arkansas,AR,White,5145,Republican,Ted_Cruz,4395,0.341,White_AR
+Arkansas,AR,Woodruff,5147,Republican,Donald_Trump,130,0.442,Woodruff_AR
+Arkansas,AR,Yell,5149,Republican,Donald_Trump,911,0.376,Yell_AR
+Florida,FL,Alachua,12001,Republican,Donald_Trump,9241,0.382,Alachua_FL
+Florida,FL,Baker,12003,Republican,Donald_Trump,2163,0.531,Baker_FL
+Florida,FL,Bay,12005,Republican,Donald_Trump,14426,0.487,Bay_FL
+Florida,FL,Bradford,12007,Republican,Donald_Trump,1802,0.495,Bradford_FL
+Florida,FL,Brevard,12009,Republican,Donald_Trump,45483,0.463,Brevard_FL
+Florida,FL,Broward,12011,Republican,Donald_Trump,52759,0.493,Broward_FL
+Florida,FL,Charlotte,12015,Republican,Donald_Trump,16525,0.548,Charlotte_FL
+Florida,FL,Citrus,12017,Republican,Donald_Trump,15232,0.55,Citrus_FL
+Florida,FL,Clay,12019,Republican,Donald_Trump,19374,0.506,Clay_FL
+Florida,FL,Collier,12021,Republican,Donald_Trump,30071,0.461,Collier_FL
+Florida,FL,Dixie,12029,Republican,Donald_Trump,1103,0.634,Dixie_FL
+Florida,FL,Duval,12031,Republican,Donald_Trump,52588,0.471,Duval_FL
+Florida,FL,Escambia,12033,Republican,Donald_Trump,20856,0.417,Escambia_FL
+Florida,FL,Flagler,12035,Republican,Donald_Trump,9684,0.576,Flagler_FL
+Florida,FL,Gadsden,12039,Republican,Donald_Trump,995,0.418,Gadsden_FL
+Florida,FL,Gilchrist,12041,Republican,Donald_Trump,1860,0.588,Gilchrist_FL
+Florida,FL,Glades,12043,Republican,Donald_Trump,632,0.592,Glades_FL
+Florida,FL,Gulf,12045,Republican,Donald_Trump,1038,0.496,Gulf_FL
+Florida,FL,Hardee,12049,Republican,Donald_Trump,1113,0.513,Hardee_FL
+Florida,FL,Hendry,12051,Republican,Donald_Trump,1290,0.488,Hendry_FL
+Florida,FL,Hernando,12053,Republican,Donald_Trump,15479,0.562,Hernando_FL
+Florida,FL,Highlands,12055,Republican,Donald_Trump,7480,0.5,Highlands_FL
+Florida,FL,Hillsborough,12057,Republican,Donald_Trump,53062,0.408,Hillsborough_FL
+Florida,FL,Indian River,12061,Republican,Donald_Trump,13678,0.483,Indian River_FL
+Florida,FL,Lee,12071,Republican,Donald_Trump,51659,0.476,Lee_FL
+Florida,FL,Leon,12073,Republican,Donald_Trump,9083,0.297,Leon_FL
+Florida,FL,Levy,12075,Republican,Donald_Trump,3745,0.576,Levy_FL
+Florida,FL,Manatee,12081,Republican,Donald_Trump,26320,0.472,Manatee_FL
+Florida,FL,Marion,12083,Republican,Donald_Trump,31370,0.548,Marion_FL
+Florida,FL,Martin,12085,Republican,Donald_Trump,16065,0.511,Martin_FL
+Florida,FL,Miami-Dade,12086,Republican,Marco_Rubio,111898,0.627,Miami-Dade_FL
+Florida,FL,Nassau,12089,Republican,Donald_Trump,9192,0.512,Nassau_FL
+Florida,FL,Okeechobee,12093,Republican,Donald_Trump,2202,0.585,Okeechobee_FL
+Florida,FL,Orange,12095,Republican,Donald_Trump,41097,0.398,Orange_FL
+Florida,FL,Osceola,12097,Republican,Donald_Trump,10345,0.469,Osceola_FL
+Florida,FL,Palm Beach,12099,Republican,Donald_Trump,66065,0.521,Palm Beach_FL
+Florida,FL,Pasco,12101,Republican,Donald_Trump,33536,0.51,Pasco_FL
+Florida,FL,Pinellas,12103,Republican,Donald_Trump,61133,0.464,Pinellas_FL
+Florida,FL,Polk,12105,Republican,Donald_Trump,33187,0.449,Polk_FL
+Florida,FL,Putnam,12107,Republican,Donald_Trump,5119,0.573,Putnam_FL
+Florida,FL,Santa Rosa,12113,Republican,Donald_Trump,16044,0.464,Santa Rosa_FL
+Florida,FL,Sarasota,12115,Republican,Donald_Trump,34593,0.473,Sarasota_FL
+Florida,FL,Seminole,12117,Republican,Donald_Trump,25763,0.416,Seminole_FL
+Florida,FL,Sumter,12119,Republican,Donald_Trump,17769,0.54,Sumter_FL
+Florida,FL,Suwannee,12121,Republican,Donald_Trump,2844,0.497,Suwannee_FL
+Florida,FL,Volusia,12127,Republican,Donald_Trump,34167,0.533,Volusia_FL
+Florida,FL,Wakulla,12129,Republican,Donald_Trump,1664,0.431,Wakulla_FL
+Georgia,GA,Appling,13001,Republican,Donald_Trump,1290,0.415,Appling_GA
+Georgia,GA,Atkinson,13003,Republican,Donald_Trump,619,0.659,Atkinson_GA
+Georgia,GA,Bacon,13005,Republican,Donald_Trump,904,0.538,Bacon_GA
+Georgia,GA,Banks,13011,Republican,Donald_Trump,1806,0.489,Banks_GA
+Georgia,GA,Barrow,13013,Republican,Donald_Trump,4653,0.408,Barrow_GA
+Georgia,GA,Bartow,13015,Republican,Donald_Trump,8281,0.462,Bartow_GA
+Georgia,GA,Ben Hill,13017,Republican,Donald_Trump,1020,0.559,Ben Hill_GA
+Georgia,GA,Bibb,13021,Republican,Donald_Trump,5942,0.388,Bibb_GA
+Georgia,GA,Bleckley,13023,Republican,Donald_Trump,935,0.436,Bleckley_GA
+Georgia,GA,Brantley,13025,Republican,Donald_Trump,1161,0.488,Brantley_GA
+Georgia,GA,Brooks,13027,Republican,Donald_Trump,1009,0.52,Brooks_GA
+Georgia,GA,Bryan,13029,Republican,Donald_Trump,2214,0.391,Bryan_GA
+Georgia,GA,Bulloch,13031,Republican,Donald_Trump,3111,0.377,Bulloch_GA
+Georgia,GA,Butts,13035,Republican,Donald_Trump,1884,0.488,Butts_GA
+Georgia,GA,Candler,13043,Republican,Donald_Trump,897,0.49,Candler_GA
+Georgia,GA,Carroll,13045,Republican,Donald_Trump,7495,0.417,Carroll_GA
+Georgia,GA,Catoosa,13047,Republican,Donald_Trump,4449,0.402,Catoosa_GA
+Georgia,GA,Charlton,13049,Republican,Donald_Trump,602,0.473,Charlton_GA
+Georgia,GA,Chatham,13051,Republican,Donald_Trump,10726,0.35,Chatham_GA
+Georgia,GA,Chattahoochee,13053,Republican,Donald_Trump,175,0.545,Chattahoochee_GA
+Georgia,GA,Chattooga,13055,Republican,Donald_Trump,1674,0.517,Chattooga_GA
+Georgia,GA,Cherokee,13057,Republican,Donald_Trump,18460,0.367,Cherokee_GA
+Georgia,GA,Clarke,13059,Republican,Marco_Rubio,3105,0.352,Clarke_GA
+Georgia,GA,Clayton,13063,Republican,Donald_Trump,3264,0.42,Clayton_GA
+Georgia,GA,Clinch,13065,Republican,Donald_Trump,412,0.509,Clinch_GA
+Georgia,GA,Cobb,13067,Republican,Marco_Rubio,38712,0.346,Cobb_GA
+Georgia,GA,Colquitt,13071,Republican,Donald_Trump,2967,0.496,Colquitt_GA
+Georgia,GA,Columbia,13073,Republican,Donald_Trump,9177,0.346,Columbia_GA
+Georgia,GA,Cook,13075,Republican,Donald_Trump,1229,0.547,Cook_GA
+Georgia,GA,Coweta,13077,Republican,Donald_Trump,9593,0.379,Coweta_GA
+Georgia,GA,Crisp,13081,Republican,Donald_Trump,1204,0.502,Crisp_GA
+Georgia,GA,Dade,13083,Republican,Donald_Trump,1151,0.412,Dade_GA
+Georgia,GA,Dawson,13085,Republican,Donald_Trump,2649,0.454,Dawson_GA
+Georgia,GA,Decatur,13087,Republican,Donald_Trump,1525,0.485,Decatur_GA
+Georgia,GA,Dodge,13091,Republican,Donald_Trump,1360,0.504,Dodge_GA
+Georgia,GA,Dooly,13093,Republican,Donald_Trump,584,0.555,Dooly_GA
+Georgia,GA,Dougherty,13095,Republican,Donald_Trump,3078,0.468,Dougherty_GA
+Georgia,GA,Douglas,13097,Republican,Donald_Trump,6984,0.428,Douglas_GA
+Georgia,GA,Early,13099,Republican,Donald_Trump,760,0.561,Early_GA
+Georgia,GA,Echols,13101,Republican,Donald_Trump,268,0.583,Echols_GA
+Georgia,GA,Effingham,13103,Republican,Donald_Trump,3648,0.393,Effingham_GA
+Georgia,GA,Elbert,13105,Republican,Donald_Trump,1394,0.459,Elbert_GA
+Georgia,GA,Emanuel,13107,Republican,Donald_Trump,1489,0.502,Emanuel_GA
+Georgia,GA,Evans,13109,Republican,Donald_Trump,481,0.38,Evans_GA
+Georgia,GA,Fannin,13111,Republican,Donald_Trump,3001,0.532,Fannin_GA
+Georgia,GA,Fayette,13113,Republican,Donald_Trump,8055,0.327,Fayette_GA
+Georgia,GA,Floyd,13115,Republican,Donald_Trump,5945,0.422,Floyd_GA
+Georgia,GA,Fulton,13121,Republican,Marco_Rubio,35052,0.416,Fulton_GA
+Georgia,GA,Gilmer,13123,Republican,Donald_Trump,3314,0.516,Gilmer_GA
+Georgia,GA,Glascock,13125,Republican,Donald_Trump,405,0.586,Glascock_GA
+Georgia,GA,Glynn,13127,Republican,Donald_Trump,5516,0.438,Glynn_GA
+Georgia,GA,Gordon,13129,Republican,Donald_Trump,4339,0.506,Gordon_GA
+Georgia,GA,Gwinnett,13135,Republican,Donald_Trump,32014,0.325,Gwinnett_GA
+Georgia,GA,Habersham,13137,Republican,Donald_Trump,3289,0.418,Habersham_GA
+Georgia,GA,Hall,13139,Republican,Donald_Trump,12536,0.385,Hall_GA
+Georgia,GA,Haralson,13143,Republican,Donald_Trump,2818,0.495,Haralson_GA
+Georgia,GA,Hart,13147,Republican,Donald_Trump,1858,0.442,Hart_GA
+Georgia,GA,Heard,13149,Republican,Donald_Trump,1068,0.552,Heard_GA
+Georgia,GA,Henry,13151,Republican,Donald_Trump,11330,0.402,Henry_GA
+Georgia,GA,Irwin,13155,Republican,Donald_Trump,869,0.574,Irwin_GA
+Georgia,GA,Jeff Davis,13161,Republican,Donald_Trump,1071,0.469,Jeff Davis_GA
+Georgia,GA,Jenkins,13165,Republican,Donald_Trump,513,0.518,Jenkins_GA
+Georgia,GA,Lanier,13173,Republican,Donald_Trump,512,0.569,Lanier_GA
+Georgia,GA,Long,13183,Republican,Donald_Trump,633,0.553,Long_GA
+Georgia,GA,Lowndes,13185,Republican,Donald_Trump,5194,0.442,Lowndes_GA
+Georgia,GA,Lumpkin,13187,Republican,Donald_Trump,2453,0.416,Lumpkin_GA
+Georgia,GA,McDuffie,13189,Republican,Donald_Trump,1288,0.407,McDuffie_GA
+Georgia,GA,McIntosh,13191,Republican,Donald_Trump,1078,0.54,McIntosh_GA
+Georgia,GA,Meriwether,13199,Republican,Donald_Trump,1435,0.481,Meriwether_GA
+Georgia,GA,Murray,13213,Republican,Donald_Trump,3084,0.572,Murray_GA
+Georgia,GA,Muscogee,13215,Republican,Donald_Trump,5325,0.344,Muscogee_GA
+Georgia,GA,Oglethorpe,13221,Republican,Donald_Trump,1230,0.439,Oglethorpe_GA
+Georgia,GA,Paulding,13223,Republican,Donald_Trump,10002,0.414,Paulding_GA
+Georgia,GA,Peach,13225,Republican,Donald_Trump,1325,0.434,Peach_GA
+Georgia,GA,Pierce,13229,Republican,Donald_Trump,1345,0.404,Pierce_GA
+Georgia,GA,Rabun,13241,Republican,Donald_Trump,1732,0.459,Rabun_GA
+Georgia,GA,Richmond,13245,Republican,Donald_Trump,5543,0.368,Richmond_GA
+Georgia,GA,Rockdale,13247,Republican,Donald_Trump,3785,0.41,Rockdale_GA
+Georgia,GA,Schley,13249,Republican,Donald_Trump,331,0.428,Schley_GA
+Georgia,GA,Screven,13251,Republican,Donald_Trump,801,0.458,Screven_GA
+Georgia,GA,Spalding,13255,Republican,Donald_Trump,4257,0.427,Spalding_GA
+Georgia,GA,Talbot,13263,Republican,Donald_Trump,368,0.535,Talbot_GA
+Georgia,GA,Taliaferro,13265,Republican,Donald_Trump,102,0.518,Taliaferro_GA
+Georgia,GA,Tattnall,13267,Republican,Donald_Trump,1089,0.426,Tattnall_GA
+Georgia,GA,Telfair,13271,Republican,Donald_Trump,626,0.515,Telfair_GA
+Georgia,GA,Terrell,13273,Republican,Donald_Trump,649,0.559,Terrell_GA
+Georgia,GA,Thomas,13275,Republican,Donald_Trump,2649,0.4,Thomas_GA
+Georgia,GA,Tift,13277,Republican,Donald_Trump,2697,0.478,Tift_GA
+Georgia,GA,Toombs,13279,Republican,Donald_Trump,1513,0.417,Toombs_GA
+Georgia,GA,Towns,13281,Republican,Donald_Trump,1356,0.46,Towns_GA
+Georgia,GA,Treutlen,13283,Republican,Donald_Trump,437,0.542,Treutlen_GA
+Georgia,GA,Troup,13285,Republican,Donald_Trump,4140,0.434,Troup_GA
+Georgia,GA,Turner,13287,Republican,Donald_Trump,652,0.569,Turner_GA
+Georgia,GA,Twiggs,13289,Republican,Donald_Trump,594,0.551,Twiggs_GA
+Georgia,GA,Upson,13293,Republican,Donald_Trump,1910,0.487,Upson_GA
+Georgia,GA,Walton,13297,Republican,Donald_Trump,7910,0.416,Walton_GA
+Georgia,GA,Ware,13299,Republican,Donald_Trump,1998,0.434,Ware_GA
+Georgia,GA,Whitfield,13313,Republican,Donald_Trump,5945,0.466,Whitfield_GA
+Georgia,GA,Wilcox,13315,Republican,Donald_Trump,602,0.552,Wilcox_GA
+Georgia,GA,Wilkinson,13319,Republican,Donald_Trump,611,0.476,Wilkinson_GA
+Georgia,GA,Worth,13321,Republican,Donald_Trump,1890,0.552,Worth_GA
+Idaho,ID,Ada,16001,Republican,Ted_Cruz,20156,0.403,Ada_ID
+Idaho,ID,Bannock,16005,Republican,Ted_Cruz,4404,0.495,Bannock_ID
+Idaho,ID,Bear Lake,16007,Republican,Ted_Cruz,643,0.427,Bear Lake_ID
+Idaho,ID,Benewah,16009,Republican,Ted_Cruz,671,0.514,Benewah_ID
+Idaho,ID,Bingham,16011,Republican,Ted_Cruz,3471,0.497,Bingham_ID
+Idaho,ID,Blaine,16013,Republican,Donald_Trump,543,0.347,Blaine_ID
+Idaho,ID,Boise,16015,Republican,Donald_Trump,691,0.429,Boise_ID
+Idaho,ID,Bonner,16017,Republican,Ted_Cruz,3132,0.457,Bonner_ID
+Idaho,ID,Bonneville,16019,Republican,Ted_Cruz,7794,0.461,Bonneville_ID
+Idaho,ID,Boundary,16021,Republican,Ted_Cruz,901,0.453,Boundary_ID
+Idaho,ID,Butte,16023,Republican,Ted_Cruz,275,0.479,Butte_ID
+Idaho,ID,Camas,16025,Republican,Donald_Trump,130,0.418,Camas_ID
+Idaho,ID,Canyon,16027,Republican,Ted_Cruz,11164,0.474,Canyon_ID
+Idaho,ID,Caribou,16029,Republican,Ted_Cruz,602,0.445,Caribou_ID
+Idaho,ID,Cassia,16031,Republican,Ted_Cruz,2095,0.47,Cassia_ID
+Idaho,ID,Clearwater,16035,Republican,Donald_Trump,629,0.449,Clearwater_ID
+Idaho,ID,Fremont,16043,Republican,Ted_Cruz,1434,0.518,Fremont_ID
+Idaho,ID,Gem,16045,Republican,Ted_Cruz,1391,0.432,Gem_ID
+Idaho,ID,Gooding,16047,Republican,Ted_Cruz,863,0.444,Gooding_ID
+Idaho,ID,Jerome,16053,Republican,Ted_Cruz,1164,0.485,Jerome_ID
+Idaho,ID,Kootenai,16055,Republican,Ted_Cruz,11924,0.532,Kootenai_ID
+Idaho,ID,Latah,16057,Republican,Ted_Cruz,2134,0.535,Latah_ID
+Idaho,ID,Lemhi,16059,Republican,Donald_Trump,757,0.383,Lemhi_ID
+Idaho,ID,Minidoka,16067,Republican,Ted_Cruz,1163,0.465,Minidoka_ID
+Idaho,ID,Nez Perce,16069,Republican,Ted_Cruz,1583,0.401,Nez Perce_ID
+Idaho,ID,Oneida,16071,Republican,Ted_Cruz,473,0.599,Oneida_ID
+Idaho,ID,Owyhee,16073,Republican,Ted_Cruz,717,0.43,Owyhee_ID
+Idaho,ID,Payette,16075,Republican,Ted_Cruz,1364,0.406,Payette_ID
+Idaho,ID,Power,16077,Republican,Ted_Cruz,421,0.479,Power_ID
+Idaho,ID,Shoshone,16079,Republican,Donald_Trump,632,0.415,Shoshone_ID
+Idaho,ID,Teton,16081,Republican,Ted_Cruz,465,0.452,Teton_ID
+Idaho,ID,Twin Falls,16083,Republican,Ted_Cruz,4717,0.49,Twin Falls_ID
+Idaho,ID,Valley,16085,Republican,Donald_Trump,575,0.388,Valley_ID
+Illinois,IL,Adams,17001,Republican,Donald_Trump,5233,0.407,Adams_IL
+Illinois,IL,Bond,17005,Republican,Donald_Trump,1102,0.412,Bond_IL
+Illinois,IL,Bureau,17011,Republican,Donald_Trump,2185,0.395,Bureau_IL
+Illinois,IL,Champaign,17019,Republican,Ted_Cruz,9617,0.369,Champaign_IL
+Illinois,IL,Coles,17029,Republican,Donald_Trump,3156,0.372,Coles_IL
+Illinois,IL,Edgar,17045,Republican,Donald_Trump,1562,0.422,Edgar_IL
+Illinois,IL,Edwards,17047,Republican,Donald_Trump,867,0.448,Edwards_IL
+Illinois,IL,Ford,17053,Republican,Ted_Cruz,1281,0.378,Ford_IL
+Illinois,IL,Gallatin,17059,Republican,Donald_Trump,310,0.548,Gallatin_IL
+Illinois,IL,Grundy,17063,Republican,Donald_Trump,3625,0.469,Grundy_IL
+Illinois,IL,Iroquois,17075,Republican,Donald_Trump,2836,0.426,Iroquois_IL
+Illinois,IL,Jersey,17083,Republican,Donald_Trump,1902,0.476,Jersey_IL
+Illinois,IL,Kane,17089,Republican,Donald_Trump,21605,0.36,Kane_IL
+Illinois,IL,Kankakee,17091,Republican,Donald_Trump,6403,0.427,Kankakee_IL
+Illinois,IL,Kendall,17093,Republican,Donald_Trump,6721,0.399,Kendall_IL
+Illinois,IL,Lake,17097,Republican,Donald_Trump,30697,0.361,Lake_IL
+Illinois,IL,Macon,17115,Republican,Donald_Trump,6655,0.403,Macon_IL
+Illinois,IL,Macoupin,17117,Republican,Donald_Trump,3527,0.478,Macoupin_IL
+Illinois,IL,Massac,17127,Republican,Donald_Trump,1341,0.444,Massac_IL
+Illinois,IL,McDonough,17109,Republican,Donald_Trump,1599,0.366,McDonough_IL
+Illinois,IL,McHenry,17111,Republican,Donald_Trump,16514,0.409,McHenry_IL
+Illinois,IL,McLean,17113,Republican,Ted_Cruz,13085,0.416,McLean_IL
+Illinois,IL,Menard,17129,Republican,Ted_Cruz,1064,0.378,Menard_IL
+Illinois,IL,Moultrie,17139,Republican,Ted_Cruz,1321,0.489,Moultrie_IL
+Illinois,IL,Ogle,17141,Republican,Ted_Cruz,4307,0.386,Ogle_IL
+Illinois,IL,Peoria,17143,Republican,Ted_Cruz,10278,0.406,Peoria_IL
+Illinois,IL,Piatt,17147,Republican,Ted_Cruz,1855,0.399,Piatt_IL
+Illinois,IL,Rock Island,17161,Republican,Donald_Trump,5173,0.361,Rock Island_IL
+Illinois,IL,Sangamon,17167,Republican,Ted_Cruz,12261,0.348,Sangamon_IL
+Illinois,IL,Schuyler,17169,Republican,Donald_Trump,697,0.444,Schuyler_IL
+Illinois,IL,Stephenson,17177,Republican,Ted_Cruz,3038,0.358,Stephenson_IL
+Illinois,IL,Tazewell,17179,Republican,Ted_Cruz,12085,0.446,Tazewell_IL
+Illinois,IL,Vermilion,17183,Republican,Donald_Trump,5021,0.446,Vermilion_IL
+Illinois,IL,Wabash,17185,Republican,Donald_Trump,977,0.424,Wabash_IL
+Illinois,IL,Whiteside,17195,Republican,Donald_Trump,2466,0.356,Whiteside_IL
+Illinois,IL,Will,17197,Republican,Donald_Trump,38507,0.464,Will_IL
+Illinois,IL,Winnebago,17201,Republican,Ted_Cruz,15457,0.405,Winnebago_IL
+Illinois,IL,Woodford,17203,Republican,Ted_Cruz,5091,0.482,Woodford_IL
+Iowa,IA,Allamakee,19005,Republican,Donald_Trump,193,0.281,Allamakee_IA
+Iowa,IA,Appanoose,19007,Republican,Donald_Trump,292,0.348,Appanoose_IA
+Iowa,IA,Audubon,19009,Republican,Ted_Cruz,135,0.361,Audubon_IA
+Iowa,IA,Black Hawk,19013,Republican,Ted_Cruz,1585,0.268,Black Hawk_IA
+Iowa,IA,Bremer,19017,Republican,Ted_Cruz,408,0.274,Bremer_IA
+Iowa,IA,Buena Vista,19021,Republican,Ted_Cruz,309,0.306,Buena Vista_IA
+Iowa,IA,Cerro Gordo,19033,Republican,Ted_Cruz,655,0.282,Cerro Gordo_IA
+Iowa,IA,Des Moines,19057,Republican,Donald_Trump,659,0.304,Des Moines_IA
+Iowa,IA,Dubuque,19061,Republican,Donald_Trump,1087,0.273,Dubuque_IA
+Iowa,IA,Guthrie,19077,Republican,Ted_Cruz,218,0.289,Guthrie_IA
+Iowa,IA,Ida,19093,Republican,Donald_Trump,136,0.258,Ida_IA
+Iowa,IA,Iowa,19095,Republican,Ted_Cruz,353,0.342,Iowa_IA
+Iowa,IA,Keokuk,19107,Republican,Donald_Trump,220,0.313,Keokuk_IA
+Iowa,IA,Kossuth,19109,Republican,Ted_Cruz,285,0.301,Kossuth_IA
+Iowa,IA,Linn,19113,Republican,Ted_Cruz,3422,0.294,Linn_IA
+Iowa,IA,Mahaska,19123,Republican,Ted_Cruz,669,0.341,Mahaska_IA
+Iowa,IA,Monona,19133,Republican,Ted_Cruz,185,0.361,Monona_IA
+Iowa,IA,Muscatine,19139,Republican,Donald_Trump,720,0.298,Muscatine_IA
+Iowa,IA,Palo Alto,19147,Republican,Donald_Trump,117,0.271,Palo Alto_IA
+Iowa,IA,Pocahontas,19151,Republican,Ted_Cruz,187,0.387,Pocahontas_IA
+Iowa,IA,Pottawattamie,19155,Republican,Donald_Trump,1508,0.345,Pottawattamie_IA
+Iowa,IA,Poweshiek,19157,Republican,Ted_Cruz,282,0.287,Poweshiek_IA
+Iowa,IA,Ringgold,19159,Republican,Donald_Trump,106,0.319,Ringgold_IA
+Iowa,IA,Sac,19161,Republican,Donald_Trump,212,0.317,Sac_IA
+Iowa,IA,Sioux,19167,Republican,Ted_Cruz,1524,0.332,Sioux_IA
+Iowa,IA,Story,19169,Republican,Marco_Rubio,2415,0.321,Story_IA
+Iowa,IA,Tama,19171,Republican,Donald_Trump,350,0.356,Tama_IA
+Iowa,IA,Wapello,19179,Republican,Donald_Trump,592,0.355,Wapello_IA
+Iowa,IA,Winneshiek,19191,Republican,Donald_Trump,274,0.262,Winneshiek_IA
+Iowa,IA,Woodbury,19193,Republican,Donald_Trump,1600,0.317,Woodbury_IA
+Kentucky,KY,Adair,21001,Republican,Donald_Trump,1512,0.578,Adair_KY
+Kentucky,KY,Ballard,21007,Republican,Ted_Cruz,164,0.514,Ballard_KY
+Kentucky,KY,Barren,21009,Republican,Donald_Trump,848,0.367,Barren_KY
+Kentucky,KY,Bourbon,21017,Republican,Ted_Cruz,257,0.32,Bourbon_KY
+Kentucky,KY,Boyd,21019,Republican,Donald_Trump,674,0.35,Boyd_KY
+Kentucky,KY,Boyle,21021,Republican,Donald_Trump,560,0.319,Boyle_KY
+Kentucky,KY,Bracken,21023,Republican,Ted_Cruz,117,0.437,Bracken_KY
+Kentucky,KY,Breathitt,21025,Republican,Ted_Cruz,81,0.494,Breathitt_KY
+Kentucky,KY,Breckinridge,21027,Republican,Donald_Trump,489,0.384,Breckinridge_KY
+Kentucky,KY,Bullitt,21029,Republican,Donald_Trump,1770,0.403,Bullitt_KY
+Kentucky,KY,Calloway,21035,Republican,Ted_Cruz,607,0.373,Calloway_KY
+Kentucky,KY,Carlisle,21039,Republican,Ted_Cruz,124,0.617,Carlisle_KY
+Kentucky,KY,Casey,21045,Republican,Donald_Trump,1029,0.533,Casey_KY
+Kentucky,KY,Daviess,21059,Republican,Ted_Cruz,1739,0.369,Daviess_KY
+Kentucky,KY,Edmonson,21061,Republican,Donald_Trump,531,0.53,Edmonson_KY
+Kentucky,KY,Elliott,21063,Republican,Donald_Trump,17,0.436,Elliott_KY
+Kentucky,KY,Estill,21065,Republican,Donald_Trump,313,0.48,Estill_KY
+Kentucky,KY,Fleming,21069,Republican,Donald_Trump,329,0.423,Fleming_KY
+Kentucky,KY,Garrard,21079,Republican,Donald_Trump,581,0.425,Garrard_KY
+Kentucky,KY,Graves,21083,Republican,Ted_Cruz,671,0.496,Graves_KY
+Kentucky,KY,Green,21087,Republican,Donald_Trump,655,0.486,Green_KY
+Kentucky,KY,Greenup,21089,Republican,Ted_Cruz,550,0.369,Greenup_KY
+Kentucky,KY,Harlan,21095,Republican,Donald_Trump,189,0.413,Harlan_KY
+Kentucky,KY,Jessamine,21113,Republican,Ted_Cruz,1566,0.39,Jessamine_KY
+Kentucky,KY,Kenton,21117,Republican,Ted_Cruz,2475,0.334,Kenton_KY
+Kentucky,KY,Knott,21119,Republican,Donald_Trump,37,0.411,Knott_KY
+Kentucky,KY,LaRue,21123,Republican,Ted_Cruz,275,0.374,LaRue_KY
+Kentucky,KY,Laurel,21125,Republican,Donald_Trump,2313,0.468,Laurel_KY
+Kentucky,KY,Leslie,21131,Republican,Donald_Trump,503,0.485,Leslie_KY
+Kentucky,KY,Letcher,21133,Republican,Donald_Trump,410,0.574,Letcher_KY
+Kentucky,KY,Magoffin,21153,Republican,Donald_Trump,300,0.578,Magoffin_KY
+Kentucky,KY,McCracken,21145,Republican,Ted_Cruz,1525,0.43,McCracken_KY
+Kentucky,KY,McCreary,21147,Republican,Donald_Trump,725,0.54,McCreary_KY
+Kentucky,KY,Meade,21163,Republican,Donald_Trump,618,0.451,Meade_KY
+Kentucky,KY,Menifee,21165,Republican,Donald_Trump,96,0.449,Menifee_KY
+Kentucky,KY,Metcalfe,21169,Republican,Donald_Trump,310,0.434,Metcalfe_KY
+Kentucky,KY,Muhlenberg,21177,Republican,Donald_Trump,338,0.374,Muhlenberg_KY
+Kentucky,KY,Nicholas,21181,Republican,Donald_Trump,59,0.407,Nicholas_KY
+Kentucky,KY,Ohio,21183,Republican,Donald_Trump,663,0.402,Ohio_KY
+Kentucky,KY,Oldham,21185,Republican,Ted_Cruz,2011,0.321,Oldham_KY
+Kentucky,KY,Owen,21187,Republican,Ted_Cruz,198,0.391,Owen_KY
+Kentucky,KY,Owsley,21189,Republican,Donald_Trump,168,0.625,Owsley_KY
+Kentucky,KY,Pendleton,21191,Republican,Donald_Trump,271,0.378,Pendleton_KY
+Kentucky,KY,Powell,21197,Republican,Donald_Trump,259,0.519,Powell_KY
+Kentucky,KY,Rockcastle,21203,Republican,Donald_Trump,743,0.45,Rockcastle_KY
+Kentucky,KY,Spencer,21215,Republican,Ted_Cruz,663,0.396,Spencer_KY
+Kentucky,KY,Todd,21219,Republican,Donald_Trump,109,0.401,Todd_KY
+Kentucky,KY,Trigg,21221,Republican,Donald_Trump,376,0.403,Trigg_KY
+Kentucky,KY,Trimble,21223,Republican,Ted_Cruz,94,0.448,Trimble_KY
+Kentucky,KY,Whitley,21235,Republican,Donald_Trump,1556,0.473,Whitley_KY
+Kentucky,KY,Wolfe,21237,Republican,Donald_Trump,39,0.406,Wolfe_KY
+Louisiana,LA,Acadia,22001,Republican,Donald_Trump,1694,0.445,Acadia_LA
+Louisiana,LA,Ascension,22005,Republican,Ted_Cruz,3558,0.423,Ascension_LA
+Louisiana,LA,Assumption,22007,Republican,Donald_Trump,368,0.493,Assumption_LA
+Louisiana,LA,Avoyelles,22009,Republican,Donald_Trump,885,0.567,Avoyelles_LA
+Louisiana,LA,Beauregard,22011,Republican,Ted_Cruz,1363,0.463,Beauregard_LA
+Louisiana,LA,Bienville,22013,Republican,Ted_Cruz,476,0.474,Bienville_LA
+Louisiana,LA,Bossier,22015,Republican,Ted_Cruz,4988,0.454,Bossier_LA
+Louisiana,LA,Caddo,22017,Republican,Ted_Cruz,7141,0.439,Caddo_LA
+Louisiana,LA,Calcasieu,22019,Republican,Ted_Cruz,5491,0.452,Calcasieu_LA
+Louisiana,LA,Catahoula,22025,Republican,Donald_Trump,289,0.457,Catahoula_LA
+Louisiana,LA,Concordia,22029,Republican,Donald_Trump,733,0.487,Concordia_LA
+Louisiana,LA,East Baton Rouge,22033,Republican,Ted_Cruz,12358,0.413,East Baton Rouge_LA
+Louisiana,LA,East Carroll,22035,Republican,Donald_Trump,128,0.5,East Carroll_LA
+Louisiana,LA,East Feliciana,22037,Republican,Donald_Trump,706,0.437,East Feliciana_LA
+Louisiana,LA,Evangeline,22039,Republican,Donald_Trump,730,0.472,Evangeline_LA
+Louisiana,LA,Iberia,22045,Republican,Donald_Trump,2157,0.444,Iberia_LA
+Louisiana,LA,Iberville,22047,Republican,Donald_Trump,830,0.491,Iberville_LA
+Louisiana,LA,Lafayette,22055,Republican,Donald_Trump,7171,0.407,Lafayette_LA
+Louisiana,LA,Lafourche,22057,Republican,Donald_Trump,2725,0.468,Lafourche_LA
+Louisiana,LA,Morehouse,22067,Republican,Donald_Trump,775,0.478,Morehouse_LA
+Louisiana,LA,Natchitoches,22069,Republican,Donald_Trump,1065,0.385,Natchitoches_LA
+Louisiana,LA,Orleans,22071,Republican,Donald_Trump,2821,0.314,Orleans_LA
+Louisiana,LA,Ouachita,22073,Republican,Ted_Cruz,4872,0.395,Ouachita_LA
+Louisiana,LA,Plaquemines,22075,Republican,Donald_Trump,705,0.537,Plaquemines_LA
+Louisiana,LA,Pointe Coupee,22077,Republican,Donald_Trump,472,0.447,Pointe Coupee_LA
+Louisiana,LA,Rapides,22079,Republican,Ted_Cruz,3680,0.422,Rapides_LA
+Louisiana,LA,Tangipahoa,22105,Republican,Donald_Trump,3751,0.481,Tangipahoa_LA
+Louisiana,LA,Tensas,22107,Republican,Donald_Trump,119,0.425,Tensas_LA
+Louisiana,LA,Terrebonne,22109,Republican,Donald_Trump,3454,0.502,Terrebonne_LA
+Louisiana,LA,West Baton Rouge,22121,Republican,Donald_Trump,701,0.45,West Baton Rouge_LA
+Louisiana,LA,West Carroll,22123,Republican,Ted_Cruz,342,0.431,West Carroll_LA
+Louisiana,LA,West Feliciana,22125,Republican,Donald_Trump,382,0.418,West Feliciana_LA
+Louisiana,LA,Winn,22127,Republican,Donald_Trump,397,0.429,Winn_LA
+Massachusetts,MA,Barnstable,25001,Republican,Donald_Trump,3750,0.542,Barnstable_MA
+Massachusetts,MA,Hampden,25013,Republican,Donald_Trump,437,0.492,Hampden_MA
+Massachusetts,MA,Nantucket,25019,Republican,Donald_Trump,484,0.494,Nantucket_MA
+Massachusetts,MA,Plymouth,25023,Republican,Donald_Trump,4292,0.526,Plymouth_MA
+Massachusetts,MA,Worcester,25027,Republican,Donald_Trump,4266,0.49,Worcester_MA
+Michigan,MI,Alcona,26001,Republican,Donald_Trump,1111,0.518,Alcona_MI
+Michigan,MI,Alger,26003,Republican,Donald_Trump,517,0.407,Alger_MI
+Michigan,MI,Allegan,26005,Republican,Ted_Cruz,7530,0.369,Allegan_MI
+Michigan,MI,Alpena,26007,Republican,Donald_Trump,1885,0.441,Alpena_MI
+Michigan,MI,Antrim,26009,Republican,Donald_Trump,1969,0.404,Antrim_MI
+Michigan,MI,Arenac,26011,Republican,Donald_Trump,1141,0.513,Arenac_MI
+Michigan,MI,Baraga,26013,Republican,Donald_Trump,468,0.444,Baraga_MI
+Michigan,MI,Barry,26015,Republican,Donald_Trump,3478,0.329,Barry_MI
+Michigan,MI,Benzie,26019,Republican,Donald_Trump,1278,0.406,Benzie_MI
+Michigan,MI,Berrien,26021,Republican,Donald_Trump,7817,0.356,Berrien_MI
+Michigan,MI,Branch,26023,Republican,Donald_Trump,2455,0.405,Branch_MI
+Michigan,MI,Charlevoix,26029,Republican,Donald_Trump,1886,0.379,Charlevoix_MI
+Michigan,MI,Cheboygan,26031,Republican,Donald_Trump,2089,0.461,Cheboygan_MI
+Michigan,MI,Chippewa,26033,Republican,Donald_Trump,1959,0.402,Chippewa_MI
+Michigan,MI,Clare,26035,Republican,Donald_Trump,1996,0.471,Clare_MI
+Michigan,MI,Delta,26041,Republican,Donald_Trump,1954,0.396,Delta_MI
+Michigan,MI,Dickinson,26043,Republican,Donald_Trump,1708,0.39,Dickinson_MI
+Michigan,MI,Eaton,26045,Republican,Donald_Trump,5386,0.344,Eaton_MI
+Michigan,MI,Emmet,26047,Republican,Donald_Trump,2244,0.352,Emmet_MI
+Michigan,MI,Genesee,26049,Republican,Donald_Trump,16756,0.418,Genesee_MI
+Michigan,MI,Gladwin,26051,Republican,Donald_Trump,1774,0.455,Gladwin_MI
+Michigan,MI,Gogebic,26053,Republican,Donald_Trump,753,0.438,Gogebic_MI
+Michigan,MI,Grand Traverse,26055,Republican,Donald_Trump,5891,0.338,Grand Traverse_MI
+Michigan,MI,Gratiot,26057,Republican,Donald_Trump,1799,0.375,Gratiot_MI
+Michigan,MI,Hillsdale,26059,Republican,Donald_Trump,3060,0.411,Hillsdale_MI
+Michigan,MI,Houghton,26061,Republican,Ted_Cruz,1497,0.339,Houghton_MI
+Michigan,MI,Ingham,26065,Republican,Donald_Trump,8056,0.292,Ingham_MI
+Michigan,MI,Ionia,26067,Republican,Donald_Trump,2676,0.327,Ionia_MI
+Michigan,MI,Iosco,26069,Republican,Donald_Trump,1973,0.523,Iosco_MI
+Michigan,MI,Isabella,26073,Republican,Donald_Trump,2180,0.353,Isabella_MI
+Michigan,MI,Kalamazoo,26077,Republican,John_Kasich,9104,0.281,Kalamazoo_MI
+Michigan,MI,Kalkaska,26079,Republican,Donald_Trump,1724,0.503,Kalkaska_MI
+Michigan,MI,Kent,26081,Republican,Ted_Cruz,35185,0.357,Kent_MI
+Michigan,MI,Keweenaw,26083,Republican,Donald_Trump,184,0.423,Keweenaw_MI
+Michigan,MI,Lapeer,26087,Republican,Donald_Trump,7446,0.456,Lapeer_MI
+Michigan,MI,Leelanau,26089,Republican,Donald_Trump,1613,0.334,Leelanau_MI
+Michigan,MI,Lenawee,26091,Republican,Donald_Trump,5167,0.359,Lenawee_MI
+Michigan,MI,Livingston,26093,Republican,Donald_Trump,15359,0.393,Livingston_MI
+Michigan,MI,Luce,26095,Republican,Donald_Trump,407,0.437,Luce_MI
+Michigan,MI,Mackinac,26097,Republican,Donald_Trump,856,0.432,Mackinac_MI
+Michigan,MI,Macomb,26099,Republican,Donald_Trump,60492,0.484,Macomb_MI
+Michigan,MI,Manistee,26101,Republican,Donald_Trump,1552,0.416,Manistee_MI
+Michigan,MI,Marquette,26103,Republican,Donald_Trump,2524,0.329,Marquette_MI
+Michigan,MI,Mason,26105,Republican,Donald_Trump,1785,0.356,Mason_MI
+Michigan,MI,Mecosta,26107,Republican,Donald_Trump,2113,0.369,Mecosta_MI
+Michigan,MI,Menominee,26109,Republican,Donald_Trump,1304,0.457,Menominee_MI
+Michigan,MI,Missaukee,26113,Republican,Donald_Trump,1221,0.393,Missaukee_MI
+Michigan,MI,Monroe,26115,Republican,Donald_Trump,8802,0.404,Monroe_MI
+Michigan,MI,Montcalm,26117,Republican,Donald_Trump,3051,0.351,Montcalm_MI
+Michigan,MI,Montmorency,26119,Republican,Donald_Trump,1046,0.51,Montmorency_MI
+Michigan,MI,Muskegon,26121,Republican,Ted_Cruz,6478,0.345,Muskegon_MI
+Michigan,MI,Newaygo,26123,Republican,Ted_Cruz,3557,0.409,Newaygo_MI
+Michigan,MI,Oakland,26125,Republican,Donald_Trump,69399,0.362,Oakland_MI
+Michigan,MI,Oceana,26127,Republican,Ted_Cruz,1698,0.377,Oceana_MI
+Michigan,MI,Ogemaw,26129,Republican,Donald_Trump,1612,0.505,Ogemaw_MI
+Michigan,MI,Ontonagon,26131,Republican,Donald_Trump,519,0.475,Ontonagon_MI
+Michigan,MI,Oscoda,26135,Republican,Donald_Trump,705,0.472,Oscoda_MI
+Michigan,MI,Otsego,26137,Republican,Donald_Trump,1933,0.45,Otsego_MI
+Michigan,MI,Ottawa,26139,Republican,Ted_Cruz,23862,0.398,Ottawa_MI
+Michigan,MI,Presque Isle,26141,Republican,Donald_Trump,916,0.423,Presque Isle_MI
+Michigan,MI,Roscommon,26143,Republican,Donald_Trump,2257,0.5,Roscommon_MI
+Michigan,MI,Saginaw,26145,Republican,Donald_Trump,9106,0.392,Saginaw_MI
+Michigan,MI,Sanilac,26151,Republican,Donald_Trump,3279,0.447,Sanilac_MI
+Michigan,MI,Schoolcraft,26153,Republican,Donald_Trump,529,0.474,Schoolcraft_MI
+Michigan,MI,Shiawassee,26155,Republican,Donald_Trump,3864,0.387,Shiawassee_MI
+Michigan,MI,Tuscola,26157,Republican,Donald_Trump,3750,0.424,Tuscola_MI
+Michigan,MI,Van Buren,26159,Republican,Donald_Trump,3287,0.351,Van Buren_MI
+Michigan,MI,Washtenaw,26161,Republican,John_Kasich,12643,0.341,Washtenaw_MI
+Michigan,MI,Wayne,26163,Republican,Donald_Trump,55795,0.405,Wayne_MI
+Michigan,MI,Wexford,26165,Republican,Donald_Trump,2578,0.443,Wexford_MI
+Mississippi,MS,Alcorn,28003,Republican,Donald_Trump,2901,0.504,Alcorn_MS
+Mississippi,MS,Amite,28005,Republican,Donald_Trump,1178,0.52,Amite_MS
+Mississippi,MS,Attala,28007,Republican,Donald_Trump,1350,0.509,Attala_MS
+Mississippi,MS,Bolivar,28011,Republican,Donald_Trump,1395,0.534,Bolivar_MS
+Mississippi,MS,Chickasaw,28017,Republican,Donald_Trump,1056,0.516,Chickasaw_MS
+Mississippi,MS,Coahoma,28027,Republican,Donald_Trump,598,0.541,Coahoma_MS
+Mississippi,MS,Copiah,28029,Republican,Donald_Trump,2026,0.549,Copiah_MS
+Mississippi,MS,Forrest,28035,Republican,Donald_Trump,4267,0.434,Forrest_MS
+Mississippi,MS,George,28039,Republican,Donald_Trump,2245,0.482,George_MS
+Mississippi,MS,Grenada,28043,Republican,Donald_Trump,1727,0.556,Grenada_MS
+Mississippi,MS,Harrison,28047,Republican,Donald_Trump,12555,0.507,Harrison_MS
+Mississippi,MS,Hinds,28049,Republican,Donald_Trump,6976,0.396,Hinds_MS
+Mississippi,MS,Issaquena,28055,Republican,Donald_Trump,117,0.688,Issaquena_MS
+Mississippi,MS,Itawamba,28057,Republican,Donald_Trump,1905,0.455,Itawamba_MS
+Mississippi,MS,Jones,28067,Republican,Donald_Trump,6388,0.531,Jones_MS
+Mississippi,MS,Kemper,28069,Republican,Donald_Trump,484,0.52,Kemper_MS
+Mississippi,MS,Lamar,28073,Republican,Donald_Trump,5197,0.456,Lamar_MS
+Mississippi,MS,Leake,28079,Republican,Donald_Trump,1413,0.52,Leake_MS
+Mississippi,MS,Leflore,28083,Republican,Donald_Trump,766,0.485,Leflore_MS
+Mississippi,MS,Neshoba,28099,Republican,Donald_Trump,2249,0.498,Neshoba_MS
+Mississippi,MS,Noxubee,28103,Republican,Ted_Cruz,282,0.476,Noxubee_MS
+Mississippi,MS,Oktibbeha,28105,Republican,Ted_Cruz,1937,0.393,Oktibbeha_MS
+Mississippi,MS,Pearl River,28109,Republican,Donald_Trump,4562,0.503,Pearl River_MS
+Mississippi,MS,Pontotoc,28115,Republican,Ted_Cruz,2498,0.449,Pontotoc_MS
+Mississippi,MS,Prentiss,28117,Republican,Donald_Trump,1597,0.47,Prentiss_MS
+Mississippi,MS,Quitman,28119,Republican,Donald_Trump,210,0.529,Quitman_MS
+Mississippi,MS,Rankin,28121,Republican,Donald_Trump,13729,0.469,Rankin_MS
+Mississippi,MS,Sharkey,28125,Republican,Donald_Trump,232,0.57,Sharkey_MS
+Mississippi,MS,Simpson,28127,Republican,Donald_Trump,2420,0.509,Simpson_MS
+Mississippi,MS,Sunflower,28133,Republican,Donald_Trump,897,0.611,Sunflower_MS
+Mississippi,MS,Tallahatchie,28135,Republican,Donald_Trump,769,0.636,Tallahatchie_MS
+Mississippi,MS,Tate,28137,Republican,Ted_Cruz,2034,0.477,Tate_MS
+Mississippi,MS,Tippah,28139,Republican,Donald_Trump,1951,0.489,Tippah_MS
+Mississippi,MS,Tishomingo,28141,Republican,Donald_Trump,1854,0.523,Tishomingo_MS
+Mississippi,MS,Tunica,28143,Republican,Donald_Trump,150,0.558,Tunica_MS
+Mississippi,MS,Walthall,28147,Republican,Donald_Trump,1143,0.578,Walthall_MS
+Mississippi,MS,Yalobusha,28161,Republican,Donald_Trump,1029,0.545,Yalobusha_MS
+Mississippi,MS,Yazoo,28163,Republican,Donald_Trump,1510,0.548,Yazoo_MS
+Missouri,MO,Andrew,29003,Republican,Donald_Trump,1457,0.417,Andrew_MO
+Missouri,MO,Atchison,29005,Republican,Donald_Trump,487,0.437,Atchison_MO
+Missouri,MO,Audrain,29007,Republican,Ted_Cruz,1642,0.408,Audrain_MO
+Missouri,MO,Barton,29011,Republican,Ted_Cruz,1560,0.539,Barton_MO
+Missouri,MO,Bates,29013,Republican,Donald_Trump,1306,0.46,Bates_MO
+Missouri,MO,Bollinger,29017,Republican,Donald_Trump,1272,0.476,Bollinger_MO
+Missouri,MO,Boone,29019,Republican,Ted_Cruz,11219,0.439,Boone_MO
+Missouri,MO,Buchanan,29021,Republican,Donald_Trump,4691,0.416,Buchanan_MO
+Missouri,MO,Callaway,29027,Republican,Ted_Cruz,3261,0.432,Callaway_MO
+Missouri,MO,Camden,29029,Republican,Donald_Trump,5467,0.549,Camden_MO
+Missouri,MO,Cape Girardeau,29031,Republican,Ted_Cruz,7332,0.466,Cape Girardeau_MO
+Missouri,MO,Cass,29037,Republican,Ted_Cruz,7671,0.434,Cass_MO
+Missouri,MO,Cedar,29039,Republican,Ted_Cruz,1404,0.445,Cedar_MO
+Missouri,MO,Chariton,29041,Republican,Donald_Trump,597,0.423,Chariton_MO
+Missouri,MO,Christian,29043,Republican,Ted_Cruz,10586,0.533,Christian_MO
+Missouri,MO,Cole,29051,Republican,Ted_Cruz,6159,0.418,Cole_MO
+Missouri,MO,Cooper,29053,Republican,Ted_Cruz,1369,0.445,Cooper_MO
+Missouri,MO,Dent,29065,Republican,Donald_Trump,1688,0.514,Dent_MO
+Missouri,MO,Dunklin,29069,Republican,Donald_Trump,1781,0.559,Dunklin_MO
+Missouri,MO,Gasconade,29073,Republican,Donald_Trump,1429,0.455,Gasconade_MO
+Missouri,MO,Gentry,29075,Republican,Donald_Trump,435,0.407,Gentry_MO
+Missouri,MO,Greene,29077,Republican,Ted_Cruz,26784,0.517,Greene_MO
+Missouri,MO,Hickory,29085,Republican,Donald_Trump,297,0.549,Hickory_MO
+Missouri,MO,Holt,29087,Republican,Donald_Trump,504,0.471,Holt_MO
+Missouri,MO,Howell,29091,Republican,Donald_Trump,4230,0.5,Howell_MO
+Missouri,MO,Jackson,29095,Republican,Ted_Cruz,28661,0.4,Jackson_MO
+Missouri,MO,Jasper,29097,Republican,Ted_Cruz,11113,0.537,Jasper_MO
+Missouri,MO,LaClede,29105,Republican,Donald_Trump,3493,0.455,LaClede_MO
+Missouri,MO,Maries,29125,Republican,Donald_Trump,958,0.503,Maries_MO
+Missouri,MO,McDonald,29119,Republican,Donald_Trump,1580,0.443,McDonald_MO
+Missouri,MO,Moniteau,29135,Republican,Ted_Cruz,1374,0.464,Moniteau_MO
+Missouri,MO,New Madrid,29143,Republican,Donald_Trump,1376,0.55,New Madrid_MO
+Missouri,MO,Newton,29145,Republican,Ted_Cruz,6452,0.526,Newton_MO
+Missouri,MO,Nodaway,29147,Republican,Donald_Trump,1268,0.371,Nodaway_MO
+Missouri,MO,Oregon,29149,Republican,Donald_Trump,941,0.517,Oregon_MO
+Missouri,MO,Ozark,29153,Republican,Donald_Trump,1099,0.502,Ozark_MO
+Missouri,MO,Pemiscot,29155,Republican,Donald_Trump,1155,0.571,Pemiscot_MO
+Missouri,MO,Pettis,29159,Republican,Donald_Trump,3343,0.453,Pettis_MO
+Missouri,MO,Phelps,29161,Republican,Donald_Trump,3425,0.453,Phelps_MO
+Missouri,MO,Platte,29165,Republican,Ted_Cruz,5798,0.392,Platte_MO
+Missouri,MO,Ralls,29173,Republican,Donald_Trump,961,0.468,Ralls_MO
+Missouri,MO,Ray,29177,Republican,Donald_Trump,1565,0.442,Ray_MO
+Missouri,MO,Reynolds,29179,Republican,Donald_Trump,647,0.587,Reynolds_MO
+Missouri,MO,Ripley,29181,Republican,Donald_Trump,1096,0.48,Ripley_MO
+Missouri,MO,Scott,29201,Republican,Donald_Trump,3373,0.496,Scott_MO
+Missouri,MO,Shannon,29203,Republican,Donald_Trump,808,0.532,Shannon_MO
+Missouri,MO,Stoddard,29207,Republican,Donald_Trump,3024,0.52,Stoddard_MO
+Missouri,MO,Stone,29209,Republican,Donald_Trump,3928,0.479,Stone_MO
+Missouri,MO,Taney,29213,Republican,Donald_Trump,5086,0.474,Taney_MO
+Missouri,MO,Texas,29215,Republican,Donald_Trump,2659,0.51,Texas_MO
+Missouri,MO,Vernon,29217,Republican,Donald_Trump,1530,0.483,Vernon_MO
+Missouri,MO,Webster,29225,Republican,Ted_Cruz,4124,0.513,Webster_MO
+Missouri,MO,Wright,29229,Republican,Donald_Trump,1874,0.462,Wright_MO
+Nevada,NV,Carson City,32510,Republican,Donald_Trump,1066,0.434,Carson City_NV
+Nevada,NV,Churchill,32001,Republican,Donald_Trump,538,0.399,Churchill_NV
+Nevada,NV,Clark,32003,Republican,Donald_Trump,20132,0.489,Clark_NV
+Nevada,NV,Elko,32007,Republican,Ted_Cruz,1039,0.438,Elko_NV
+Nevada,NV,Esmeralda,32009,Republican,Donald_Trump,46,0.622,Esmeralda_NV
+Nevada,NV,Eureka,32011,Republican,Donald_Trump,81,0.415,Eureka_NV
+Nevada,NV,Humboldt,32013,Republican,Donald_Trump,361,0.418,Humboldt_NV
+Nevada,NV,Lander,32015,Republican,Donald_Trump,165,0.398,Lander_NV
+Nevada,NV,Lyon,32019,Republican,Donald_Trump,1399,0.482,Lyon_NV
+Nevada,NV,Mineral,32021,Republican,Donald_Trump,97,0.508,Mineral_NV
+Nevada,NV,Nye,32023,Republican,Donald_Trump,980,0.565,Nye_NV
+Nevada,NV,Pershing,32027,Republican,Donald_Trump,118,0.407,Pershing_NV
+Nevada,NV,Storey,32029,Republican,Donald_Trump,161,0.429,Storey_NV
+Nevada,NV,Washoe,32031,Republican,Donald_Trump,6850,0.441,Washoe_NV
+Nevada,NV,White Pine,32033,Republican,Donald_Trump,172,0.395,White Pine_NV
+New Hampshire,NH,Belknap,33001,Republican,Donald_Trump,5505,0.360109897298358,Belknap_NH
+New Hampshire,NH,Cheshire,33005,Republican,Donald_Trump,4543,0.344950645406226,Cheshire_NH
+New Hampshire,NH,Coos,33007,Republican,Donald_Trump,2183,0.3829152780214,Coos_NH
+New Hampshire,NH,Grafton,33009,Republican,Donald_Trump,4898,0.304280300677145,Grafton_NH
+New Hampshire,NH,Merrimack,33013,Republican,Donald_Trump,10966,0.338174977642088,Merrimack_NH
+New Hampshire,NH,Rockingham,33015,Republican,Donald_Trump,28716,0.393709639826151,Rockingham_NH
+New Hampshire,NH,Strafford,33017,Republican,Donald_Trump,7352,0.343760228175995,Strafford_NH
+North Carolina,NC,Alamance,37001,Republican,Ted_Cruz,6956,0.409,Alamance_NC
+North Carolina,NC,Alexander,37003,Republican,Ted_Cruz,2830,0.455,Alexander_NC
+North Carolina,NC,Alleghany,37005,Republican,Donald_Trump,790,0.497,Alleghany_NC
+North Carolina,NC,Anson,37007,Republican,Donald_Trump,612,0.5,Anson_NC
+North Carolina,NC,Ashe,37009,Republican,Donald_Trump,1993,0.447,Ashe_NC
+North Carolina,NC,Avery,37011,Republican,Donald_Trump,1785,0.426,Avery_NC
+North Carolina,NC,Bertie,37015,Republican,Ted_Cruz,470,0.52,Bertie_NC
+North Carolina,NC,Bladen,37017,Republican,Donald_Trump,1399,0.569,Bladen_NC
+North Carolina,NC,Brunswick,37019,Republican,Donald_Trump,11584,0.525,Brunswick_NC
+North Carolina,NC,Buncombe,37021,Republican,Ted_Cruz,11433,0.419,Buncombe_NC
+North Carolina,NC,Burke,37023,Republican,Donald_Trump,4985,0.441,Burke_NC
+North Carolina,NC,Cabarrus,37025,Republican,Donald_Trump,11300,0.426,Cabarrus_NC
+North Carolina,NC,Caldwell,37027,Republican,Donald_Trump,5599,0.454,Caldwell_NC
+North Carolina,NC,Carteret,37031,Republican,Donald_Trump,7077,0.515,Carteret_NC
+North Carolina,NC,Caswell,37033,Republican,Donald_Trump,995,0.497,Caswell_NC
+North Carolina,NC,Catawba,37035,Republican,Donald_Trump,10991,0.44,Catawba_NC
+North Carolina,NC,Chowan,37041,Republican,Donald_Trump,694,0.435,Chowan_NC
+North Carolina,NC,Columbus,37047,Republican,Donald_Trump,2162,0.607,Columbus_NC
+North Carolina,NC,Craven,37049,Republican,Donald_Trump,5608,0.447,Craven_NC
+North Carolina,NC,Cumberland,37051,Republican,Donald_Trump,10763,0.474,Cumberland_NC
+North Carolina,NC,Dare,37055,Republican,Donald_Trump,2650,0.501,Dare_NC
+North Carolina,NC,Davie,37059,Republican,Donald_Trump,3847,0.411,Davie_NC
+North Carolina,NC,Duplin,37061,Republican,Donald_Trump,2300,0.481,Duplin_NC
+North Carolina,NC,Durham,37063,Republican,Ted_Cruz,6144,0.377,Durham_NC
+North Carolina,NC,Edgecombe,37065,Republican,Donald_Trump,1160,0.454,Edgecombe_NC
+North Carolina,NC,Forsyth,37067,Republican,Ted_Cruz,15888,0.384,Forsyth_NC
+North Carolina,NC,Gaston,37071,Republican,Donald_Trump,11528,0.454,Gaston_NC
+North Carolina,NC,Gates,37073,Republican,Donald_Trump,387,0.519,Gates_NC
+North Carolina,NC,Granville,37077,Republican,Donald_Trump,2215,0.433,Granville_NC
+North Carolina,NC,Guilford,37081,Republican,Ted_Cruz,20265,0.38,Guilford_NC
+North Carolina,NC,Harnett,37085,Republican,Donald_Trump,4943,0.443,Harnett_NC
+North Carolina,NC,Haywood,37087,Republican,Donald_Trump,3092,0.398,Haywood_NC
+North Carolina,NC,Henderson,37089,Republican,Ted_Cruz,8301,0.401,Henderson_NC
+North Carolina,NC,Hertford,37091,Republican,Donald_Trump,359,0.486,Hertford_NC
+North Carolina,NC,Hoke,37093,Republican,Donald_Trump,1331,0.497,Hoke_NC
+North Carolina,NC,Hyde,37095,Republican,Donald_Trump,218,0.525,Hyde_NC
+North Carolina,NC,Iredell,37097,Republican,Donald_Trump,12861,0.462,Iredell_NC
+North Carolina,NC,Johnston,37101,Republican,Ted_Cruz,10826,0.441,Johnston_NC
+North Carolina,NC,Lenoir,37107,Republican,Donald_Trump,2277,0.457,Lenoir_NC
+North Carolina,NC,Lincoln,37109,Republican,Donald_Trump,6293,0.458,Lincoln_NC
+North Carolina,NC,McDowell,37111,Republican,Donald_Trump,2552,0.412,McDowell_NC
+North Carolina,NC,Mecklenburg,37119,Republican,Donald_Trump,28531,0.325,Mecklenburg_NC
+North Carolina,NC,Mitchell,37121,Republican,Donald_Trump,1775,0.468,Mitchell_NC
+North Carolina,NC,Moore,37125,Republican,Donald_Trump,7347,0.407,Moore_NC
+North Carolina,NC,Nash,37127,Republican,Ted_Cruz,4578,0.428,Nash_NC
+North Carolina,NC,New Hanover,37129,Republican,Donald_Trump,12631,0.444,New Hanover_NC
+North Carolina,NC,Onslow,37133,Republican,Donald_Trump,8343,0.484,Onslow_NC
+North Carolina,NC,Pamlico,37137,Republican,Donald_Trump,999,0.509,Pamlico_NC
+North Carolina,NC,Pasquotank,37139,Republican,Donald_Trump,1355,0.472,Pasquotank_NC
+North Carolina,NC,Pender,37141,Republican,Donald_Trump,4033,0.525,Pender_NC
+North Carolina,NC,Perquimans,37143,Republican,Donald_Trump,726,0.441,Perquimans_NC
+North Carolina,NC,Person,37145,Republican,Donald_Trump,1872,0.457,Person_NC
+North Carolina,NC,Pitt,37147,Republican,Ted_Cruz,6573,0.427,Pitt_NC
+North Carolina,NC,Randolph,37151,Republican,Donald_Trump,9108,0.428,Randolph_NC
+North Carolina,NC,Robeson,37155,Republican,Donald_Trump,2090,0.508,Robeson_NC
+North Carolina,NC,Rowan,37159,Republican,Donald_Trump,9369,0.461,Rowan_NC
+North Carolina,NC,Sampson,37163,Republican,Donald_Trump,3360,0.481,Sampson_NC
+North Carolina,NC,Scotland,37165,Republican,Donald_Trump,956,0.489,Scotland_NC
+North Carolina,NC,Stanly,37167,Republican,Donald_Trump,5202,0.492,Stanly_NC
+North Carolina,NC,Stokes,37169,Republican,Donald_Trump,3776,0.46,Stokes_NC
+North Carolina,NC,Surry,37171,Republican,Donald_Trump,4213,0.443,Surry_NC
+North Carolina,NC,Swain,37173,Republican,Donald_Trump,621,0.455,Swain_NC
+North Carolina,NC,Transylvania,37175,Republican,Ted_Cruz,2139,0.371,Transylvania_NC
+North Carolina,NC,Tyrrell,37177,Republican,Donald_Trump,141,0.442,Tyrrell_NC
+North Carolina,NC,Union,37179,Republican,Donald_Trump,12641,0.397,Union_NC
+North Carolina,NC,Vance,37181,Republican,Donald_Trump,1017,0.503,Vance_NC
+North Carolina,NC,Wake,37183,Republican,Ted_Cruz,48462,0.404,Wake_NC
+North Carolina,NC,Watauga,37189,Republican,Ted_Cruz,2719,0.372,Watauga_NC
+North Carolina,NC,Wilkes,37193,Republican,Donald_Trump,5889,0.466,Wilkes_NC
+North Carolina,NC,Yadkin,37197,Republican,Donald_Trump,3436,0.443,Yadkin_NC
+North Carolina,NC,Yancey,37199,Republican,Donald_Trump,1174,0.407,Yancey_NC
+Ohio,OH,Allen,39003,Republican,John_Kasich,8719,0.426,Allen_OH
+Ohio,OH,Ashland,39005,Republican,John_Kasich,5139,0.446,Ashland_OH
+Ohio,OH,Ashtabula,39007,Republican,Donald_Trump,6127,0.442,Ashtabula_OH
+Ohio,OH,Athens,39009,Republican,Donald_Trump,2621,0.424,Athens_OH
+Ohio,OH,Auglaize,39011,Republican,John_Kasich,4998,0.438,Auglaize_OH
+Ohio,OH,Belmont,39013,Republican,Donald_Trump,5313,0.493,Belmont_OH
+Ohio,OH,Brown,39015,Republican,Donald_Trump,4564,0.495,Brown_OH
+Ohio,OH,Butler,39017,Republican,John_Kasich,28606,0.416,Butler_OH
+Ohio,OH,Clermont,39025,Republican,Donald_Trump,17186,0.404,Clermont_OH
+Ohio,OH,Clinton,39027,Republican,Donald_Trump,3938,0.433,Clinton_OH
+Ohio,OH,Columbiana,39029,Republican,Donald_Trump,8823,0.467,Columbiana_OH
+Ohio,OH,Coshocton,39031,Republican,Donald_Trump,2747,0.421,Coshocton_OH
+Ohio,OH,Cuyahoga,39035,Republican,John_Kasich,76674,0.544,Cuyahoga_OH
+Ohio,OH,Darke,39037,Republican,Donald_Trump,5437,0.426,Darke_OH
+Ohio,OH,Defiance,39039,Republican,John_Kasich,3956,0.471,Defiance_OH
+Ohio,OH,Delaware,39041,Republican,John_Kasich,32885,0.639,Delaware_OH
+Ohio,OH,Erie,39043,Republican,John_Kasich,5588,0.438,Erie_OH
+Ohio,OH,Fairfield,39045,Republican,John_Kasich,15478,0.488,Fairfield_OH
+Ohio,OH,Franklin,39049,Republican,John_Kasich,101217,0.637,Franklin_OH
+Ohio,OH,Gallia,39053,Republican,Donald_Trump,2900,0.465,Gallia_OH
+Ohio,OH,Geauga,39055,Republican,John_Kasich,12034,0.504,Geauga_OH
+Ohio,OH,Guernsey,39059,Republican,Donald_Trump,3029,0.438,Guernsey_OH
+Ohio,OH,Hamilton,39061,Republican,John_Kasich,67510,0.479,Hamilton_OH
+Ohio,OH,Hancock,39063,Republican,John_Kasich,8496,0.471,Hancock_OH
+Ohio,OH,Highland,39071,Republican,Donald_Trump,3831,0.486,Highland_OH
+Ohio,OH,Hocking,39073,Republican,Donald_Trump,2007,0.414,Hocking_OH
+Ohio,OH,Holmes,39075,Republican,John_Kasich,2347,0.411,Holmes_OH
+Ohio,OH,Huron,39077,Republican,John_Kasich,4019,0.414,Huron_OH
+Ohio,OH,Lawrence,39087,Republican,Donald_Trump,5764,0.473,Lawrence_OH
+Ohio,OH,Licking,39089,Republican,John_Kasich,17357,0.5,Licking_OH
+Ohio,OH,Logan,39091,Republican,Donald_Trump,4064,0.391,Logan_OH
+Ohio,OH,Lorain,39093,Republican,John_Kasich,21544,0.486,Lorain_OH
+Ohio,OH,Lucas,39095,Republican,John_Kasich,24633,0.477,Lucas_OH
+Ohio,OH,Mahoning,39099,Republican,Donald_Trump,17139,0.506,Mahoning_OH
+Ohio,OH,Medina,39103,Republican,John_Kasich,18572,0.489,Medina_OH
+Ohio,OH,Meigs,39105,Republican,Donald_Trump,2378,0.475,Meigs_OH
+Ohio,OH,Mercer,39107,Republican,John_Kasich,4488,0.431,Mercer_OH
+Ohio,OH,Miami,39109,Republican,John_Kasich,11050,0.415,Miami_OH
+Ohio,OH,Morrow,39117,Republican,John_Kasich,3440,0.392,Morrow_OH
+Ohio,OH,Muskingum,39119,Republican,John_Kasich,6599,0.435,Muskingum_OH
+Ohio,OH,Noble,39121,Republican,Donald_Trump,1183,0.469,Noble_OH
+Ohio,OH,Perry,39127,Republican,Donald_Trump,2539,0.435,Perry_OH
+Ohio,OH,Pickaway,39129,Republican,John_Kasich,4885,0.457,Pickaway_OH
+Ohio,OH,Portage,39133,Republican,John_Kasich,10921,0.432,Portage_OH
+Ohio,OH,Preble,39135,Republican,Donald_Trump,5019,0.483,Preble_OH
+Ohio,OH,Ross,39141,Republican,John_Kasich,4918,0.405,Ross_OH
+Ohio,OH,Sandusky,39143,Republican,John_Kasich,5064,0.429,Sandusky_OH
+Ohio,OH,Scioto,39145,Republican,Donald_Trump,5729,0.501,Scioto_OH
+Ohio,OH,Seneca,39147,Republican,John_Kasich,4596,0.452,Seneca_OH
+Ohio,OH,Stark,39151,Republican,John_Kasich,33297,0.481,Stark_OH
+Ohio,OH,Summit,39153,Republican,John_Kasich,79040,0.505,Summit_OH
+Ohio,OH,Trumbull,39155,Republican,Donald_Trump,15125,0.526,Trumbull_OH
+Ohio,OH,Tuscarawas,39157,Republican,Donald_Trump,6025,0.412,Tuscarawas_OH
+Ohio,OH,Van Wert,39161,Republican,John_Kasich,2688,0.38,Van Wert_OH
+Ohio,OH,Vinton,39163,Republican,Donald_Trump,1023,0.484,Vinton_OH
+Ohio,OH,Warren,39165,Republican,John_Kasich,22870,0.428,Warren_OH
+Ohio,OH,Williams,39171,Republican,John_Kasich,3943,0.459,Williams_OH
+Ohio,OH,Wood,39173,Republican,John_Kasich,10968,0.485,Wood_OH
+Ohio,OH,Wyandot,39175,Republican,John_Kasich,1896,0.413,Wyandot_OH
+Oklahoma,OK,Alfalfa,40003,Republican,Ted_Cruz,421,0.368,Alfalfa_OK
+Oklahoma,OK,Atoka,40005,Republican,Donald_Trump,278,0.374,Atoka_OK
+Oklahoma,OK,Beaver,40007,Republican,Ted_Cruz,557,0.48,Beaver_OK
+Oklahoma,OK,Beckham,40009,Republican,Ted_Cruz,900,0.412,Beckham_OK
+Oklahoma,OK,Canadian,40017,Republican,Ted_Cruz,8105,0.362,Canadian_OK
+Oklahoma,OK,Cimarron,40025,Republican,Ted_Cruz,204,0.422,Cimarron_OK
+Oklahoma,OK,Cleveland,40027,Republican,Ted_Cruz,12328,0.344,Cleveland_OK
+Oklahoma,OK,Coal,40029,Republican,Donald_Trump,102,0.397,Coal_OK
+Oklahoma,OK,Comanche,40031,Republican,Ted_Cruz,3419,0.417,Comanche_OK
+Oklahoma,OK,Cotton,40033,Republican,Ted_Cruz,317,0.524,Cotton_OK
+Oklahoma,OK,Craig,40035,Republican,Donald_Trump,418,0.347,Craig_OK
+Oklahoma,OK,Creek,40037,Republican,Ted_Cruz,3812,0.37,Creek_OK
+Oklahoma,OK,Custer,40039,Republican,Ted_Cruz,1491,0.425,Custer_OK
+Oklahoma,OK,Dewey,40043,Republican,Ted_Cruz,363,0.426,Dewey_OK
+Oklahoma,OK,Garfield,40047,Republican,Ted_Cruz,2798,0.307,Garfield_OK
+Oklahoma,OK,Garvin,40049,Republican,Ted_Cruz,1028,0.393,Garvin_OK
+Oklahoma,OK,Grady,40051,Republican,Ted_Cruz,3020,0.394,Grady_OK
+Oklahoma,OK,Greer,40055,Republican,Donald_Trump,111,0.379,Greer_OK
+Oklahoma,OK,Harmon,40057,Republican,Ted_Cruz,59,0.328,Harmon_OK
+Oklahoma,OK,Harper,40059,Republican,Ted_Cruz,280,0.418,Harper_OK
+Oklahoma,OK,Hughes,40063,Republican,Ted_Cruz,316,0.416,Hughes_OK
+Oklahoma,OK,Kay,40071,Republican,Ted_Cruz,2190,0.341,Kay_OK
+Oklahoma,OK,Kingfisher,40073,Republican,Ted_Cruz,958,0.341,Kingfisher_OK
+Oklahoma,OK,Kiowa,40075,Republican,Ted_Cruz,301,0.382,Kiowa_OK
+Oklahoma,OK,Latimer,40077,Republican,Donald_Trump,179,0.367,Latimer_OK
+Oklahoma,OK,Love,40085,Republican,Donald_Trump,216,0.422,Love_OK
+Oklahoma,OK,Major,40093,Republican,Ted_Cruz,816,0.429,Major_OK
+Oklahoma,OK,Mayes,40097,Republican,Donald_Trump,1570,0.353,Mayes_OK
+Oklahoma,OK,McClain,40087,Republican,Ted_Cruz,2484,0.406,McClain_OK
+Oklahoma,OK,McCurtain,40089,Republican,Ted_Cruz,473,0.348,McCurtain_OK
+Oklahoma,OK,Muskogee,40101,Republican,Ted_Cruz,1561,0.31,Muskogee_OK
+Oklahoma,OK,Nowata,40105,Republican,Ted_Cruz,448,0.351,Nowata_OK
+Oklahoma,OK,Okfuskee,40107,Republican,Ted_Cruz,311,0.396,Okfuskee_OK
+Oklahoma,OK,Oklahoma,40109,Republican,Marco_Rubio,29030,0.328,Oklahoma_OK
+Oklahoma,OK,Okmulgee,40111,Republican,Ted_Cruz,1176,0.379,Okmulgee_OK
+Oklahoma,OK,Osage,40113,Republican,Ted_Cruz,2048,0.38,Osage_OK
+Oklahoma,OK,Pawnee,40117,Republican,Ted_Cruz,743,0.378,Pawnee_OK
+Oklahoma,OK,Payne,40119,Republican,Marco_Rubio,2869,0.311,Payne_OK
+Oklahoma,OK,Pittsburg,40121,Republican,Donald_Trump,1086,0.374,Pittsburg_OK
+Oklahoma,OK,Pottawatomie,40125,Republican,Ted_Cruz,2914,0.37,Pottawatomie_OK
+Oklahoma,OK,Pushmataha,40127,Republican,Donald_Trump,219,0.396,Pushmataha_OK
+Oklahoma,OK,Roger Mills,40129,Republican,Ted_Cruz,217,0.453,Roger Mills_OK
+Oklahoma,OK,Rogers,40131,Republican,Ted_Cruz,5850,0.372,Rogers_OK
+Oklahoma,OK,Sequoyah,40135,Republican,Ted_Cruz,1024,0.374,Sequoyah_OK
+Oklahoma,OK,Stephens,40137,Republican,Ted_Cruz,2428,0.446,Stephens_OK
+Oklahoma,OK,Tillman,40141,Republican,Ted_Cruz,280,0.413,Tillman_OK
+Oklahoma,OK,Tulsa,40143,Republican,Ted_Cruz,27829,0.316,Tulsa_OK
+Oklahoma,OK,Wagoner,40145,Republican,Ted_Cruz,4459,0.387,Wagoner_OK
+Oklahoma,OK,Washita,40149,Republican,Ted_Cruz,560,0.433,Washita_OK
+Oklahoma,OK,Woods,40151,Republican,Ted_Cruz,574,0.361,Woods_OK
+Oklahoma,OK,Woodward,40153,Republican,Ted_Cruz,1235,0.376,Woodward_OK
+South Carolina,SC,Abbeville,45001,Republican,Donald_Trump,1353,0.369,Abbeville_SC
+South Carolina,SC,Aiken,45003,Republican,Donald_Trump,9027,0.316,Aiken_SC
+South Carolina,SC,Allendale,45005,Republican,Donald_Trump,160,0.443,Allendale_SC
+South Carolina,SC,Anderson,45007,Republican,Donald_Trump,10953,0.319,Anderson_SC
+South Carolina,SC,Bamberg,45009,Republican,Donald_Trump,481,0.401,Bamberg_SC
+South Carolina,SC,Barnwell,45011,Republican,Donald_Trump,1106,0.427,Barnwell_SC
+South Carolina,SC,Beaufort,45013,Republican,Donald_Trump,9912,0.301,Beaufort_SC
+South Carolina,SC,Berkeley,45015,Republican,Donald_Trump,9406,0.34,Berkeley_SC
+South Carolina,SC,Charleston,45019,Republican,Marco_Rubio,15247,0.279,Charleston_SC
+South Carolina,SC,Chester,45023,Republican,Donald_Trump,1403,0.421,Chester_SC
+South Carolina,SC,Clarendon,45027,Republican,Donald_Trump,1601,0.373,Clarendon_SC
+South Carolina,SC,Colleton,45029,Republican,Donald_Trump,2326,0.433,Colleton_SC
+South Carolina,SC,Darlington,45031,Republican,Donald_Trump,3352,0.378,Darlington_SC
+South Carolina,SC,Dillon,45033,Republican,Donald_Trump,972,0.363,Dillon_SC
+South Carolina,SC,Dorchester,45035,Republican,Donald_Trump,6949,0.315,Dorchester_SC
+South Carolina,SC,Edgefield,45037,Republican,Donald_Trump,1366,0.341,Edgefield_SC
+South Carolina,SC,Florence,45041,Republican,Donald_Trump,6004,0.331,Florence_SC
+South Carolina,SC,Georgetown,45043,Republican,Donald_Trump,4620,0.402,Georgetown_SC
+South Carolina,SC,Greenville,45045,Republican,Donald_Trump,24913,0.268,Greenville_SC
+South Carolina,SC,Greenwood,45047,Republican,Donald_Trump,3029,0.288,Greenwood_SC
+South Carolina,SC,Horry,45051,Republican,Donald_Trump,26445,0.492,Horry_SC
+South Carolina,SC,Kershaw,45055,Republican,Donald_Trump,3673,0.344,Kershaw_SC
+South Carolina,SC,Lancaster,45057,Republican,Donald_Trump,4190,0.339,Lancaster_SC
+South Carolina,SC,Laurens,45059,Republican,Donald_Trump,3321,0.345,Laurens_SC
+South Carolina,SC,Lexington,45063,Republican,Donald_Trump,16361,0.3,Lexington_SC
+South Carolina,SC,Marlboro,45069,Republican,Donald_Trump,737,0.421,Marlboro_SC
+South Carolina,SC,McCormick,45065,Republican,Donald_Trump,615,0.339,McCormick_SC
+South Carolina,SC,Newberry,45071,Republican,Donald_Trump,2024,0.344,Newberry_SC
+South Carolina,SC,Oconee,45073,Republican,Donald_Trump,4424,0.284,Oconee_SC
+South Carolina,SC,Orangeburg,45075,Republican,Donald_Trump,2536,0.38,Orangeburg_SC
+South Carolina,SC,Pickens,45077,Republican,Donald_Trump,7136,0.301,Pickens_SC
+South Carolina,SC,Richland,45079,Republican,Marco_Rubio,10955,0.279,Richland_SC
+South Carolina,SC,Saluda,45081,Republican,Donald_Trump,1248,0.364,Saluda_SC
+South Carolina,SC,Spartanburg,45083,Republican,Donald_Trump,15249,0.327,Spartanburg_SC
+South Carolina,SC,Williamsburg,45089,Republican,Donald_Trump,1186,0.433,Williamsburg_SC
+South Carolina,SC,York,45091,Republican,Donald_Trump,12031,0.317,York_SC
+Tennessee,TN,Bledsoe,47007,Republican,Donald_Trump,1009,0.492,Bledsoe_TN
+Tennessee,TN,Blount,47009,Republican,Donald_Trump,8009,0.377,Blount_TN
+Tennessee,TN,Bradley,47011,Republican,Donald_Trump,6103,0.366,Bradley_TN
+Tennessee,TN,Cannon,47015,Republican,Donald_Trump,1244,0.53,Cannon_TN
+Tennessee,TN,Carter,47019,Republican,Donald_Trump,4266,0.444,Carter_TN
+Tennessee,TN,Cheatham,47021,Republican,Donald_Trump,2530,0.443,Cheatham_TN
+Tennessee,TN,Claiborne,47025,Republican,Donald_Trump,2022,0.538,Claiborne_TN
+Tennessee,TN,Cocke,47029,Republican,Donald_Trump,3200,0.531,Cocke_TN
+Tennessee,TN,Crockett,47033,Republican,Donald_Trump,995,0.475,Crockett_TN
+Tennessee,TN,Davidson,47037,Republican,Donald_Trump,17082,0.31,Davidson_TN
+Tennessee,TN,Dickson,47043,Republican,Donald_Trump,2730,0.438,Dickson_TN
+Tennessee,TN,Dyer,47045,Republican,Donald_Trump,2400,0.472,Dyer_TN
+Tennessee,TN,Fentress,47049,Republican,Donald_Trump,1418,0.486,Fentress_TN
+Tennessee,TN,Gibson,47053,Republican,Donald_Trump,2878,0.417,Gibson_TN
+Tennessee,TN,Giles,47055,Republican,Donald_Trump,1910,0.506,Giles_TN
+Tennessee,TN,Grainger,47057,Republican,Donald_Trump,1767,0.504,Grainger_TN
+Tennessee,TN,Hamblen,47063,Republican,Donald_Trump,4690,0.444,Hamblen_TN
+Tennessee,TN,Hardeman,47069,Republican,Donald_Trump,1170,0.493,Hardeman_TN
+Tennessee,TN,Hawkins,47073,Republican,Donald_Trump,4426,0.483,Hawkins_TN
+Tennessee,TN,Hickman,47081,Republican,Donald_Trump,1325,0.47,Hickman_TN
+Tennessee,TN,Humphreys,47085,Republican,Donald_Trump,1218,0.517,Humphreys_TN
+Tennessee,TN,Knox,47093,Republican,Donald_Trump,20985,0.324,Knox_TN
+Tennessee,TN,Lewis,47101,Republican,Donald_Trump,809,0.507,Lewis_TN
+Tennessee,TN,Loudon,47105,Republican,Donald_Trump,4198,0.402,Loudon_TN
+Tennessee,TN,Maury,47119,Republican,Donald_Trump,4655,0.397,Maury_TN
+Tennessee,TN,McMinn,47107,Republican,Donald_Trump,3604,0.421,McMinn_TN
+Tennessee,TN,McNairy,47109,Republican,Donald_Trump,1822,0.485,McNairy_TN
+Tennessee,TN,Obion,47131,Republican,Donald_Trump,1908,0.425,Obion_TN
+Tennessee,TN,Overton,47133,Republican,Donald_Trump,1582,0.471,Overton_TN
+Tennessee,TN,Pickett,47137,Republican,Donald_Trump,594,0.5,Pickett_TN
+Tennessee,TN,Rhea,47143,Republican,Donald_Trump,2339,0.441,Rhea_TN
+Tennessee,TN,Roane,47145,Republican,Donald_Trump,3634,0.424,Roane_TN
+Tennessee,TN,Robertson,47147,Republican,Donald_Trump,4077,0.413,Robertson_TN
+Tennessee,TN,Rutherford,47149,Republican,Donald_Trump,13229,0.359,Rutherford_TN
+Tennessee,TN,Sequatchie,47153,Republican,Donald_Trump,1046,0.488,Sequatchie_TN
+Tennessee,TN,Sevier,47155,Republican,Donald_Trump,7686,0.468,Sevier_TN
+Tennessee,TN,Shelby,47157,Republican,Donald_Trump,20715,0.299,Shelby_TN
+Tennessee,TN,Stewart,47161,Republican,Donald_Trump,953,0.496,Stewart_TN
+Tennessee,TN,Sullivan,47163,Republican,Donald_Trump,8718,0.385,Sullivan_TN
+Tennessee,TN,Sumner,47165,Republican,Donald_Trump,9708,0.369,Sumner_TN
+Tennessee,TN,Tipton,47167,Republican,Donald_Trump,3618,0.43,Tipton_TN
+Tennessee,TN,Trousdale,47169,Republican,Donald_Trump,453,0.49,Trousdale_TN
+Tennessee,TN,Unicoi,47171,Republican,Donald_Trump,1813,0.505,Unicoi_TN
+Tennessee,TN,Weakley,47183,Republican,Donald_Trump,1764,0.412,Weakley_TN
+Tennessee,TN,Wilson,47189,Republican,Donald_Trump,8570,0.388,Wilson_TN
+Texas,TX,Andrews,48003,Republican,Ted_Cruz,1349,0.465,Andrews_TX
+Texas,TX,Angelina,48005,Republican,Ted_Cruz,6875,0.507,Angelina_TX
+Texas,TX,Aransas,48007,Republican,Donald_Trump,2091,0.393,Aransas_TX
+Texas,TX,Archer,48009,Republican,Ted_Cruz,1215,0.492,Archer_TX
+Texas,TX,Armstrong,48011,Republican,Ted_Cruz,380,0.49,Armstrong_TX
+Texas,TX,Atascosa,48013,Republican,Ted_Cruz,2333,0.52,Atascosa_TX
+Texas,TX,Austin,48015,Republican,Ted_Cruz,3201,0.525,Austin_TX
+Texas,TX,Bailey,48017,Republican,Ted_Cruz,496,0.519,Bailey_TX
+Texas,TX,Bandera,48019,Republican,Ted_Cruz,2268,0.432,Bandera_TX
+Texas,TX,Bastrop,48021,Republican,Ted_Cruz,4202,0.391,Bastrop_TX
+Texas,TX,Baylor,48023,Republican,Ted_Cruz,355,0.429,Baylor_TX
+Texas,TX,Bee,48025,Republican,Ted_Cruz,1509,0.5,Bee_TX
+Texas,TX,Bell,48027,Republican,Ted_Cruz,13994,0.445,Bell_TX
+Texas,TX,Bexar,48029,Republican,Ted_Cruz,54115,0.408,Bexar_TX
+Texas,TX,Blanco,48031,Republican,Ted_Cruz,1379,0.458,Blanco_TX
+Texas,TX,Borden,48033,Republican,Ted_Cruz,164,0.529,Borden_TX
+Texas,TX,Bosque,48035,Republican,Ted_Cruz,2132,0.507,Bosque_TX
+Texas,TX,Bowie,48037,Republican,Ted_Cruz,7057,0.43,Bowie_TX
+Texas,TX,Brazoria,48039,Republican,Ted_Cruz,19993,0.51,Brazoria_TX
+Texas,TX,Brazos,48041,Republican,Ted_Cruz,12049,0.472,Brazos_TX
+Texas,TX,Brewster,48043,Republican,Ted_Cruz,471,0.386,Brewster_TX
+Texas,TX,Briscoe,48045,Republican,Ted_Cruz,244,0.537,Briscoe_TX
+Texas,TX,Burleson,48051,Republican,Ted_Cruz,1711,0.517,Burleson_TX
+Texas,TX,Burnet,48053,Republican,Ted_Cruz,4026,0.397,Burnet_TX
+Texas,TX,Callahan,48059,Republican,Ted_Cruz,1689,0.497,Callahan_TX
+Texas,TX,Cameron,48061,Republican,Ted_Cruz,4451,0.352,Cameron_TX
+Texas,TX,Camp,48063,Republican,Ted_Cruz,863,0.436,Camp_TX
+Texas,TX,Carson,48065,Republican,Ted_Cruz,854,0.554,Carson_TX
+Texas,TX,Castro,48069,Republican,Ted_Cruz,496,0.481,Castro_TX
+Texas,TX,Chambers,48071,Republican,Ted_Cruz,3758,0.534,Chambers_TX
+Texas,TX,Childress,48075,Republican,Ted_Cruz,444,0.451,Childress_TX
+Texas,TX,Cochran,48079,Republican,Ted_Cruz,353,0.471,Cochran_TX
+Texas,TX,Coke,48081,Republican,Ted_Cruz,405,0.474,Coke_TX
+Texas,TX,Coleman,48083,Republican,Ted_Cruz,1149,0.505,Coleman_TX
+Texas,TX,Collin,48085,Republican,Ted_Cruz,46094,0.396,Collin_TX
+Texas,TX,Collingsworth,48087,Republican,Ted_Cruz,266,0.467,Collingsworth_TX
+Texas,TX,Colorado,48089,Republican,Ted_Cruz,1956,0.52,Colorado_TX
+Texas,TX,Comal,48091,Republican,Ted_Cruz,13004,0.452,Comal_TX
+Texas,TX,Concho,48095,Republican,Ted_Cruz,280,0.408,Concho_TX
+Texas,TX,Cooke,48097,Republican,Ted_Cruz,4143,0.474,Cooke_TX
+Texas,TX,Coryell,48099,Republican,Ted_Cruz,3327,0.43,Coryell_TX
+Texas,TX,Cottle,48101,Republican,Ted_Cruz,168,0.56,Cottle_TX
+Texas,TX,Crane,48103,Republican,Ted_Cruz,468,0.453,Crane_TX
+Texas,TX,Crosby,48107,Republican,Ted_Cruz,353,0.497,Crosby_TX
+Texas,TX,Culberson,48109,Republican,Ted_Cruz,36,0.45,Culberson_TX
+Texas,TX,Dallam,48111,Republican,Ted_Cruz,390,0.467,Dallam_TX
+Texas,TX,Dallas,48113,Republican,Ted_Cruz,61072,0.35,Dallas_TX
+Texas,TX,De Witt,48123,Republican,Ted_Cruz,1772,0.492,De Witt_TX
+Texas,TX,Deaf Smith,48117,Republican,Ted_Cruz,993,0.513,Deaf Smith_TX
+Texas,TX,Denton,48121,Republican,Ted_Cruz,39404,0.411,Denton_TX
+Texas,TX,Dickens,48125,Republican,Ted_Cruz,267,0.457,Dickens_TX
+Texas,TX,Dimmit,48127,Republican,Ted_Cruz,55,0.55,Dimmit_TX
+Texas,TX,Donley,48129,Republican,Ted_Cruz,358,0.445,Donley_TX
+Texas,TX,Eastland,48133,Republican,Ted_Cruz,2221,0.575,Eastland_TX
+Texas,TX,Ector,48135,Republican,Ted_Cruz,7232,0.457,Ector_TX
+Texas,TX,El Paso,48141,Republican,Ted_Cruz,10919,0.38,El Paso_TX
+Texas,TX,Ellis,48139,Republican,Ted_Cruz,12546,0.488,Ellis_TX
+Texas,TX,Erath,48143,Republican,Ted_Cruz,3286,0.468,Erath_TX
+Texas,TX,Falls,48145,Republican,Ted_Cruz,1150,0.456,Falls_TX
+Texas,TX,Fisher,48151,Republican,Ted_Cruz,306,0.538,Fisher_TX
+Texas,TX,Foard,48155,Republican,Ted_Cruz,18,0.581,Foard_TX
+Texas,TX,Fort Bend,48157,Republican,Ted_Cruz,31422,0.458,Fort Bend_TX
+Texas,TX,Freestone,48161,Republican,Ted_Cruz,2204,0.457,Freestone_TX
+Texas,TX,Frio,48163,Republican,Ted_Cruz,198,0.535,Frio_TX
+Texas,TX,Gaines,48165,Republican,Ted_Cruz,1274,0.522,Gaines_TX
+Texas,TX,Garza,48169,Republican,Ted_Cruz,574,0.562,Garza_TX
+Texas,TX,Gillespie,48171,Republican,Ted_Cruz,3421,0.42,Gillespie_TX
+Texas,TX,Glasscock,48173,Republican,Ted_Cruz,202,0.502,Glasscock_TX
+Texas,TX,Goliad,48175,Republican,Ted_Cruz,747,0.482,Goliad_TX
+Texas,TX,Gonzales,48177,Republican,Ted_Cruz,1698,0.505,Gonzales_TX
+Texas,TX,Gray,48179,Republican,Ted_Cruz,2210,0.488,Gray_TX
+Texas,TX,Grayson,48181,Republican,Ted_Cruz,8647,0.414,Grayson_TX
+Texas,TX,Gregg,48183,Republican,Ted_Cruz,8363,0.457,Gregg_TX
+Texas,TX,Grimes,48185,Republican,Ted_Cruz,2207,0.498,Grimes_TX
+Texas,TX,Guadalupe,48187,Republican,Ted_Cruz,9283,0.448,Guadalupe_TX
+Texas,TX,Hale,48189,Republican,Ted_Cruz,2202,0.5,Hale_TX
+Texas,TX,Hansford,48195,Republican,Ted_Cruz,682,0.524,Hansford_TX
+Texas,TX,Hardin,48199,Republican,Ted_Cruz,6354,0.51,Hardin_TX
+Texas,TX,Harris,48201,Republican,Ted_Cruz,147721,0.453,Harris_TX
+Texas,TX,Hartley,48205,Republican,Ted_Cruz,577,0.529,Hartley_TX
+Texas,TX,Haskell,48207,Republican,Ted_Cruz,409,0.506,Haskell_TX
+Texas,TX,Hays,48209,Republican,Ted_Cruz,8254,0.408,Hays_TX
+Texas,TX,Hemphill,48211,Republican,Ted_Cruz,526,0.421,Hemphill_TX
+Texas,TX,Hidalgo,48215,Republican,Ted_Cruz,7098,0.381,Hidalgo_TX
+Texas,TX,Hill,48217,Republican,Ted_Cruz,4003,0.449,Hill_TX
+Texas,TX,Hockley,48219,Republican,Ted_Cruz,2073,0.504,Hockley_TX
+Texas,TX,Hood,48221,Republican,Ted_Cruz,5948,0.419,Hood_TX
+Texas,TX,Hopkins,48223,Republican,Ted_Cruz,3213,0.462,Hopkins_TX
+Texas,TX,Howard,48227,Republican,Ted_Cruz,1822,0.48,Howard_TX
+Texas,TX,Hudspeth,48229,Republican,Donald_Trump,76,0.39,Hudspeth_TX
+Texas,TX,Hunt,48231,Republican,Ted_Cruz,7249,0.501,Hunt_TX
+Texas,TX,Hutchinson,48233,Republican,Ted_Cruz,2418,0.474,Hutchinson_TX
+Texas,TX,Irion,48235,Republican,Ted_Cruz,228,0.552,Irion_TX
+Texas,TX,Jack,48237,Republican,Ted_Cruz,943,0.495,Jack_TX
+Texas,TX,Jim Hogg,48247,Republican,Ted_Cruz,20,0.476,Jim Hogg_TX
+Texas,TX,Jim Wells,48249,Republican,Ted_Cruz,868,0.411,Jim Wells_TX
+Texas,TX,Johnson,48251,Republican,Ted_Cruz,12070,0.478,Johnson_TX
+Texas,TX,Karnes,48255,Republican,Ted_Cruz,647,0.534,Karnes_TX
+Texas,TX,Kaufman,48257,Republican,Ted_Cruz,8027,0.457,Kaufman_TX
+Texas,TX,Kenedy,48261,Republican,Ted_Cruz,8,0.421,Kenedy_TX
+Texas,TX,Kerr,48265,Republican,Ted_Cruz,4846,0.392,Kerr_TX
+Texas,TX,Kimble,48267,Republican,Ted_Cruz,456,0.408,Kimble_TX
+Texas,TX,King,48269,Republican,Ted_Cruz,43,0.374,King_TX
+Texas,TX,Kinney,48271,Republican,Ted_Cruz,202,0.396,Kinney_TX
+Texas,TX,Kleberg,48273,Republican,Ted_Cruz,996,0.445,Kleberg_TX
+Texas,TX,La Salle,48283,Republican,Ted_Cruz,126,0.419,La Salle_TX
+Texas,TX,Lamb,48279,Republican,Ted_Cruz,1121,0.443,Lamb_TX
+Texas,TX,Lampasas,48281,Republican,Ted_Cruz,1705,0.442,Lampasas_TX
+Texas,TX,Liberty,48291,Republican,Ted_Cruz,5805,0.49,Liberty_TX
+Texas,TX,Lipscomb,48295,Republican,Ted_Cruz,515,0.498,Lipscomb_TX
+Texas,TX,Live Oak,48297,Republican,Ted_Cruz,1081,0.503,Live Oak_TX
+Texas,TX,Llano,48299,Republican,Ted_Cruz,2161,0.366,Llano_TX
+Texas,TX,Loving,48301,Republican,Ted_Cruz,14,0.467,Loving_TX
+Texas,TX,Lubbock,48303,Republican,Ted_Cruz,19163,0.451,Lubbock_TX
+Texas,TX,Lynn,48305,Republican,Ted_Cruz,678,0.491,Lynn_TX
+Texas,TX,Matagorda,48321,Republican,Ted_Cruz,2109,0.485,Matagorda_TX
+Texas,TX,Maverick,48323,Republican,Ted_Cruz,171,0.39,Maverick_TX
+Texas,TX,McCulloch,48307,Republican,Ted_Cruz,906,0.436,McCulloch_TX
+Texas,TX,McLennan,48309,Republican,Ted_Cruz,14285,0.46,McLennan_TX
+Texas,TX,McMullen,48311,Republican,Ted_Cruz,172,0.422,McMullen_TX
+Texas,TX,Midland,48329,Republican,Ted_Cruz,10474,0.479,Midland_TX
+Texas,TX,Milam,48331,Republican,Ted_Cruz,1885,0.454,Milam_TX
+Texas,TX,Mills,48333,Republican,Ted_Cruz,633,0.449,Mills_TX
+Texas,TX,Montague,48337,Republican,Ted_Cruz,2163,0.441,Montague_TX
+Texas,TX,Montgomery,48339,Republican,Ted_Cruz,43797,0.483,Montgomery_TX
+Texas,TX,Morris,48343,Republican,Ted_Cruz,695,0.451,Morris_TX
+Texas,TX,Motley,48345,Republican,Ted_Cruz,239,0.525,Motley_TX
+Texas,TX,Nacogdoches,48347,Republican,Ted_Cruz,5229,0.523,Nacogdoches_TX
+Texas,TX,Navarro,48349,Republican,Ted_Cruz,3372,0.423,Navarro_TX
+Texas,TX,Nolan,48353,Republican,Ted_Cruz,1361,0.444,Nolan_TX
+Texas,TX,Nueces,48355,Republican,Ted_Cruz,11072,0.394,Nueces_TX
+Texas,TX,Ochiltree,48357,Republican,Ted_Cruz,928,0.517,Ochiltree_TX
+Texas,TX,Palo Pinto,48363,Republican,Ted_Cruz,2813,0.455,Palo Pinto_TX
+Texas,TX,Panola,48365,Republican,Ted_Cruz,2756,0.517,Panola_TX
+Texas,TX,Parker,48367,Republican,Ted_Cruz,12883,0.481,Parker_TX
+Texas,TX,Parmer,48369,Republican,Ted_Cruz,728,0.595,Parmer_TX
+Texas,TX,Pecos,48371,Republican,Ted_Cruz,580,0.46,Pecos_TX
+Texas,TX,Potter,48375,Republican,Ted_Cruz,5400,0.476,Potter_TX
+Texas,TX,Presidio,48377,Republican,Ted_Cruz,38,0.392,Presidio_TX
+Texas,TX,Rains,48379,Republican,Ted_Cruz,1105,0.497,Rains_TX
+Texas,TX,Randall,48381,Republican,Ted_Cruz,12593,0.512,Randall_TX
+Texas,TX,Reagan,48383,Republican,Ted_Cruz,360,0.444,Reagan_TX
+Texas,TX,Real,48385,Republican,Ted_Cruz,562,0.393,Real_TX
+Texas,TX,Red River,48387,Republican,Ted_Cruz,1048,0.434,Red River_TX
+Texas,TX,Reeves,48389,Republican,Ted_Cruz,51,0.408,Reeves_TX
+Texas,TX,Refugio,48391,Republican,Ted_Cruz,438,0.452,Refugio_TX
+Texas,TX,Roberts,48393,Republican,Ted_Cruz,196,0.503,Roberts_TX
+Texas,TX,Rockwall,48397,Republican,Ted_Cruz,7202,0.418,Rockwall_TX
+Texas,TX,Runnels,48399,Republican,Ted_Cruz,1132,0.472,Runnels_TX
+Texas,TX,Rusk,48401,Republican,Ted_Cruz,4884,0.505,Rusk_TX
+Texas,TX,Sabine,48403,Republican,Donald_Trump,1215,0.426,Sabine_TX
+Texas,TX,San Augustine,48405,Republican,Ted_Cruz,916,0.451,San Augustine_TX
+Texas,TX,San Jacinto,48407,Republican,Ted_Cruz,2333,0.49,San Jacinto_TX
+Texas,TX,San Patricio,48409,Republican,Ted_Cruz,3047,0.433,San Patricio_TX
+Texas,TX,San Saba,48411,Republican,Ted_Cruz,707,0.492,San Saba_TX
+Texas,TX,Schleicher,48413,Republican,Ted_Cruz,266,0.518,Schleicher_TX
+Texas,TX,Scurry,48415,Republican,Ted_Cruz,1265,0.448,Scurry_TX
+Texas,TX,Shackelford,48417,Republican,Ted_Cruz,560,0.484,Shackelford_TX
+Texas,TX,Sherman,48421,Republican,Ted_Cruz,284,0.56,Sherman_TX
+Texas,TX,Smith,48423,Republican,Ted_Cruz,21804,0.547,Smith_TX
+Texas,TX,Somervell,48425,Republican,Ted_Cruz,1206,0.484,Somervell_TX
+Texas,TX,Starr,48427,Republican,Ted_Cruz,61,0.48,Starr_TX
+Texas,TX,Sterling,48431,Republican,Ted_Cruz,163,0.414,Sterling_TX
+Texas,TX,Stonewall,48433,Republican,Ted_Cruz,141,0.513,Stonewall_TX
+Texas,TX,Sutton,48435,Republican,Ted_Cruz,379,0.388,Sutton_TX
+Texas,TX,Swisher,48437,Republican,Ted_Cruz,442,0.486,Swisher_TX
+Texas,TX,Tarrant,48439,Republican,Ted_Cruz,88867,0.416,Tarrant_TX
+Texas,TX,Taylor,48441,Republican,Ted_Cruz,10160,0.457,Taylor_TX
+Texas,TX,Terry,48445,Republican,Ted_Cruz,879,0.484,Terry_TX
+Texas,TX,Throckmorton,48447,Republican,Ted_Cruz,188,0.448,Throckmorton_TX
+Texas,TX,Titus,48449,Republican,Ted_Cruz,1890,0.442,Titus_TX
+Texas,TX,Tom Green,48451,Republican,Ted_Cruz,7231,0.433,Tom Green_TX
+Texas,TX,Travis,48453,Republican,Ted_Cruz,25757,0.304,Travis_TX
+Texas,TX,Trinity,48455,Republican,Ted_Cruz,1435,0.408,Trinity_TX
+Texas,TX,Tyler,48457,Republican,Ted_Cruz,2032,0.475,Tyler_TX
+Texas,TX,Upshur,48459,Republican,Ted_Cruz,4358,0.516,Upshur_TX
+Texas,TX,Upton,48461,Republican,Ted_Cruz,290,0.444,Upton_TX
+Texas,TX,Uvalde,48463,Republican,Ted_Cruz,1027,0.46,Uvalde_TX
+Texas,TX,Val Verde,48465,Republican,Ted_Cruz,916,0.359,Val Verde_TX
+Texas,TX,Van Zandt,48467,Republican,Ted_Cruz,5954,0.507,Van Zandt_TX
+Texas,TX,Victoria,48469,Republican,Ted_Cruz,5750,0.47,Victoria_TX
+Texas,TX,Waller,48473,Republican,Ted_Cruz,3391,0.563,Waller_TX
+Texas,TX,Ward,48475,Republican,Ted_Cruz,742,0.514,Ward_TX
+Texas,TX,Webb,48479,Republican,Donald_Trump,1427,0.349,Webb_TX
+Texas,TX,Wharton,48481,Republican,Ted_Cruz,3229,0.477,Wharton_TX
+Texas,TX,Wheeler,48483,Republican,Ted_Cruz,781,0.472,Wheeler_TX
+Texas,TX,Wichita,48485,Republican,Ted_Cruz,7008,0.445,Wichita_TX
+Texas,TX,Wilbarger,48487,Republican,Ted_Cruz,923,0.389,Wilbarger_TX
+Texas,TX,Willacy,48489,Republican,Ted_Cruz,122,0.362,Willacy_TX
+Texas,TX,Williamson,48491,Republican,Ted_Cruz,23880,0.355,Williamson_TX
+Texas,TX,Winkler,48495,Republican,Ted_Cruz,474,0.385,Winkler_TX
+Texas,TX,Wise,48497,Republican,Ted_Cruz,5513,0.497,Wise_TX
+Texas,TX,Yoakum,48501,Republican,Ted_Cruz,685,0.439,Yoakum_TX
+Texas,TX,Young,48503,Republican,Ted_Cruz,1945,0.463,Young_TX
+Texas,TX,Zapata,48505,Republican,Donald_Trump,34,0.395,Zapata_TX
+Texas,TX,Zavala,48507,Republican,Ben_Carson,0,0,Zavala_TX
+Utah,UT,Box Elder,49003,Republican,Ted_Cruz,3314,0.741,Box Elder_UT
+Utah,UT,Cache,49005,Republican,Ted_Cruz,7172,0.709,Cache_UT
+Utah,UT,Carbon,49007,Republican,Ted_Cruz,595,0.608,Carbon_UT
+Utah,UT,Daggett,49009,Republican,Ted_Cruz,36,0.383,Daggett_UT
+Utah,UT,Davis,49011,Republican,Ted_Cruz,17528,0.684,Davis_UT
+Utah,UT,Duchesne,49013,Republican,Ted_Cruz,1342,0.764,Duchesne_UT
+Utah,UT,Emery,49015,Republican,Ted_Cruz,455,0.646,Emery_UT
+Utah,UT,Grand,49019,Republican,Ted_Cruz,180,0.534,Grand_UT
+Utah,UT,Iron,49021,Republican,Ted_Cruz,2287,0.655,Iron_UT
+Utah,UT,Juab,49023,Republican,Ted_Cruz,647,0.767,Juab_UT
+Utah,UT,Millard,49027,Republican,Ted_Cruz,771,0.712,Millard_UT
+Utah,UT,Piute,49031,Republican,Ted_Cruz,86,0.512,Piute_UT
+Utah,UT,Rich,49033,Republican,Ted_Cruz,198,0.786,Rich_UT
+Utah,UT,Salt Lake,49035,Republican,Ted_Cruz,31164,0.667,Salt Lake_UT
+Utah,UT,San Juan,49037,Republican,Ted_Cruz,407,0.718,San Juan_UT
+Utah,UT,Sanpete,49039,Republican,Ted_Cruz,1282,0.69,Sanpete_UT
+Utah,UT,Tooele,49045,Republican,Ted_Cruz,2412,0.708,Tooele_UT
+Utah,UT,Uintah,49047,Republican,Ted_Cruz,2144,0.739,Uintah_UT
+Utah,UT,Utah,49049,Republican,Ted_Cruz,30637,0.755,Utah_UT
+Utah,UT,Wasatch,49051,Republican,Ted_Cruz,1529,0.644,Wasatch_UT
+Utah,UT,Weber,49057,Republican,Ted_Cruz,7058,0.671,Weber_UT
+Vermont,VT,Addison,50001,Republican,Donald_Trump,66,0.288,Addison_VT
+Vermont,VT,Bennington,50003,Republican,Donald_Trump,435,0.439,Bennington_VT
+Vermont,VT,Chittenden,50007,Republican,John_Kasich,98,0.432,Chittenden_VT
+Vermont,VT,Essex,50009,Republican,John_Kasich,713,0.342,Essex_VT
+Vermont,VT,Grand Isle,50013,Republican,Donald_Trump,112,0.381,Grand Isle_VT
+Vermont,VT,Rutland,50021,Republican,Donald_Trump,678,0.357,Rutland_VT
+Vermont,VT,Windham,50025,Republican,Donald_Trump,12,0.48,Windham_VT
+Vermont,VT,Windsor,50027,Republican,Donald_Trump,104,0.361,Windsor_VT
+Virginia,VA,Albemarle,51003,Republican,Marco_Rubio,5518,0.371,Albemarle_VA
+Virginia,VA,Amelia,51007,Republican,Donald_Trump,1055,0.481,Amelia_VA
+Virginia,VA,Amherst,51009,Republican,Donald_Trump,1777,0.397,Amherst_VA
+Virginia,VA,Appomattox,51011,Republican,Donald_Trump,1033,0.428,Appomattox_VA
+Virginia,VA,Arlington,51013,Republican,Marco_Rubio,10944,0.497,Arlington_VA
+Virginia,VA,Augusta,51015,Republican,Donald_Trump,5117,0.373,Augusta_VA
+Virginia,VA,Bath,51017,Republican,Donald_Trump,296,0.495,Bath_VA
+Virginia,VA,Bedford,51019,Republican,Donald_Trump,5328,0.35,Bedford_VA
+Virginia,VA,Bland,51021,Republican,Donald_Trump,584,0.55,Bland_VA
+Virginia,VA,Botetourt,51023,Republican,Donald_Trump,2185,0.356,Botetourt_VA
+Virginia,VA,Buckingham,51029,Republican,Donald_Trump,830,0.5,Buckingham_VA
+Virginia,VA,Campbell,51031,Republican,Donald_Trump,3399,0.38,Campbell_VA
+Virginia,VA,Caroline,51033,Republican,Donald_Trump,1446,0.447,Caroline_VA
+Virginia,VA,Charles City,51036,Republican,Donald_Trump,252,0.378,Charles City_VA
+Virginia,VA,Chesterfield,51041,Republican,Marco_Rubio,18762,0.349,Chesterfield_VA
+Virginia,VA,Culpeper,51047,Republican,Donald_Trump,2620,0.376,Culpeper_VA
+Virginia,VA,Dickenson,51051,Republican,Donald_Trump,911,0.605,Dickenson_VA
+Virginia,VA,Dinwiddie,51053,Republican,Donald_Trump,1457,0.52,Dinwiddie_VA
+Virginia,VA,Fairfax,51059,Republican,Marco_Rubio,52257,0.4,Fairfax_VA
+Virginia,VA,Fauquier,51061,Republican,Donald_Trump,4888,0.361,Fauquier_VA
+Virginia,VA,Fluvanna,51065,Republican,Donald_Trump,1280,0.352,Fluvanna_VA
+Virginia,VA,Frederick,51069,Republican,Donald_Trump,4730,0.367,Frederick_VA
+Virginia,VA,Gloucester,51073,Republican,Donald_Trump,2907,0.441,Gloucester_VA
+Virginia,VA,Goochland,51075,Republican,Marco_Rubio,1903,0.351,Goochland_VA
+Virginia,VA,Greensville,51081,Republican,Donald_Trump,371,0.534,Greensville_VA
+Virginia,VA,Halifax,51083,Republican,Donald_Trump,2157,0.545,Halifax_VA
+Virginia,VA,Hampton,51650,Republican,Donald_Trump,3876,0.407,Hampton_VA
+Virginia,VA,Hanover,51085,Republican,Donald_Trump,8586,0.347,Hanover_VA
+Virginia,VA,Henrico,51087,Republican,Marco_Rubio,16499,0.369,Henrico_VA
+Virginia,VA,Isle of Wight,51093,Republican,Donald_Trump,2497,0.416,Isle of Wight_VA
+Virginia,VA,James City,51095,Republican,Marco_Rubio,5780,0.376,James City_VA
+Virginia,VA,King George,51099,Republican,Donald_Trump,1437,0.367,King George_VA
+Virginia,VA,King William,51101,Republican,Donald_Trump,1131,0.418,King William_VA
+Virginia,VA,King and Queen,51097,Republican,Donald_Trump,411,0.492,King and Queen_VA
+Virginia,VA,Loudoun,51107,Republican,Marco_Rubio,20845,0.404,Loudoun_VA
+Virginia,VA,Louisa,51109,Republican,Donald_Trump,2094,0.406,Louisa_VA
+Virginia,VA,Lunenburg,51111,Republican,Donald_Trump,642,0.485,Lunenburg_VA
+Virginia,VA,Mathews,51115,Republican,Donald_Trump,762,0.43,Mathews_VA
+Virginia,VA,Middlesex,51119,Republican,Donald_Trump,945,0.492,Middlesex_VA
+Virginia,VA,Nelson,51125,Republican,Donald_Trump,692,0.411,Nelson_VA
+Virginia,VA,New Kent,51127,Republican,Donald_Trump,1626,0.398,New Kent_VA
+Virginia,VA,Newport News,51700,Republican,Donald_Trump,5192,0.369,Newport News_VA
+Virginia,VA,Norfolk,51710,Republican,Donald_Trump,4555,0.365,Norfolk_VA
+Virginia,VA,Northampton,51131,Republican,Donald_Trump,626,0.454,Northampton_VA
+Virginia,VA,Northumberland,51133,Republican,Donald_Trump,1062,0.44,Northumberland_VA
+Virginia,VA,Nottoway,51135,Republican,Donald_Trump,783,0.483,Nottoway_VA
+Virginia,VA,Page,51139,Republican,Donald_Trump,1377,0.51,Page_VA
+Virginia,VA,Patrick,51141,Republican,Donald_Trump,1182,0.468,Patrick_VA
+Virginia,VA,Pittsylvania,51143,Republican,Donald_Trump,4198,0.486,Pittsylvania_VA
+Virginia,VA,Powhatan,51145,Republican,Donald_Trump,2509,0.381,Powhatan_VA
+Virginia,VA,Prince Edward,51147,Republican,Donald_Trump,853,0.414,Prince Edward_VA
+Virginia,VA,Prince George,51149,Republican,Donald_Trump,1938,0.483,Prince George_VA
+Virginia,VA,Prince William,51153,Republican,Marco_Rubio,15537,0.335,Prince William_VA
+Virginia,VA,Rappahannock,51157,Republican,Donald_Trump,556,0.406,Rappahannock_VA
+Virginia,VA,Roanoke,51161,Republican,Donald_Trump,5650,0.346,Roanoke_VA
+Virginia,VA,Rockbridge,51163,Republican,Donald_Trump,1154,0.355,Rockbridge_VA
+Virginia,VA,Shenandoah,51171,Republican,Donald_Trump,2400,0.384,Shenandoah_VA
+Virginia,VA,Smyth,51173,Republican,Donald_Trump,1744,0.52,Smyth_VA
+Virginia,VA,Southampton,51175,Republican,Donald_Trump,1025,0.47,Southampton_VA
+Virginia,VA,Spotsylvania,51177,Republican,Donald_Trump,6858,0.375,Spotsylvania_VA
+Virginia,VA,Stafford,51179,Republican,Donald_Trump,7339,0.36,Stafford_VA
+Virginia,VA,Suffolk,51800,Republican,Donald_Trump,3732,0.395,Suffolk_VA
+Virginia,VA,Sussex,51183,Republican,Donald_Trump,440,0.493,Sussex_VA
+Virginia,VA,Virginia Beach,51810,Republican,Donald_Trump,22139,0.397,Virginia Beach_VA
+Virginia,VA,Westmoreland,51193,Republican,Donald_Trump,1002,0.488,Westmoreland_VA
+Virginia,VA,Wythe,51197,Republican,Donald_Trump,1873,0.537,Wythe_VA

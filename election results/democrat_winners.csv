@@ -1,0 +1,1210 @@
+state,state_abbreviation,county,fips,party,candidate,MAX(votes),fraction_votes,county_state
+Alabama,AL,Autauga,1001,Democrat,Hillary_Clinton,2387,0.8,Autauga_AL
+Alabama,AL,Baldwin,1003,Democrat,Hillary_Clinton,5290,0.647,Baldwin_AL
+Alabama,AL,Barbour,1005,Democrat,Hillary_Clinton,2567,0.906,Barbour_AL
+Alabama,AL,Bullock,1011,Democrat,Hillary_Clinton,2451,0.913,Bullock_AL
+Alabama,AL,Chambers,1017,Democrat,Hillary_Clinton,2899,0.886,Chambers_AL
+Alabama,AL,Chilton,1021,Democrat,Hillary_Clinton,860,0.731,Chilton_AL
+Alabama,AL,Choctaw,1023,Democrat,Hillary_Clinton,1772,0.802,Choctaw_AL
+Alabama,AL,Colbert,1033,Democrat,Hillary_Clinton,3879,0.65,Colbert_AL
+Alabama,AL,Conecuh,1035,Democrat,Hillary_Clinton,2031,0.714,Conecuh_AL
+Alabama,AL,Coosa,1037,Democrat,Hillary_Clinton,1012,0.877,Coosa_AL
+Alabama,AL,Crenshaw,1041,Democrat,Hillary_Clinton,908,0.878,Crenshaw_AL
+Alabama,AL,Cullman,1043,Democrat,Hillary_Clinton,1275,0.608,Cullman_AL
+Alabama,AL,Dale,1045,Democrat,Hillary_Clinton,1544,0.77,Dale_AL
+Alabama,AL,Elmore,1051,Democrat,Hillary_Clinton,3019,0.801,Elmore_AL
+Alabama,AL,Etowah,1055,Democrat,Hillary_Clinton,4262,0.746,Etowah_AL
+Alabama,AL,Geneva,1061,Democrat,Hillary_Clinton,544,0.749,Geneva_AL
+Alabama,AL,Hale,1065,Democrat,Hillary_Clinton,2426,0.796,Hale_AL
+Alabama,AL,Jefferson,1073,Democrat,Hillary_Clinton,67357,0.816,Jefferson_AL
+Alabama,AL,Lauderdale,1077,Democrat,Hillary_Clinton,3676,0.652,Lauderdale_AL
+Alabama,AL,Limestone,1083,Democrat,Hillary_Clinton,3199,0.728,Limestone_AL
+Alabama,AL,Madison,1089,Democrat,Hillary_Clinton,19995,0.686,Madison_AL
+Alabama,AL,Marengo,1091,Democrat,Hillary_Clinton,3590,0.658,Marengo_AL
+Alabama,AL,Mobile,1097,Democrat,Hillary_Clinton,28927,0.827,Mobile_AL
+Alabama,AL,Morgan,1103,Democrat,Hillary_Clinton,3897,0.731,Morgan_AL
+Alabama,AL,Perry,1105,Democrat,Hillary_Clinton,2575,0.82,Perry_AL
+Alabama,AL,Russell,1113,Democrat,Hillary_Clinton,4381,0.728,Russell_AL
+Alabama,AL,Talladega,1121,Democrat,Hillary_Clinton,5561,0.865,Talladega_AL
+Alabama,AL,Tallapoosa,1123,Democrat,Hillary_Clinton,2658,0.88,Tallapoosa_AL
+Alabama,AL,Tuscaloosa,1125,Democrat,Hillary_Clinton,12136,0.767,Tuscaloosa_AL
+Alabama,AL,Walker,1127,Democrat,Hillary_Clinton,1772,0.671,Walker_AL
+Alabama,AL,Wilcox,1131,Democrat,Hillary_Clinton,3337,0.843,Wilcox_AL
+Arizona,AZ,Apache,4001,Democrat,Hillary_Clinton,4450,0.664,Apache_AZ
+Arizona,AZ,Cochise,4003,Democrat,Hillary_Clinton,4654,0.565,Cochise_AZ
+Arizona,AZ,Coconino,4005,Democrat,Bernie_Sanders,6941,0.534,Coconino_AZ
+Arizona,AZ,Gila,4007,Democrat,Hillary_Clinton,2196,0.592,Gila_AZ
+Arizona,AZ,Graham,4009,Democrat,Hillary_Clinton,937,0.491,Graham_AZ
+Arizona,AZ,Greenlee,4011,Democrat,Hillary_Clinton,497,0.546,Greenlee_AZ
+Arizona,AZ,La Paz,4012,Democrat,Hillary_Clinton,309,0.517,La Paz_AZ
+Arizona,AZ,Maricopa,4013,Democrat,Hillary_Clinton,126988,0.581,Maricopa_AZ
+Arizona,AZ,Mohave,4015,Democrat,Hillary_Clinton,4170,0.564,Mohave_AZ
+Arizona,AZ,Navajo,4017,Democrat,Hillary_Clinton,4415,0.597,Navajo_AZ
+Arizona,AZ,Pima,4019,Democrat,Hillary_Clinton,56317,0.573,Pima_AZ
+Arizona,AZ,Pinal,4021,Democrat,Hillary_Clinton,9771,0.621,Pinal_AZ
+Arizona,AZ,Santa Cruz,4023,Democrat,Hillary_Clinton,2496,0.658,Santa Cruz_AZ
+Arizona,AZ,Yavapai,4025,Democrat,Hillary_Clinton,8401,0.529,Yavapai_AZ
+Arizona,AZ,Yuma,4027,Democrat,Hillary_Clinton,4358,0.637,Yuma_AZ
+Arkansas,AR,Arkansas,5001,Democrat,Hillary_Clinton,724,0.833,Arkansas_AR
+Arkansas,AR,Ashley,5003,Democrat,Hillary_Clinton,1375,0.474,Ashley_AR
+Arkansas,AR,Baxter,5005,Democrat,Hillary_Clinton,1391,0.624,Baxter_AR
+Arkansas,AR,Benton,5007,Democrat,Hillary_Clinton,5650,0.541,Benton_AR
+Arkansas,AR,Chicot,5017,Democrat,Hillary_Clinton,1370,0.811,Chicot_AR
+Arkansas,AR,Cleburne,5023,Democrat,Hillary_Clinton,758,0.687,Cleburne_AR
+Arkansas,AR,Conway,5029,Democrat,Hillary_Clinton,1755,0.621,Conway_AR
+Arkansas,AR,Craighead,5031,Democrat,Hillary_Clinton,3543,0.64,Craighead_AR
+Arkansas,AR,Crawford,5033,Democrat,Hillary_Clinton,1586,0.625,Crawford_AR
+Arkansas,AR,Crittenden,5035,Democrat,Hillary_Clinton,3379,0.764,Crittenden_AR
+Arkansas,AR,Cross,5037,Democrat,Hillary_Clinton,780,0.742,Cross_AR
+Arkansas,AR,Desha,5041,Democrat,Hillary_Clinton,1342,0.686,Desha_AR
+Arkansas,AR,Drew,5043,Democrat,Hillary_Clinton,1250,0.678,Drew_AR
+Arkansas,AR,Faulkner,5045,Democrat,Hillary_Clinton,4077,0.586,Faulkner_AR
+Arkansas,AR,Garland,5051,Democrat,Hillary_Clinton,4057,0.687,Garland_AR
+Arkansas,AR,Grant,5053,Democrat,Hillary_Clinton,690,0.663,Grant_AR
+Arkansas,AR,Hempstead,5057,Democrat,Hillary_Clinton,786,0.795,Hempstead_AR
+Arkansas,AR,Hot Spring,5059,Democrat,Hillary_Clinton,1562,0.637,Hot Spring_AR
+Arkansas,AR,Howard,5061,Democrat,Hillary_Clinton,535,0.765,Howard_AR
+Arkansas,AR,Independence,5063,Democrat,Hillary_Clinton,1059,0.645,Independence_AR
+Arkansas,AR,Izard,5065,Democrat,Hillary_Clinton,516,0.649,Izard_AR
+Arkansas,AR,Little River,5081,Democrat,Hillary_Clinton,721,0.531,Little River_AR
+Arkansas,AR,Lonoke,5085,Democrat,Hillary_Clinton,1664,0.654,Lonoke_AR
+Arkansas,AR,Miller,5091,Democrat,Hillary_Clinton,1300,0.761,Miller_AR
+Arkansas,AR,Mississippi,5093,Democrat,Hillary_Clinton,2017,0.819,Mississippi_AR
+Arkansas,AR,Nevada,5099,Democrat,Hillary_Clinton,647,0.592,Nevada_AR
+Arkansas,AR,Phillips,5107,Democrat,Hillary_Clinton,2696,0.754,Phillips_AR
+Arkansas,AR,Poinsett,5111,Democrat,Hillary_Clinton,717,0.724,Poinsett_AR
+Arkansas,AR,Pope,5115,Democrat,Hillary_Clinton,1680,0.576,Pope_AR
+Arkansas,AR,Prairie,5117,Democrat,Hillary_Clinton,558,0.517,Prairie_AR
+Arkansas,AR,Pulaski,5119,Democrat,Hillary_Clinton,34862,0.764,Pulaski_AR
+Arkansas,AR,Saline,5125,Democrat,Hillary_Clinton,4358,0.674,Saline_AR
+Arkansas,AR,Searcy,5129,Democrat,Hillary_Clinton,221,0.564,Searcy_AR
+Arkansas,AR,Sebastian,5131,Democrat,Hillary_Clinton,3694,0.611,Sebastian_AR
+Arkansas,AR,Sharp,5135,Democrat,Hillary_Clinton,608,0.642,Sharp_AR
+Arkansas,AR,Washington,5143,Democrat,Hillary_Clinton,9110,0.513,Washington_AR
+Arkansas,AR,White,5145,Democrat,Hillary_Clinton,2024,0.69,White_AR
+Arkansas,AR,Woodruff,5147,Democrat,Hillary_Clinton,862,0.662,Woodruff_AR
+Arkansas,AR,Yell,5149,Democrat,Hillary_Clinton,723,0.582,Yell_AR
+Colorado,CO,Adams,8001,Democrat,Bernie_Sanders,3279,0.61,Adams_CO
+Colorado,CO,Alamosa,8003,Democrat,Bernie_Sanders,167,0.63,Alamosa_CO
+Colorado,CO,Arapahoe,8005,Democrat,Bernie_Sanders,6086,0.53,Arapahoe_CO
+Colorado,CO,Archuleta,8007,Democrat,Bernie_Sanders,156,0.642,Archuleta_CO
+Colorado,CO,Baca,8009,Democrat,Hillary_Clinton,15,0.319,Baca_CO
+Colorado,CO,Bent,8011,Democrat,Hillary_Clinton,26,0.481,Bent_CO
+Colorado,CO,Boulder,8013,Democrat,Bernie_Sanders,11142,0.636,Boulder_CO
+Colorado,CO,Broomfield,8014,Democrat,Bernie_Sanders,1010,0.632,Broomfield_CO
+Colorado,CO,Chaffee,8015,Democrat,Bernie_Sanders,404,0.652,Chaffee_CO
+Colorado,CO,Clear Creek,8019,Democrat,Bernie_Sanders,199,0.553,Clear Creek_CO
+Colorado,CO,Conejos,8021,Democrat,Hillary_Clinton,73,0.584,Conejos_CO
+Colorado,CO,Costilla,8023,Democrat,Hillary_Clinton,64,0.566,Costilla_CO
+Colorado,CO,Crowley,8025,Democrat,Bernie_Sanders,16,0.5,Crowley_CO
+Colorado,CO,Denver,8031,Democrat,Bernie_Sanders,14624,0.544,Denver_CO
+Colorado,CO,Dolores,8033,Democrat,Bernie_Sanders,22,0.629,Dolores_CO
+Colorado,CO,Eagle,8037,Democrat,Bernie_Sanders,623,0.637,Eagle_CO
+Colorado,CO,Fremont,8043,Democrat,Bernie_Sanders,268,0.571,Fremont_CO
+Colorado,CO,Gilpin,8047,Democrat,Bernie_Sanders,173,0.698,Gilpin_CO
+Colorado,CO,Gunnison,8051,Democrat,Bernie_Sanders,481,0.763,Gunnison_CO
+Colorado,CO,Hinsdale,8053,Democrat,Bernie_Sanders,10,0.714,Hinsdale_CO
+Colorado,CO,Huerfano,8055,Democrat,Bernie_Sanders,150,0.584,Huerfano_CO
+Colorado,CO,Kit Carson,8063,Democrat,Bernie_Sanders,16,0.593,Kit Carson_CO
+Colorado,CO,La Plata,8067,Democrat,Bernie_Sanders,1466,0.641,La Plata_CO
+Colorado,CO,Larimer,8069,Democrat,Bernie_Sanders,6664,0.672,Larimer_CO
+Colorado,CO,Las Animas,8071,Democrat,Bernie_Sanders,106,0.512,Las Animas_CO
+Colorado,CO,Mesa,8077,Democrat,Bernie_Sanders,1095,0.573,Mesa_CO
+Colorado,CO,Moffat,8081,Democrat,Bernie_Sanders,28,0.56,Moffat_CO
+Colorado,CO,Montezuma,8083,Democrat,Bernie_Sanders,412,0.673,Montezuma_CO
+Colorado,CO,Montrose,8085,Democrat,Bernie_Sanders,258,0.549,Montrose_CO
+Colorado,CO,Otero,8089,Democrat,Bernie_Sanders,94,0.543,Otero_CO
+Colorado,CO,Ouray,8091,Democrat,Bernie_Sanders,156,0.645,Ouray_CO
+Colorado,CO,Park,8093,Democrat,Bernie_Sanders,231,0.662,Park_CO
+Colorado,CO,Pitkin,8097,Democrat,Bernie_Sanders,421,0.547,Pitkin_CO
+Colorado,CO,Prowers,8099,Democrat,Hillary_Clinton,40,0.69,Prowers_CO
+Colorado,CO,Pueblo,8101,Democrat,Hillary_Clinton,1260,0.517,Pueblo_CO
+Colorado,CO,Rio Blanco,8103,Democrat,Bernie_Sanders,18,0.692,Rio Blanco_CO
+Colorado,CO,Rio Grande,8105,Democrat,Bernie_Sanders,59,0.546,Rio Grande_CO
+Colorado,CO,Routt,8107,Democrat,Bernie_Sanders,406,0.63,Routt_CO
+Colorado,CO,Saguache,8109,Democrat,Bernie_Sanders,219,0.811,Saguache_CO
+Colorado,CO,San Miguel,8113,Democrat,Bernie_Sanders,329,0.783,San Miguel_CO
+Colorado,CO,Sedgwick,8115,Democrat,Hillary_Clinton,13,0.619,Sedgwick_CO
+Colorado,CO,Teller,8119,Democrat,Bernie_Sanders,219,0.622,Teller_CO
+Colorado,CO,Weld,8123,Democrat,Bernie_Sanders,1647,0.607,Weld_CO
+Florida,FL,Alachua,12001,Democrat,Hillary_Clinton,17733,0.492,Alachua_FL
+Florida,FL,Baker,12003,Democrat,Bernie_Sanders,805,0.474,Baker_FL
+Florida,FL,Bradford,12007,Democrat,Hillary_Clinton,1056,0.487,Bradford_FL
+Florida,FL,Brevard,12009,Democrat,Hillary_Clinton,31835,0.597,Brevard_FL
+Florida,FL,Broward,12011,Democrat,Hillary_Clinton,132527,0.725,Broward_FL
+Florida,FL,Charlotte,12015,Democrat,Hillary_Clinton,8125,0.621,Charlotte_FL
+Florida,FL,Citrus,12017,Democrat,Hillary_Clinton,6863,0.563,Citrus_FL
+Florida,FL,Collier,12021,Democrat,Hillary_Clinton,12712,0.661,Collier_FL
+Florida,FL,Dixie,12029,Democrat,Bernie_Sanders,459,0.451,Dixie_FL
+Florida,FL,Duval,12031,Democrat,Hillary_Clinton,58632,0.672,Duval_FL
+Florida,FL,Escambia,12033,Democrat,Hillary_Clinton,16765,0.622,Escambia_FL
+Florida,FL,Flagler,12035,Democrat,Hillary_Clinton,6152,0.658,Flagler_FL
+Florida,FL,Gadsden,12039,Democrat,Hillary_Clinton,7446,0.764,Gadsden_FL
+Florida,FL,Gilchrist,12041,Democrat,Bernie_Sanders,578,0.507,Gilchrist_FL
+Florida,FL,Glades,12043,Democrat,Hillary_Clinton,387,0.499,Glades_FL
+Florida,FL,Gulf,12045,Democrat,Hillary_Clinton,568,0.474,Gulf_FL
+Florida,FL,Hardee,12049,Democrat,Hillary_Clinton,529,0.527,Hardee_FL
+Florida,FL,Hendry,12051,Democrat,Hillary_Clinton,1156,0.606,Hendry_FL
+Florida,FL,Hernando,12053,Democrat,Hillary_Clinton,8882,0.596,Hernando_FL
+Florida,FL,Highlands,12055,Democrat,Hillary_Clinton,3711,0.614,Highlands_FL
+Florida,FL,Hillsborough,12057,Democrat,Hillary_Clinton,68936,0.628,Hillsborough_FL
+Florida,FL,Indian River,12061,Democrat,Hillary_Clinton,6897,0.624,Indian River_FL
+Florida,FL,Lee,12071,Democrat,Hillary_Clinton,27940,0.627,Lee_FL
+Florida,FL,Leon,12073,Democrat,Hillary_Clinton,27333,0.565,Leon_FL
+Florida,FL,Levy,12075,Democrat,Hillary_Clinton,1570,0.5,Levy_FL
+Florida,FL,Manatee,12081,Democrat,Hillary_Clinton,18116,0.625,Manatee_FL
+Florida,FL,Marion,12083,Democrat,Hillary_Clinton,18220,0.627,Marion_FL
+Florida,FL,Martin,12085,Democrat,Hillary_Clinton,6523,0.598,Martin_FL
+Florida,FL,Miami-Dade,12086,Democrat,Hillary_Clinton,129467,0.747,Miami-Dade_FL
+Florida,FL,Nassau,12089,Democrat,Hillary_Clinton,2910,0.562,Nassau_FL
+Florida,FL,Okeechobee,12093,Democrat,Hillary_Clinton,1150,0.552,Okeechobee_FL
+Florida,FL,Orange,12095,Democrat,Hillary_Clinton,66654,0.638,Orange_FL
+Florida,FL,Osceola,12097,Democrat,Hillary_Clinton,16512,0.682,Osceola_FL
+Florida,FL,Palm Beach,12099,Democrat,Hillary_Clinton,103369,0.715,Palm Beach_FL
+Florida,FL,Pasco,12101,Democrat,Hillary_Clinton,21760,0.583,Pasco_FL
+Florida,FL,Pinellas,12103,Democrat,Hillary_Clinton,63699,0.603,Pinellas_FL
+Florida,FL,Polk,12105,Democrat,Hillary_Clinton,29328,0.63,Polk_FL
+Florida,FL,Putnam,12107,Democrat,Hillary_Clinton,3182,0.494,Putnam_FL
+Florida,FL,Santa Rosa,12113,Democrat,Hillary_Clinton,3938,0.492,Santa Rosa_FL
+Florida,FL,Sarasota,12115,Democrat,Hillary_Clinton,25881,0.611,Sarasota_FL
+Florida,FL,Seminole,12117,Democrat,Hillary_Clinton,22069,0.583,Seminole_FL
+Florida,FL,Suwannee,12121,Democrat,Bernie_Sanders,1550,0.443,Suwannee_FL
+Florida,FL,Volusia,12127,Democrat,Hillary_Clinton,26276,0.602,Volusia_FL
+Florida,FL,Wakulla,12129,Democrat,Hillary_Clinton,1659,0.489,Wakulla_FL
+Georgia,GA,Appling,13001,Democrat,Hillary_Clinton,490,0.756,Appling_GA
+Georgia,GA,Atkinson,13003,Democrat,Hillary_Clinton,201,0.798,Atkinson_GA
+Georgia,GA,Bacon,13005,Democrat,Hillary_Clinton,113,0.638,Bacon_GA
+Georgia,GA,Banks,13011,Democrat,Hillary_Clinton,172,0.49,Banks_GA
+Georgia,GA,Barrow,13013,Democrat,Hillary_Clinton,1457,0.617,Barrow_GA
+Georgia,GA,Bartow,13015,Democrat,Hillary_Clinton,2216,0.59,Bartow_GA
+Georgia,GA,Ben Hill,13017,Democrat,Hillary_Clinton,779,0.802,Ben Hill_GA
+Georgia,GA,Bibb,13021,Democrat,Hillary_Clinton,12944,0.828,Bibb_GA
+Georgia,GA,Bleckley,13023,Democrat,Hillary_Clinton,370,0.777,Bleckley_GA
+Georgia,GA,Brantley,13025,Democrat,Hillary_Clinton,137,0.491,Brantley_GA
+Georgia,GA,Bulloch,13031,Democrat,Hillary_Clinton,1910,0.607,Bulloch_GA
+Georgia,GA,Butts,13035,Democrat,Hillary_Clinton,922,0.817,Butts_GA
+Georgia,GA,Candler,13043,Democrat,Hillary_Clinton,434,0.783,Candler_GA
+Georgia,GA,Catoosa,13047,Democrat,Hillary_Clinton,1082,0.508,Catoosa_GA
+Georgia,GA,Charlton,13049,Democrat,Hillary_Clinton,275,0.737,Charlton_GA
+Georgia,GA,Chatham,13051,Democrat,Hillary_Clinton,19898,0.723,Chatham_GA
+Georgia,GA,Chattahoochee,13053,Democrat,Hillary_Clinton,182,0.813,Chattahoochee_GA
+Georgia,GA,Chattooga,13055,Democrat,Hillary_Clinton,566,0.637,Chattooga_GA
+Georgia,GA,Cherokee,13057,Democrat,Hillary_Clinton,4837,0.518,Cherokee_GA
+Georgia,GA,Clarke,13059,Democrat,Hillary_Clinton,7089,0.507,Clarke_GA
+Georgia,GA,Clayton,13063,Democrat,Hillary_Clinton,25130,0.816,Clayton_GA
+Georgia,GA,Clinch,13065,Democrat,Hillary_Clinton,167,0.795,Clinch_GA
+Georgia,GA,Cobb,13067,Democrat,Hillary_Clinton,39277,0.635,Cobb_GA
+Georgia,GA,Colquitt,13071,Democrat,Hillary_Clinton,1035,0.761,Colquitt_GA
+Georgia,GA,Columbia,13073,Democrat,Hillary_Clinton,4805,0.669,Columbia_GA
+Georgia,GA,Cook,13075,Democrat,Hillary_Clinton,580,0.762,Cook_GA
+Georgia,GA,Coweta,13077,Democrat,Hillary_Clinton,4536,0.665,Coweta_GA
+Georgia,GA,Crisp,13081,Democrat,Hillary_Clinton,729,0.801,Crisp_GA
+Georgia,GA,Dade,13083,Democrat,Hillary_Clinton,241,0.503,Dade_GA
+Georgia,GA,Dawson,13085,Democrat,Hillary_Clinton,312,0.53,Dawson_GA
+Georgia,GA,Decatur,13087,Democrat,Hillary_Clinton,1316,0.79,Decatur_GA
+Georgia,GA,Dodge,13091,Democrat,Hillary_Clinton,579,0.795,Dodge_GA
+Georgia,GA,Dooly,13093,Democrat,Hillary_Clinton,737,0.884,Dooly_GA
+Georgia,GA,Dougherty,13095,Democrat,Hillary_Clinton,8891,0.857,Dougherty_GA
+Georgia,GA,Douglas,13097,Democrat,Hillary_Clinton,9375,0.746,Douglas_GA
+Georgia,GA,Early,13099,Democrat,Hillary_Clinton,671,0.892,Early_GA
+Georgia,GA,Echols,13101,Democrat,Bernie_Sanders,36,0.514,Echols_GA
+Georgia,GA,Elbert,13105,Democrat,Hillary_Clinton,805,0.75,Elbert_GA
+Georgia,GA,Emanuel,13107,Democrat,Hillary_Clinton,755,0.831,Emanuel_GA
+Georgia,GA,Evans,13109,Democrat,Hillary_Clinton,347,0.785,Evans_GA
+Georgia,GA,Fannin,13111,Democrat,Hillary_Clinton,545,0.599,Fannin_GA
+Georgia,GA,Fayette,13113,Democrat,Hillary_Clinton,7257,0.711,Fayette_GA
+Georgia,GA,Floyd,13115,Democrat,Hillary_Clinton,2555,0.645,Floyd_GA
+Georgia,GA,Fulton,13121,Democrat,Hillary_Clinton,82576,0.711,Fulton_GA
+Georgia,GA,Gilmer,13123,Democrat,Hillary_Clinton,489,0.53,Gilmer_GA
+Georgia,GA,Glascock,13125,Democrat,Hillary_Clinton,38,0.623,Glascock_GA
+Georgia,GA,Glynn,13127,Democrat,Hillary_Clinton,2870,0.687,Glynn_GA
+Georgia,GA,Gordon,13129,Democrat,Hillary_Clinton,776,0.575,Gordon_GA
+Georgia,GA,Gwinnett,13135,Democrat,Hillary_Clinton,37465,0.662,Gwinnett_GA
+Georgia,GA,Habersham,13137,Democrat,Hillary_Clinton,608,0.52,Habersham_GA
+Georgia,GA,Hall,13139,Democrat,Hillary_Clinton,3482,0.603,Hall_GA
+Georgia,GA,Haralson,13143,Democrat,Hillary_Clinton,413,0.551,Haralson_GA
+Georgia,GA,Hart,13147,Democrat,Hillary_Clinton,740,0.723,Hart_GA
+Georgia,GA,Heard,13149,Democrat,Hillary_Clinton,276,0.701,Heard_GA
+Georgia,GA,Henry,13151,Democrat,Hillary_Clinton,15639,0.777,Henry_GA
+Georgia,GA,Houston,13153,Democrat,Hillary_Clinton,6274,0.76,Houston_GA
+Georgia,GA,Irwin,13155,Democrat,Hillary_Clinton,326,0.799,Irwin_GA
+Georgia,GA,Jeff Davis,13161,Democrat,Hillary_Clinton,400,0.766,Jeff Davis_GA
+Georgia,GA,Jenkins,13165,Democrat,Hillary_Clinton,355,0.841,Jenkins_GA
+Georgia,GA,Lanier,13173,Democrat,Hillary_Clinton,234,0.765,Lanier_GA
+Georgia,GA,Liberty,13179,Democrat,Hillary_Clinton,2783,0.797,Liberty_GA
+Georgia,GA,Long,13183,Democrat,Hillary_Clinton,261,0.685,Long_GA
+Georgia,GA,Lumpkin,13187,Democrat,Hillary_Clinton,560,0.506,Lumpkin_GA
+Georgia,GA,McDuffie,13189,Democrat,Hillary_Clinton,1274,0.847,McDuffie_GA
+Georgia,GA,Meriwether,13199,Democrat,Hillary_Clinton,1463,0.854,Meriwether_GA
+Georgia,GA,Mitchell,13205,Democrat,Hillary_Clinton,1338,0.858,Mitchell_GA
+Georgia,GA,Muscogee,13215,Democrat,Hillary_Clinton,12801,0.791,Muscogee_GA
+Georgia,GA,Newton,13217,Democrat,Hillary_Clinton,7269,0.78,Newton_GA
+Georgia,GA,Oglethorpe,13221,Democrat,Hillary_Clinton,561,0.605,Oglethorpe_GA
+Georgia,GA,Paulding,13223,Democrat,Hillary_Clinton,4095,0.656,Paulding_GA
+Georgia,GA,Peach,13225,Democrat,Hillary_Clinton,1675,0.837,Peach_GA
+Georgia,GA,Pierce,13229,Democrat,Hillary_Clinton,219,0.67,Pierce_GA
+Georgia,GA,Rabun,13241,Democrat,Hillary_Clinton,397,0.541,Rabun_GA
+Georgia,GA,Richmond,13245,Democrat,Hillary_Clinton,16269,0.817,Richmond_GA
+Georgia,GA,Rockdale,13247,Democrat,Hillary_Clinton,7930,0.78,Rockdale_GA
+Georgia,GA,Schley,13249,Democrat,Hillary_Clinton,146,0.834,Schley_GA
+Georgia,GA,Screven,13251,Democrat,Hillary_Clinton,771,0.811,Screven_GA
+Georgia,GA,Spalding,13255,Democrat,Hillary_Clinton,3129,0.786,Spalding_GA
+Georgia,GA,Talbot,13263,Democrat,Hillary_Clinton,852,0.867,Talbot_GA
+Georgia,GA,Taliaferro,13265,Democrat,Hillary_Clinton,236,0.864,Taliaferro_GA
+Georgia,GA,Tattnall,13267,Democrat,Hillary_Clinton,518,0.761,Tattnall_GA
+Georgia,GA,Telfair,13271,Democrat,Hillary_Clinton,426,0.811,Telfair_GA
+Georgia,GA,Terrell,13273,Democrat,Hillary_Clinton,804,0.881,Terrell_GA
+Georgia,GA,Thomas,13275,Democrat,Hillary_Clinton,2053,0.782,Thomas_GA
+Georgia,GA,Tift,13277,Democrat,Hillary_Clinton,1151,0.759,Tift_GA
+Georgia,GA,Toombs,13279,Democrat,Hillary_Clinton,562,0.762,Toombs_GA
+Georgia,GA,Towns,13281,Democrat,Hillary_Clinton,312,0.529,Towns_GA
+Georgia,GA,Treutlen,13283,Democrat,Hillary_Clinton,300,0.822,Treutlen_GA
+Georgia,GA,Troup,13285,Democrat,Hillary_Clinton,3357,0.789,Troup_GA
+Georgia,GA,Turner,13287,Democrat,Hillary_Clinton,330,0.789,Turner_GA
+Georgia,GA,Twiggs,13289,Democrat,Hillary_Clinton,818,0.864,Twiggs_GA
+Georgia,GA,Upson,13293,Democrat,Hillary_Clinton,1236,0.808,Upson_GA
+Georgia,GA,Walton,13297,Democrat,Hillary_Clinton,2309,0.699,Walton_GA
+Georgia,GA,Ware,13299,Democrat,Hillary_Clinton,919,0.75,Ware_GA
+Georgia,GA,Wheeler,13309,Democrat,Hillary_Clinton,177,0.859,Wheeler_GA
+Georgia,GA,Whitfield,13313,Democrat,Hillary_Clinton,1536,0.533,Whitfield_GA
+Georgia,GA,Worth,13321,Democrat,Hillary_Clinton,684,0.794,Worth_GA
+Idaho,ID,Ada,16001,Democrat,Bernie_Sanders,7336,0.805,Ada_ID
+Idaho,ID,Bannock,16005,Democrat,Bernie_Sanders,1197,0.797,Bannock_ID
+Idaho,ID,Bear Lake,16007,Democrat,Bernie_Sanders,25,0.676,Bear Lake_ID
+Idaho,ID,Benewah,16009,Democrat,Bernie_Sanders,49,0.69,Benewah_ID
+Idaho,ID,Bingham,16011,Democrat,Bernie_Sanders,181,0.764,Bingham_ID
+Idaho,ID,Blaine,16013,Democrat,Bernie_Sanders,539,0.683,Blaine_ID
+Idaho,ID,Boise,16015,Democrat,Bernie_Sanders,76,0.679,Boise_ID
+Idaho,ID,Bonner,16017,Democrat,Bernie_Sanders,716,0.793,Bonner_ID
+Idaho,ID,Bonneville,16019,Democrat,Bernie_Sanders,822,0.791,Bonneville_ID
+Idaho,ID,Boundary,16021,Democrat,Bernie_Sanders,158,0.84,Boundary_ID
+Idaho,ID,Butte,16023,Democrat,Bernie_Sanders,20,0.769,Butte_ID
+Idaho,ID,Camas,16025,Democrat,Bernie_Sanders,11,0.579,Camas_ID
+Idaho,ID,Canyon,16027,Democrat,Bernie_Sanders,1312,0.818,Canyon_ID
+Idaho,ID,Caribou,16029,Democrat,Bernie_Sanders,7,0.7,Caribou_ID
+Idaho,ID,Cassia,16031,Democrat,Bernie_Sanders,57,0.613,Cassia_ID
+Idaho,ID,Clearwater,16035,Democrat,Bernie_Sanders,53,0.582,Clearwater_ID
+Idaho,ID,Gem,16045,Democrat,Bernie_Sanders,131,0.704,Gem_ID
+Idaho,ID,Gooding,16047,Democrat,Bernie_Sanders,49,0.636,Gooding_ID
+Idaho,ID,Jerome,16053,Democrat,Bernie_Sanders,107,0.77,Jerome_ID
+Idaho,ID,Kootenai,16055,Democrat,Bernie_Sanders,1561,0.759,Kootenai_ID
+Idaho,ID,Latah,16057,Democrat,Bernie_Sanders,1612,0.839,Latah_ID
+Idaho,ID,Lemhi,16059,Democrat,Bernie_Sanders,71,0.755,Lemhi_ID
+Idaho,ID,Minidoka,16067,Democrat,Bernie_Sanders,51,0.654,Minidoka_ID
+Idaho,ID,Nez Perce,16069,Democrat,Bernie_Sanders,383,0.707,Nez Perce_ID
+Idaho,ID,Oneida,16071,Democrat,Bernie_Sanders,6,0.545,Oneida_ID
+Idaho,ID,Owyhee,16073,Democrat,Bernie_Sanders,40,0.645,Owyhee_ID
+Idaho,ID,Payette,16075,Democrat,Bernie_Sanders,91,0.664,Payette_ID
+Idaho,ID,Power,16077,Democrat,Bernie_Sanders,45,0.703,Power_ID
+Idaho,ID,Shoshone,16079,Democrat,Bernie_Sanders,85,0.654,Shoshone_ID
+Idaho,ID,Teton,16081,Democrat,Bernie_Sanders,311,0.778,Teton_ID
+Idaho,ID,Twin Falls,16083,Democrat,Bernie_Sanders,522,0.722,Twin Falls_ID
+Idaho,ID,Valley,16085,Democrat,Bernie_Sanders,198,0.731,Valley_ID
+Illinois,IL,Bond,17005,Democrat,Bernie_Sanders,858,0.534,Bond_IL
+Illinois,IL,Bureau,17011,Democrat,Bernie_Sanders,1852,0.542,Bureau_IL
+Illinois,IL,Champaign,17019,Democrat,Bernie_Sanders,20581,0.659,Champaign_IL
+Illinois,IL,Coles,17029,Democrat,Bernie_Sanders,2522,0.59,Coles_IL
+Illinois,IL,Edgar,17045,Democrat,Bernie_Sanders,468,0.497,Edgar_IL
+Illinois,IL,Edwards,17047,Democrat,Bernie_Sanders,148,0.498,Edwards_IL
+Illinois,IL,Effingham,17049,Democrat,Bernie_Sanders,1247,0.58,Effingham_IL
+Illinois,IL,Ford,17053,Democrat,Bernie_Sanders,438,0.594,Ford_IL
+Illinois,IL,Gallatin,17059,Democrat,Bernie_Sanders,663,0.504,Gallatin_IL
+Illinois,IL,Grundy,17063,Democrat,Bernie_Sanders,3095,0.596,Grundy_IL
+Illinois,IL,Iroquois,17075,Democrat,Bernie_Sanders,875,0.606,Iroquois_IL
+Illinois,IL,Jersey,17083,Democrat,Bernie_Sanders,1069,0.545,Jersey_IL
+Illinois,IL,Kane,17089,Democrat,Bernie_Sanders,31085,0.562,Kane_IL
+Illinois,IL,Kankakee,17091,Democrat,Bernie_Sanders,5751,0.536,Kankakee_IL
+Illinois,IL,Kendall,17093,Democrat,Bernie_Sanders,7482,0.584,Kendall_IL
+Illinois,IL,Lake,17097,Democrat,Hillary_Clinton,49750,0.527,Lake_IL
+Illinois,IL,Macon,17115,Democrat,Hillary_Clinton,5945,0.538,Macon_IL
+Illinois,IL,Macoupin,17117,Democrat,Bernie_Sanders,3552,0.55,Macoupin_IL
+Illinois,IL,Massac,17127,Democrat,Hillary_Clinton,539,0.513,Massac_IL
+Illinois,IL,McDonough,17109,Democrat,Bernie_Sanders,1469,0.578,McDonough_IL
+Illinois,IL,McHenry,17111,Democrat,Bernie_Sanders,15502,0.611,McHenry_IL
+Illinois,IL,McLean,17113,Democrat,Bernie_Sanders,12936,0.624,McLean_IL
+Illinois,IL,Menard,17129,Democrat,Bernie_Sanders,491,0.547,Menard_IL
+Illinois,IL,Moultrie,17139,Democrat,Bernie_Sanders,566,0.54,Moultrie_IL
+Illinois,IL,Ogle,17141,Democrat,Bernie_Sanders,2642,0.592,Ogle_IL
+Illinois,IL,Peoria,17143,Democrat,Hillary_Clinton,11341,0.52,Peoria_IL
+Illinois,IL,Piatt,17147,Democrat,Bernie_Sanders,1016,0.555,Piatt_IL
+Illinois,IL,Rock Island,17161,Democrat,Hillary_Clinton,10216,0.516,Rock Island_IL
+Illinois,IL,Sangamon,17167,Democrat,Bernie_Sanders,10365,0.526,Sangamon_IL
+Illinois,IL,Schuyler,17169,Democrat,Hillary_Clinton,368,0.544,Schuyler_IL
+Illinois,IL,Stephenson,17177,Democrat,Hillary_Clinton,1953,0.502,Stephenson_IL
+Illinois,IL,Tazewell,17179,Democrat,Bernie_Sanders,7154,0.545,Tazewell_IL
+Illinois,IL,Vermilion,17183,Democrat,Hillary_Clinton,3017,0.512,Vermilion_IL
+Illinois,IL,Wabash,17185,Democrat,Hillary_Clinton,356,0.499,Wabash_IL
+Illinois,IL,Whiteside,17195,Democrat,Bernie_Sanders,3102,0.514,Whiteside_IL
+Illinois,IL,Will,17197,Democrat,Bernie_Sanders,46305,0.524,Will_IL
+Illinois,IL,Winnebago,17201,Democrat,Bernie_Sanders,16715,0.523,Winnebago_IL
+Illinois,IL,Woodford,17203,Democrat,Bernie_Sanders,1616,0.555,Woodford_IL
+Iowa,IA,Allamakee,19005,Democrat,Hillary_Clinton,304,0.507,Allamakee_IA
+Iowa,IA,Appanoose,19007,Democrat,Hillary_Clinton,273,0.547,Appanoose_IA
+Iowa,IA,Audubon,19009,Democrat,Hillary_Clinton,187,0.625,Audubon_IA
+Iowa,IA,Black Hawk,19013,Democrat,Bernie_Sanders,3647,0.529,Black Hawk_IA
+Iowa,IA,Bremer,19017,Democrat,Hillary_Clinton,640,0.533,Bremer_IA
+Iowa,IA,Buena Vista,19021,Democrat,Hillary_Clinton,291,0.486,Buena Vista_IA
+Iowa,IA,Cedar,19031,Democrat,Bernie_Sanders,445,0.557,Cedar_IA
+Iowa,IA,Cerro Gordo,19033,Democrat,Bernie_Sanders,1108,0.504,Cerro Gordo_IA
+Iowa,IA,Des Moines,19057,Democrat,Bernie_Sanders,1066,0.533,Des Moines_IA
+Iowa,IA,Dubuque,19061,Democrat,Hillary_Clinton,2504,0.522,Dubuque_IA
+Iowa,IA,Guthrie,19077,Democrat,Hillary_Clinton,220,0.55,Guthrie_IA
+Iowa,IA,Humboldt,19091,Democrat,Hillary_Clinton,166,0.555,Humboldt_IA
+Iowa,IA,Ida,19093,Democrat,Hillary_Clinton,106,0.533,Ida_IA
+Iowa,IA,Iowa,19095,Democrat,Hillary_Clinton,357,0.51,Iowa_IA
+Iowa,IA,Johnson,19103,Democrat,Bernie_Sanders,5473,0.595,Johnson_IA
+Iowa,IA,Keokuk,19107,Democrat,Hillary_Clinton,250,0.625,Keokuk_IA
+Iowa,IA,Kossuth,19109,Democrat,Hillary_Clinton,360,0.608,Kossuth_IA
+Iowa,IA,Linn,19113,Democrat,Bernie_Sanders,6331,0.523,Linn_IA
+Iowa,IA,Lyon,19119,Democrat,Bernie_Sanders,113,0.568,Lyon_IA
+Iowa,IA,Mahaska,19123,Democrat,Hillary_Clinton,393,0.562,Mahaska_IA
+Iowa,IA,Mills,19129,Democrat,Hillary_Clinton,255,0.511,Mills_IA
+Iowa,IA,Monona,19133,Democrat,Hillary_Clinton,180,0.602,Monona_IA
+Iowa,IA,Muscatine,19139,Democrat,Bernie_Sanders,972,0.54,Muscatine_IA
+Iowa,IA,Palo Alto,19147,Democrat,Hillary_Clinton,213,0.534,Palo Alto_IA
+Iowa,IA,Pocahontas,19151,Democrat,Hillary_Clinton,198,0.66,Pocahontas_IA
+Iowa,IA,Pottawattamie,19155,Democrat,Bernie_Sanders,1573,0.508,Pottawattamie_IA
+Iowa,IA,Poweshiek,19157,Democrat,Bernie_Sanders,475,0.528,Poweshiek_IA
+Iowa,IA,Ringgold,19159,Democrat,Hillary_Clinton,132,0.663,Ringgold_IA
+Iowa,IA,Sac,19161,Democrat,Hillary_Clinton,165,0.55,Sac_IA
+Iowa,IA,Scott,19163,Democrat,Bernie_Sanders,4144,0.505,Scott_IA
+Iowa,IA,Sioux,19167,Democrat,Bernie_Sanders,202,0.506,Sioux_IA
+Iowa,IA,Story,19169,Democrat,Bernie_Sanders,2737,0.595,Story_IA
+Iowa,IA,Tama,19171,Democrat,Hillary_Clinton,476,0.529,Tama_IA
+Iowa,IA,Wapello,19179,Democrat,Hillary_Clinton,817,0.548,Wapello_IA
+Iowa,IA,Winneshiek,19191,Democrat,Bernie_Sanders,616,0.56,Winneshiek_IA
+Iowa,IA,Woodbury,19193,Democrat,Bernie_Sanders,1920,0.533,Woodbury_IA
+Louisiana,LA,Acadia,22001,Democrat,Hillary_Clinton,1862,0.537,Acadia_LA
+Louisiana,LA,Ascension,22005,Democrat,Hillary_Clinton,4221,0.711,Ascension_LA
+Louisiana,LA,Assumption,22007,Democrat,Hillary_Clinton,1139,0.714,Assumption_LA
+Louisiana,LA,Avoyelles,22009,Democrat,Hillary_Clinton,1181,0.64,Avoyelles_LA
+Louisiana,LA,Beauregard,22011,Democrat,Hillary_Clinton,679,0.535,Beauregard_LA
+Louisiana,LA,Bienville,22013,Democrat,Hillary_Clinton,1056,0.769,Bienville_LA
+Louisiana,LA,Bossier,22015,Democrat,Hillary_Clinton,2919,0.665,Bossier_LA
+Louisiana,LA,Caddo,22017,Democrat,Hillary_Clinton,16666,0.798,Caddo_LA
+Louisiana,LA,Calcasieu,22019,Democrat,Hillary_Clinton,6594,0.657,Calcasieu_LA
+Louisiana,LA,Catahoula,22025,Democrat,Hillary_Clinton,431,0.606,Catahoula_LA
+Louisiana,LA,Concordia,22029,Democrat,Hillary_Clinton,1830,0.767,Concordia_LA
+Louisiana,LA,East Baton Rouge,22033,Democrat,Hillary_Clinton,32960,0.784,East Baton Rouge_LA
+Louisiana,LA,East Carroll,22035,Democrat,Hillary_Clinton,508,0.88,East Carroll_LA
+Louisiana,LA,East Feliciana,22037,Democrat,Hillary_Clinton,1847,0.776,East Feliciana_LA
+Louisiana,LA,Evangeline,22039,Democrat,Hillary_Clinton,1319,0.631,Evangeline_LA
+Louisiana,LA,Iberia,22045,Democrat,Hillary_Clinton,2171,0.664,Iberia_LA
+Louisiana,LA,Iberville,22047,Democrat,Hillary_Clinton,3699,0.696,Iberville_LA
+Louisiana,LA,Lafayette,22055,Democrat,Hillary_Clinton,5920,0.597,Lafayette_LA
+Louisiana,LA,Lafourche,22057,Democrat,Hillary_Clinton,2512,0.505,Lafourche_LA
+Louisiana,LA,Morehouse,22067,Democrat,Hillary_Clinton,1513,0.788,Morehouse_LA
+Louisiana,LA,Natchitoches,22069,Democrat,Hillary_Clinton,2545,0.681,Natchitoches_LA
+Louisiana,LA,Orleans,22071,Democrat,Hillary_Clinton,40601,0.747,Orleans_LA
+Louisiana,LA,Ouachita,22073,Democrat,Hillary_Clinton,8995,0.786,Ouachita_LA
+Louisiana,LA,Plaquemines,22075,Democrat,Hillary_Clinton,674,0.716,Plaquemines_LA
+Louisiana,LA,Pointe Coupee,22077,Democrat,Hillary_Clinton,1680,0.767,Pointe Coupee_LA
+Louisiana,LA,Rapides,22079,Democrat,Hillary_Clinton,4722,0.713,Rapides_LA
+Louisiana,LA,Red River,22081,Democrat,Hillary_Clinton,530,0.753,Red River_LA
+Louisiana,LA,Sabine,22085,Democrat,Hillary_Clinton,387,0.498,Sabine_LA
+Louisiana,LA,Tangipahoa,22105,Democrat,Hillary_Clinton,4267,0.657,Tangipahoa_LA
+Louisiana,LA,Tensas,22107,Democrat,Hillary_Clinton,492,0.828,Tensas_LA
+Louisiana,LA,Terrebonne,22109,Democrat,Hillary_Clinton,2647,0.667,Terrebonne_LA
+Louisiana,LA,Vernon,22115,Democrat,Hillary_Clinton,610,0.495,Vernon_LA
+Louisiana,LA,Webster,22119,Democrat,Hillary_Clinton,1878,0.748,Webster_LA
+Louisiana,LA,West Baton Rouge,22121,Democrat,Hillary_Clinton,2178,0.734,West Baton Rouge_LA
+Louisiana,LA,West Carroll,22123,Democrat,Hillary_Clinton,171,0.49,West Carroll_LA
+Louisiana,LA,West Feliciana,22125,Democrat,Hillary_Clinton,902,0.801,West Feliciana_LA
+Louisiana,LA,Winn,22127,Democrat,Hillary_Clinton,488,0.635,Winn_LA
+Maine,ME,Oxford,23017,Democrat,Bernie_Sanders,4,0.667,Oxford_ME
+Maine,ME,Penobscot,23019,Democrat,Bernie_Sanders,4,0.8,Penobscot_ME
+Maine,ME,Waldo,23027,Democrat,Hillary_Clinton,0,0,Waldo_ME
+Massachusetts,MA,Barnstable,25001,Democrat,Bernie_Sanders,4020,0.516,Barnstable_MA
+Massachusetts,MA,Hampden,25013,Democrat,Bernie_Sanders,375,0.527,Hampden_MA
+Massachusetts,MA,Nantucket,25019,Democrat,Bernie_Sanders,1051,0.514,Nantucket_MA
+Massachusetts,MA,Plymouth,25023,Democrat,Bernie_Sanders,4997,0.529,Plymouth_MA
+Massachusetts,MA,Worcester,25027,Democrat,Hillary_Clinton,12132,0.504,Worcester_MA
+Michigan,MI,Alcona,26001,Democrat,Hillary_Clinton,463,0.487,Alcona_MI
+Michigan,MI,Alger,26003,Democrat,Bernie_Sanders,622,0.6,Alger_MI
+Michigan,MI,Allegan,26005,Democrat,Bernie_Sanders,5545,0.603,Allegan_MI
+Michigan,MI,Alpena,26007,Democrat,Bernie_Sanders,1347,0.541,Alpena_MI
+Michigan,MI,Antrim,26009,Democrat,Bernie_Sanders,1491,0.621,Antrim_MI
+Michigan,MI,Arenac,26011,Democrat,Bernie_Sanders,663,0.514,Arenac_MI
+Michigan,MI,Baraga,26013,Democrat,Bernie_Sanders,371,0.555,Baraga_MI
+Michigan,MI,Barry,26015,Democrat,Bernie_Sanders,3078,0.628,Barry_MI
+Michigan,MI,Bay,26017,Democrat,Bernie_Sanders,6363,0.493,Bay_MI
+Michigan,MI,Benzie,26019,Democrat,Bernie_Sanders,1650,0.648,Benzie_MI
+Michigan,MI,Berrien,26021,Democrat,Hillary_Clinton,6646,0.526,Berrien_MI
+Michigan,MI,Branch,26023,Democrat,Bernie_Sanders,1246,0.536,Branch_MI
+Michigan,MI,Calhoun,26025,Democrat,Bernie_Sanders,5810,0.515,Calhoun_MI
+Michigan,MI,Charlevoix,26029,Democrat,Bernie_Sanders,1730,0.609,Charlevoix_MI
+Michigan,MI,Cheboygan,26031,Democrat,Bernie_Sanders,1318,0.556,Cheboygan_MI
+Michigan,MI,Chippewa,26033,Democrat,Bernie_Sanders,1789,0.58,Chippewa_MI
+Michigan,MI,Clare,26035,Democrat,Bernie_Sanders,1239,0.52,Clare_MI
+Michigan,MI,Clinton,26037,Democrat,Bernie_Sanders,4524,0.558,Clinton_MI
+Michigan,MI,Delta,26041,Democrat,Bernie_Sanders,1705,0.524,Delta_MI
+Michigan,MI,Dickinson,26043,Democrat,Bernie_Sanders,1075,0.515,Dickinson_MI
+Michigan,MI,Eaton,26045,Democrat,Bernie_Sanders,7007,0.556,Eaton_MI
+Michigan,MI,Emmet,26047,Democrat,Bernie_Sanders,2589,0.641,Emmet_MI
+Michigan,MI,Genesee,26049,Democrat,Hillary_Clinton,31284,0.517,Genesee_MI
+Michigan,MI,Gladwin,26051,Democrat,Bernie_Sanders,1083,0.509,Gladwin_MI
+Michigan,MI,Gogebic,26053,Democrat,Bernie_Sanders,790,0.523,Gogebic_MI
+Michigan,MI,Grand Traverse,26055,Democrat,Bernie_Sanders,8091,0.649,Grand Traverse_MI
+Michigan,MI,Gratiot,26057,Democrat,Bernie_Sanders,1812,0.603,Gratiot_MI
+Michigan,MI,Hillsdale,26059,Democrat,Bernie_Sanders,1380,0.567,Hillsdale_MI
+Michigan,MI,Houghton,26061,Democrat,Bernie_Sanders,2039,0.64,Houghton_MI
+Michigan,MI,Ingham,26065,Democrat,Bernie_Sanders,22909,0.547,Ingham_MI
+Michigan,MI,Ionia,26067,Democrat,Bernie_Sanders,2812,0.641,Ionia_MI
+Michigan,MI,Iosco,26069,Democrat,Bernie_Sanders,1202,0.514,Iosco_MI
+Michigan,MI,Isabella,26073,Democrat,Bernie_Sanders,4024,0.657,Isabella_MI
+Michigan,MI,Kalamazoo,26077,Democrat,Bernie_Sanders,20146,0.606,Kalamazoo_MI
+Michigan,MI,Kalkaska,26079,Democrat,Bernie_Sanders,987,0.623,Kalkaska_MI
+Michigan,MI,Kent,26081,Democrat,Bernie_Sanders,43375,0.625,Kent_MI
+Michigan,MI,Keweenaw,26083,Democrat,Bernie_Sanders,188,0.584,Keweenaw_MI
+Michigan,MI,Lapeer,26087,Democrat,Bernie_Sanders,4650,0.565,Lapeer_MI
+Michigan,MI,Leelanau,26089,Democrat,Bernie_Sanders,2359,0.61,Leelanau_MI
+Michigan,MI,Lenawee,26091,Democrat,Bernie_Sanders,4256,0.539,Lenawee_MI
+Michigan,MI,Livingston,26093,Democrat,Bernie_Sanders,10435,0.594,Livingston_MI
+Michigan,MI,Luce,26095,Democrat,Bernie_Sanders,291,0.618,Luce_MI
+Michigan,MI,Mackinac,26097,Democrat,Bernie_Sanders,633,0.555,Mackinac_MI
+Michigan,MI,Macomb,26099,Democrat,Hillary_Clinton,47597,0.488,Macomb_MI
+Michigan,MI,Manistee,26101,Democrat,Bernie_Sanders,1646,0.582,Manistee_MI
+Michigan,MI,Marquette,26103,Democrat,Bernie_Sanders,5530,0.617,Marquette_MI
+Michigan,MI,Mason,26105,Democrat,Bernie_Sanders,1741,0.577,Mason_MI
+Michigan,MI,Mecosta,26107,Democrat,Bernie_Sanders,1767,0.586,Mecosta_MI
+Michigan,MI,Menominee,26109,Democrat,Hillary_Clinton,835,0.487,Menominee_MI
+Michigan,MI,Midland,26111,Democrat,Bernie_Sanders,4568,0.587,Midland_MI
+Michigan,MI,Missaukee,26113,Democrat,Bernie_Sanders,591,0.577,Missaukee_MI
+Michigan,MI,Monroe,26115,Democrat,Bernie_Sanders,6842,0.481,Monroe_MI
+Michigan,MI,Montcalm,26117,Democrat,Bernie_Sanders,2762,0.605,Montcalm_MI
+Michigan,MI,Montmorency,26119,Democrat,Hillary_Clinton,392,0.487,Montmorency_MI
+Michigan,MI,Muskegon,26121,Democrat,Bernie_Sanders,10062,0.537,Muskegon_MI
+Michigan,MI,Newaygo,26123,Democrat,Bernie_Sanders,2139,0.607,Newaygo_MI
+Michigan,MI,Oakland,26125,Democrat,Hillary_Clinton,92296,0.514,Oakland_MI
+Michigan,MI,Oceana,26127,Democrat,Bernie_Sanders,1237,0.598,Oceana_MI
+Michigan,MI,Ogemaw,26129,Democrat,Bernie_Sanders,926,0.497,Ogemaw_MI
+Michigan,MI,Ontonagon,26131,Democrat,Bernie_Sanders,362,0.491,Ontonagon_MI
+Michigan,MI,Oscoda,26135,Democrat,Bernie_Sanders,315,0.518,Oscoda_MI
+Michigan,MI,Otsego,26137,Democrat,Bernie_Sanders,1228,0.593,Otsego_MI
+Michigan,MI,Ottawa,26139,Democrat,Bernie_Sanders,14334,0.642,Ottawa_MI
+Michigan,MI,Presque Isle,26141,Democrat,Bernie_Sanders,606,0.488,Presque Isle_MI
+Michigan,MI,Roscommon,26143,Democrat,Bernie_Sanders,1187,0.483,Roscommon_MI
+Michigan,MI,Saginaw,26145,Democrat,Hillary_Clinton,12348,0.552,Saginaw_MI
+Michigan,MI,Sanilac,26151,Democrat,Bernie_Sanders,1485,0.538,Sanilac_MI
+Michigan,MI,Schoolcraft,26153,Democrat,Bernie_Sanders,345,0.506,Schoolcraft_MI
+Michigan,MI,Shiawassee,26155,Democrat,Bernie_Sanders,4452,0.578,Shiawassee_MI
+Michigan,MI,Tuscola,26157,Democrat,Bernie_Sanders,2532,0.544,Tuscola_MI
+Michigan,MI,Van Buren,26159,Democrat,Bernie_Sanders,3656,0.585,Van Buren_MI
+Michigan,MI,Washtenaw,26161,Democrat,Bernie_Sanders,38063,0.554,Washtenaw_MI
+Michigan,MI,Wayne,26163,Democrat,Hillary_Clinton,163886,0.6,Wayne_MI
+Michigan,MI,Wexford,26165,Democrat,Bernie_Sanders,1793,0.65,Wexford_MI
+Mississippi,MS,Alcorn,28003,Democrat,Hillary_Clinton,809,0.708,Alcorn_MS
+Mississippi,MS,Amite,28005,Democrat,Hillary_Clinton,1212,0.89,Amite_MS
+Mississippi,MS,Attala,28007,Democrat,Hillary_Clinton,1519,0.877,Attala_MS
+Mississippi,MS,Bolivar,28011,Democrat,Hillary_Clinton,3029,0.854,Bolivar_MS
+Mississippi,MS,Chickasaw,28017,Democrat,Hillary_Clinton,1398,0.831,Chickasaw_MS
+Mississippi,MS,Claiborne,28021,Democrat,Hillary_Clinton,1411,0.903,Claiborne_MS
+Mississippi,MS,Coahoma,28027,Democrat,Hillary_Clinton,2301,0.823,Coahoma_MS
+Mississippi,MS,Copiah,28029,Democrat,Hillary_Clinton,3373,0.882,Copiah_MS
+Mississippi,MS,Covington,28031,Democrat,Hillary_Clinton,1356,0.882,Covington_MS
+Mississippi,MS,Forrest,28035,Democrat,Hillary_Clinton,3708,0.731,Forrest_MS
+Mississippi,MS,George,28039,Democrat,Hillary_Clinton,349,0.721,George_MS
+Mississippi,MS,Grenada,28043,Democrat,Hillary_Clinton,1634,0.86,Grenada_MS
+Mississippi,MS,Harrison,28047,Democrat,Hillary_Clinton,6886,0.743,Harrison_MS
+Mississippi,MS,Hinds,28049,Democrat,Hillary_Clinton,31386,0.841,Hinds_MS
+Mississippi,MS,Holmes,28051,Democrat,Hillary_Clinton,3301,0.929,Holmes_MS
+Mississippi,MS,Humphreys,28053,Democrat,Hillary_Clinton,2894,0.942,Humphreys_MS
+Mississippi,MS,Issaquena,28055,Democrat,Hillary_Clinton,175,0.884,Issaquena_MS
+Mississippi,MS,Itawamba,28057,Democrat,Hillary_Clinton,377,0.692,Itawamba_MS
+Mississippi,MS,Jones,28067,Democrat,Hillary_Clinton,2681,0.835,Jones_MS
+Mississippi,MS,Kemper,28069,Democrat,Hillary_Clinton,1008,0.892,Kemper_MS
+Mississippi,MS,Lamar,28073,Democrat,Hillary_Clinton,1464,0.725,Lamar_MS
+Mississippi,MS,Leake,28079,Democrat,Hillary_Clinton,1614,0.854,Leake_MS
+Mississippi,MS,Leflore,28083,Democrat,Hillary_Clinton,2094,0.904,Leflore_MS
+Mississippi,MS,Lowndes,28087,Democrat,Hillary_Clinton,4030,0.824,Lowndes_MS
+Mississippi,MS,Marshall,28093,Democrat,Hillary_Clinton,3361,0.887,Marshall_MS
+Mississippi,MS,Neshoba,28099,Democrat,Hillary_Clinton,929,0.781,Neshoba_MS
+Mississippi,MS,Noxubee,28103,Democrat,Hillary_Clinton,1397,0.905,Noxubee_MS
+Mississippi,MS,Oktibbeha,28105,Democrat,Hillary_Clinton,2389,0.758,Oktibbeha_MS
+Mississippi,MS,Panola,28107,Democrat,Hillary_Clinton,3061,0.858,Panola_MS
+Mississippi,MS,Pearl River,28109,Democrat,Hillary_Clinton,974,0.724,Pearl River_MS
+Mississippi,MS,Pike,28113,Democrat,Hillary_Clinton,2870,0.865,Pike_MS
+Mississippi,MS,Prentiss,28117,Democrat,Hillary_Clinton,681,0.71,Prentiss_MS
+Mississippi,MS,Quitman,28119,Democrat,Hillary_Clinton,986,0.853,Quitman_MS
+Mississippi,MS,Rankin,28121,Democrat,Hillary_Clinton,4689,0.771,Rankin_MS
+Mississippi,MS,Sharkey,28125,Democrat,Hillary_Clinton,645,0.914,Sharkey_MS
+Mississippi,MS,Simpson,28127,Democrat,Hillary_Clinton,1855,0.853,Simpson_MS
+Mississippi,MS,Sunflower,28133,Democrat,Hillary_Clinton,2332,0.878,Sunflower_MS
+Mississippi,MS,Tallahatchie,28135,Democrat,Hillary_Clinton,1341,0.874,Tallahatchie_MS
+Mississippi,MS,Tate,28137,Democrat,Hillary_Clinton,1435,0.851,Tate_MS
+Mississippi,MS,Tippah,28139,Democrat,Hillary_Clinton,575,0.749,Tippah_MS
+Mississippi,MS,Tishomingo,28141,Democrat,Hillary_Clinton,361,0.613,Tishomingo_MS
+Mississippi,MS,Tunica,28143,Democrat,Hillary_Clinton,904,0.774,Tunica_MS
+Mississippi,MS,Walthall,28147,Democrat,Hillary_Clinton,1111,0.885,Walthall_MS
+Mississippi,MS,Wilkinson,28157,Democrat,Hillary_Clinton,1269,0.934,Wilkinson_MS
+Mississippi,MS,Winston,28159,Democrat,Hillary_Clinton,1442,0.863,Winston_MS
+Mississippi,MS,Yalobusha,28161,Democrat,Hillary_Clinton,1214,0.842,Yalobusha_MS
+Mississippi,MS,Yazoo,28163,Democrat,Hillary_Clinton,2203,0.908,Yazoo_MS
+Missouri,MO,Adair,29001,Democrat,Bernie_Sanders,1153,0.588,Adair_MO
+Missouri,MO,Andrew,29003,Democrat,Bernie_Sanders,728,0.584,Andrew_MO
+Missouri,MO,Atchison,29005,Democrat,Bernie_Sanders,173,0.546,Atchison_MO
+Missouri,MO,Audrain,29007,Democrat,Hillary_Clinton,749,0.496,Audrain_MO
+Missouri,MO,Barton,29011,Democrat,Bernie_Sanders,214,0.502,Barton_MO
+Missouri,MO,Bates,29013,Democrat,Bernie_Sanders,632,0.531,Bates_MO
+Missouri,MO,Bollinger,29017,Democrat,Hillary_Clinton,242,0.538,Bollinger_MO
+Missouri,MO,Boone,29019,Democrat,Bernie_Sanders,15076,0.606,Boone_MO
+Missouri,MO,Buchanan,29021,Democrat,Bernie_Sanders,4148,0.537,Buchanan_MO
+Missouri,MO,Callaway,29027,Democrat,Bernie_Sanders,1678,0.542,Callaway_MO
+Missouri,MO,Camden,29029,Democrat,Bernie_Sanders,1419,0.499,Camden_MO
+Missouri,MO,Cape Girardeau,29031,Democrat,Bernie_Sanders,2335,0.524,Cape Girardeau_MO
+Missouri,MO,Cass,29037,Democrat,Bernie_Sanders,4185,0.521,Cass_MO
+Missouri,MO,Chariton,29041,Democrat,Hillary_Clinton,321,0.521,Chariton_MO
+Missouri,MO,Christian,29043,Democrat,Bernie_Sanders,3073,0.584,Christian_MO
+Missouri,MO,Clay,29047,Democrat,Bernie_Sanders,12542,0.537,Clay_MO
+Missouri,MO,Cole,29051,Democrat,Bernie_Sanders,3303,0.535,Cole_MO
+Missouri,MO,Cooper,29053,Democrat,Hillary_Clinton,516,0.501,Cooper_MO
+Missouri,MO,Daviess,29061,Democrat,Hillary_Clinton,239,0.51,Daviess_MO
+Missouri,MO,Dent,29065,Democrat,Bernie_Sanders,449,0.556,Dent_MO
+Missouri,MO,Dunklin,29069,Democrat,Hillary_Clinton,724,0.609,Dunklin_MO
+Missouri,MO,Gasconade,29073,Democrat,Bernie_Sanders,507,0.553,Gasconade_MO
+Missouri,MO,Gentry,29075,Democrat,Bernie_Sanders,176,0.494,Gentry_MO
+Missouri,MO,Greene,29077,Democrat,Bernie_Sanders,17403,0.611,Greene_MO
+Missouri,MO,Hickory,29085,Democrat,Hillary_Clinton,73,0.537,Hickory_MO
+Missouri,MO,Holt,29087,Democrat,Hillary_Clinton,128,0.522,Holt_MO
+Missouri,MO,Howell,29091,Democrat,Bernie_Sanders,1209,0.584,Howell_MO
+Missouri,MO,Jackson,29095,Democrat,Hillary_Clinton,48860,0.529,Jackson_MO
+Missouri,MO,Jasper,29097,Democrat,Bernie_Sanders,3826,0.62,Jasper_MO
+Missouri,MO,LaClede,29105,Democrat,Bernie_Sanders,927,0.548,LaClede_MO
+Missouri,MO,Lewis,29111,Democrat,Hillary_Clinton,239,0.483,Lewis_MO
+Missouri,MO,Maries,29125,Democrat,Hillary_Clinton,305,0.502,Maries_MO
+Missouri,MO,McDonald,29119,Democrat,Bernie_Sanders,385,0.503,McDonald_MO
+Missouri,MO,Moniteau,29135,Democrat,Bernie_Sanders,409,0.537,Moniteau_MO
+Missouri,MO,New Madrid,29143,Democrat,Hillary_Clinton,691,0.642,New Madrid_MO
+Missouri,MO,Nodaway,29147,Democrat,Bernie_Sanders,831,0.561,Nodaway_MO
+Missouri,MO,Oregon,29149,Democrat,Hillary_Clinton,319,0.53,Oregon_MO
+Missouri,MO,Ozark,29153,Democrat,Bernie_Sanders,293,0.568,Ozark_MO
+Missouri,MO,Pemiscot,29155,Democrat,Hillary_Clinton,602,0.694,Pemiscot_MO
+Missouri,MO,Pettis,29159,Democrat,Bernie_Sanders,1509,0.535,Pettis_MO
+Missouri,MO,Phelps,29161,Democrat,Bernie_Sanders,1744,0.589,Phelps_MO
+Missouri,MO,Platte,29165,Democrat,Bernie_Sanders,5142,0.521,Platte_MO
+Missouri,MO,Ralls,29173,Democrat,Hillary_Clinton,415,0.545,Ralls_MO
+Missouri,MO,Ray,29177,Democrat,Bernie_Sanders,968,0.495,Ray_MO
+Missouri,MO,Reynolds,29179,Democrat,Hillary_Clinton,230,0.471,Reynolds_MO
+Missouri,MO,Ripley,29181,Democrat,Hillary_Clinton,259,0.491,Ripley_MO
+Missouri,MO,Shannon,29203,Democrat,Hillary_Clinton,317,0.506,Shannon_MO
+Missouri,MO,Stoddard,29207,Democrat,Hillary_Clinton,674,0.566,Stoddard_MO
+Missouri,MO,Stone,29209,Democrat,Bernie_Sanders,885,0.515,Stone_MO
+Missouri,MO,Taney,29213,Democrat,Bernie_Sanders,1373,0.529,Taney_MO
+Missouri,MO,Texas,29215,Democrat,Bernie_Sanders,666,0.512,Texas_MO
+Missouri,MO,Wright,29229,Democrat,Hillary_Clinton,402,0.505,Wright_MO
+Nebraska,NE,Antelope,31003,Democrat,Hillary_Clinton,27,0.54,Antelope_NE
+Nebraska,NE,Arthur,31005,Democrat,Bernie_Sanders,3,0.75,Arthur_NE
+Nebraska,NE,Banner,31007,Democrat,Hillary_Clinton,4,0.571,Banner_NE
+Nebraska,NE,Box Butte,31013,Democrat,Bernie_Sanders,75,0.625,Box Butte_NE
+Nebraska,NE,Boyd,31015,Democrat,Hillary_Clinton,13,0.565,Boyd_NE
+Nebraska,NE,Buffalo,31019,Democrat,Bernie_Sanders,468,0.692,Buffalo_NE
+Nebraska,NE,Burt,31021,Democrat,Hillary_Clinton,54,0.563,Burt_NE
+Nebraska,NE,Chase,31029,Democrat,Hillary_Clinton,16,0.615,Chase_NE
+Nebraska,NE,Cherry,31031,Democrat,Hillary_Clinton,20,0.645,Cherry_NE
+Nebraska,NE,Cheyenne,31033,Democrat,Bernie_Sanders,44,0.611,Cheyenne_NE
+Nebraska,NE,Colfax,31037,Democrat,Hillary_Clinton,24,0.6,Colfax_NE
+Nebraska,NE,Cuming,31039,Democrat,Hillary_Clinton,34,0.567,Cuming_NE
+Nebraska,NE,Dakota,31043,Democrat,Bernie_Sanders,99,0.566,Dakota_NE
+Nebraska,NE,Dawes,31045,Democrat,Bernie_Sanders,127,0.686,Dawes_NE
+Nebraska,NE,Deuel,31049,Democrat,Bernie_Sanders,3,0.6,Deuel_NE
+Nebraska,NE,Dixon,31051,Democrat,Bernie_Sanders,33,0.541,Dixon_NE
+Nebraska,NE,Dundy,31057,Democrat,Hillary_Clinton,14,0.933,Dundy_NE
+Nebraska,NE,Fillmore,31059,Democrat,Hillary_Clinton,34,0.5,Fillmore_NE
+Nebraska,NE,Frontier,31063,Democrat,Hillary_Clinton,9,0.643,Frontier_NE
+Nebraska,NE,Furnas,31065,Democrat,Bernie_Sanders,13,0.52,Furnas_NE
+Nebraska,NE,Gage,31067,Democrat,Hillary_Clinton,175,0.543,Gage_NE
+Nebraska,NE,Garden,31069,Democrat,Bernie_Sanders,13,0.619,Garden_NE
+Nebraska,NE,Gosper,31073,Democrat,Bernie_Sanders,17,0.586,Gosper_NE
+Nebraska,NE,Greeley,31077,Democrat,Hillary_Clinton,11,0.55,Greeley_NE
+Nebraska,NE,Harlan,31083,Democrat,Hillary_Clinton,13,0.52,Harlan_NE
+Nebraska,NE,Hayes,31085,Democrat,Hillary_Clinton,9,1,Hayes_NE
+Nebraska,NE,Hitchcock,31087,Democrat,Hillary_Clinton,6,0.6,Hitchcock_NE
+Nebraska,NE,Hooker,31091,Democrat,Bernie_Sanders,4,0.571,Hooker_NE
+Nebraska,NE,Kearney,31099,Democrat,Bernie_Sanders,36,0.514,Kearney_NE
+Nebraska,NE,Keith,31101,Democrat,Hillary_Clinton,40,0.519,Keith_NE
+Nebraska,NE,Keya Paha,31103,Democrat,Bernie_Sanders,5,0.556,Keya Paha_NE
+Nebraska,NE,Kimball,31105,Democrat,Bernie_Sanders,15,0.652,Kimball_NE
+Nebraska,NE,Lancaster,31109,Democrat,Bernie_Sanders,6456,0.617,Lancaster_NE
+Nebraska,NE,Loup,31115,Democrat,Bernie_Sanders,6,0.545,Loup_NE
+Nebraska,NE,McPherson,31117,Democrat,Hillary_Clinton,3,0.75,McPherson_NE
+Nebraska,NE,Merrick,31121,Democrat,Hillary_Clinton,35,0.583,Merrick_NE
+Nebraska,NE,Morrill,31123,Democrat,Bernie_Sanders,18,0.581,Morrill_NE
+Nebraska,NE,Nance,31125,Democrat,Hillary_Clinton,14,0.56,Nance_NE
+Nebraska,NE,Nemaha,31127,Democrat,Bernie_Sanders,39,0.527,Nemaha_NE
+Nebraska,NE,Nuckolls,31129,Democrat,Bernie_Sanders,18,0.514,Nuckolls_NE
+Nebraska,NE,Otoe,31131,Democrat,Bernie_Sanders,104,0.578,Otoe_NE
+Nebraska,NE,Perkins,31135,Democrat,Hillary_Clinton,16,0.762,Perkins_NE
+Nebraska,NE,Red Willow,31145,Democrat,Bernie_Sanders,46,0.648,Red Willow_NE
+Nebraska,NE,Richardson,31147,Democrat,Hillary_Clinton,36,0.563,Richardson_NE
+Nebraska,NE,Rock,31149,Democrat,Bernie_Sanders,7,0.7,Rock_NE
+Nebraska,NE,Sarpy,31153,Democrat,Bernie_Sanders,1620,0.596,Sarpy_NE
+Nebraska,NE,Saunders,31155,Democrat,Bernie_Sanders,181,0.635,Saunders_NE
+Nebraska,NE,Scotts Bluff,31157,Democrat,Bernie_Sanders,206,0.626,Scotts Bluff_NE
+Nebraska,NE,Seward,31159,Democrat,Bernie_Sanders,121,0.585,Seward_NE
+Nebraska,NE,Sheridan,31161,Democrat,Bernie_Sanders,16,0.615,Sheridan_NE
+Nebraska,NE,Sherman,31163,Democrat,Bernie_Sanders,21,0.656,Sherman_NE
+Nebraska,NE,Stanton,31167,Democrat,Bernie_Sanders,35,0.648,Stanton_NE
+Nebraska,NE,Thayer,31169,Democrat,Hillary_Clinton,40,0.69,Thayer_NE
+Nebraska,NE,Thurston,31173,Democrat,Bernie_Sanders,27,0.529,Thurston_NE
+Nevada,NV,Carson City,32510,Democrat,Bernie_Sanders,83,0.512,Carson City_NV
+Nevada,NV,Churchill,32001,Democrat,Hillary_Clinton,46,0.5,Churchill_NV
+Nevada,NV,Elko,32007,Democrat,Bernie_Sanders,48,0.558,Elko_NV
+Nevada,NV,Esmeralda,32009,Democrat,Bernie_Sanders,15,0.682,Esmeralda_NV
+Nevada,NV,Eureka,32011,Democrat,Bernie_Sanders,19,0.864,Eureka_NV
+Nevada,NV,Lander,32015,Democrat,Bernie_Sanders,48,0.696,Lander_NV
+Nevada,NV,Mineral,32021,Democrat,Hillary_Clinton,39,0.534,Mineral_NV
+Nevada,NV,Nye,32023,Democrat,Hillary_Clinton,94,0.588,Nye_NV
+Nevada,NV,Pershing,32027,Democrat,Bernie_Sanders,33,0.493,Pershing_NV
+Nevada,NV,Storey,32029,Democrat,Hillary_Clinton,31,0.5,Storey_NV
+Nevada,NV,Washoe,32031,Democrat,Bernie_Sanders,1015,0.54,Washoe_NV
+Nevada,NV,White Pine,32033,Democrat,Hillary_Clinton,47,0.505,White Pine_NV
+New Hampshire,NH,Belknap,33001,Democrat,Bernie_Sanders,5990,0.631856540084388,Belknap_NH
+New Hampshire,NH,Carroll,33003,Democrat,Bernie_Sanders,5655,0.636465953854812,Carroll_NH
+New Hampshire,NH,Cheshire,33005,Democrat,Bernie_Sanders,12471,0.70709304303453,Cheshire_NH
+New Hampshire,NH,Coos,33007,Democrat,Bernie_Sanders,3637,0.643716814159292,Coos_NH
+New Hampshire,NH,Grafton,33009,Democrat,Bernie_Sanders,14258,0.673309406875708,Grafton_NH
+New Hampshire,NH,Merrimack,33013,Democrat,Bernie_Sanders,18076,0.596863133564471,Merrimack_NH
+New Hampshire,NH,Rockingham,33015,Democrat,Bernie_Sanders,31080,0.57652711050103,Rockingham_NH
+New Hampshire,NH,Strafford,33017,Democrat,Bernie_Sanders,15865,0.643193059271872,Strafford_NH
+New Hampshire,NH,Sullivan,33019,Democrat,Bernie_Sanders,5906,0.702844222301559,Sullivan_NH
+North Carolina,NC,Alamance,37001,Democrat,Hillary_Clinton,7374,0.537,Alamance_NC
+North Carolina,NC,Alexander,37003,Democrat,Hillary_Clinton,1148,0.458,Alexander_NC
+North Carolina,NC,Alleghany,37005,Democrat,Bernie_Sanders,571,0.448,Alleghany_NC
+North Carolina,NC,Anson,37007,Democrat,Hillary_Clinton,2307,0.661,Anson_NC
+North Carolina,NC,Ashe,37009,Democrat,Hillary_Clinton,1219,0.464,Ashe_NC
+North Carolina,NC,Avery,37011,Democrat,Bernie_Sanders,425,0.539,Avery_NC
+North Carolina,NC,Bertie,37015,Democrat,Hillary_Clinton,2065,0.695,Bertie_NC
+North Carolina,NC,Bladen,37017,Democrat,Hillary_Clinton,3442,0.596,Bladen_NC
+North Carolina,NC,Brunswick,37019,Democrat,Hillary_Clinton,7192,0.601,Brunswick_NC
+North Carolina,NC,Buncombe,37021,Democrat,Bernie_Sanders,30913,0.621,Buncombe_NC
+North Carolina,NC,Burke,37023,Democrat,Hillary_Clinton,3511,0.461,Burke_NC
+North Carolina,NC,Cabarrus,37025,Democrat,Hillary_Clinton,8096,0.517,Cabarrus_NC
+North Carolina,NC,Caldwell,37027,Democrat,Hillary_Clinton,2156,0.47,Caldwell_NC
+North Carolina,NC,Carteret,37031,Democrat,Hillary_Clinton,2946,0.485,Carteret_NC
+North Carolina,NC,Caswell,37033,Democrat,Hillary_Clinton,1701,0.598,Caswell_NC
+North Carolina,NC,Catawba,37035,Democrat,Hillary_Clinton,5310,0.512,Catawba_NC
+North Carolina,NC,Chowan,37041,Democrat,Hillary_Clinton,974,0.618,Chowan_NC
+North Carolina,NC,Columbus,37047,Democrat,Hillary_Clinton,3628,0.563,Columbus_NC
+North Carolina,NC,Craven,37049,Democrat,Hillary_Clinton,5187,0.581,Craven_NC
+North Carolina,NC,Cumberland,37051,Democrat,Hillary_Clinton,22744,0.639,Cumberland_NC
+North Carolina,NC,Dare,37055,Democrat,Bernie_Sanders,2307,0.489,Dare_NC
+North Carolina,NC,Davie,37059,Democrat,Hillary_Clinton,1377,0.54,Davie_NC
+North Carolina,NC,Duplin,37061,Democrat,Hillary_Clinton,3036,0.612,Duplin_NC
+North Carolina,NC,Durham,37063,Democrat,Hillary_Clinton,35845,0.575,Durham_NC
+North Carolina,NC,Edgecombe,37065,Democrat,Hillary_Clinton,6411,0.708,Edgecombe_NC
+North Carolina,NC,Forsyth,37067,Democrat,Hillary_Clinton,24446,0.58,Forsyth_NC
+North Carolina,NC,Gaston,37071,Democrat,Hillary_Clinton,7697,0.541,Gaston_NC
+North Carolina,NC,Gates,37073,Democrat,Hillary_Clinton,749,0.617,Gates_NC
+North Carolina,NC,Granville,37077,Democrat,Hillary_Clinton,4693,0.588,Granville_NC
+North Carolina,NC,Guilford,37081,Democrat,Hillary_Clinton,37880,0.56,Guilford_NC
+North Carolina,NC,Halifax,37083,Democrat,Hillary_Clinton,6224,0.667,Halifax_NC
+North Carolina,NC,Harnett,37085,Democrat,Hillary_Clinton,4655,0.551,Harnett_NC
+North Carolina,NC,Haywood,37087,Democrat,Bernie_Sanders,3873,0.46,Haywood_NC
+North Carolina,NC,Henderson,37089,Democrat,Bernie_Sanders,5129,0.501,Henderson_NC
+North Carolina,NC,Hertford,37091,Democrat,Hillary_Clinton,2926,0.675,Hertford_NC
+North Carolina,NC,Hoke,37093,Democrat,Hillary_Clinton,3528,0.597,Hoke_NC
+North Carolina,NC,Hyde,37095,Democrat,Hillary_Clinton,459,0.48,Hyde_NC
+North Carolina,NC,Iredell,37097,Democrat,Hillary_Clinton,5888,0.509,Iredell_NC
+North Carolina,NC,Johnston,37101,Democrat,Hillary_Clinton,7992,0.521,Johnston_NC
+North Carolina,NC,Lenoir,37107,Democrat,Hillary_Clinton,4731,0.641,Lenoir_NC
+North Carolina,NC,Lincoln,37109,Democrat,Hillary_Clinton,2812,0.513,Lincoln_NC
+North Carolina,NC,McDowell,37111,Democrat,Bernie_Sanders,1622,0.49,McDowell_NC
+North Carolina,NC,Mecklenburg,37119,Democrat,Hillary_Clinton,71265,0.603,Mecklenburg_NC
+North Carolina,NC,Moore,37125,Democrat,Hillary_Clinton,4679,0.588,Moore_NC
+North Carolina,NC,Nash,37127,Democrat,Hillary_Clinton,8554,0.658,Nash_NC
+North Carolina,NC,New Hanover,37129,Democrat,Bernie_Sanders,12276,0.486,New Hanover_NC
+North Carolina,NC,Northampton,37131,Democrat,Hillary_Clinton,3195,0.684,Northampton_NC
+North Carolina,NC,Onslow,37133,Democrat,Hillary_Clinton,4560,0.542,Onslow_NC
+North Carolina,NC,Pamlico,37137,Democrat,Hillary_Clinton,922,0.53,Pamlico_NC
+North Carolina,NC,Pasquotank,37139,Democrat,Hillary_Clinton,2471,0.652,Pasquotank_NC
+North Carolina,NC,Pender,37141,Democrat,Hillary_Clinton,2880,0.564,Pender_NC
+North Carolina,NC,Perquimans,37143,Democrat,Hillary_Clinton,711,0.514,Perquimans_NC
+North Carolina,NC,Person,37145,Democrat,Hillary_Clinton,2954,0.51,Person_NC
+North Carolina,NC,Pitt,37147,Democrat,Hillary_Clinton,11856,0.57,Pitt_NC
+North Carolina,NC,Randolph,37151,Democrat,Hillary_Clinton,2969,0.466,Randolph_NC
+North Carolina,NC,Robeson,37155,Democrat,Hillary_Clinton,8457,0.51,Robeson_NC
+North Carolina,NC,Rowan,37159,Democrat,Hillary_Clinton,5031,0.527,Rowan_NC
+North Carolina,NC,Sampson,37163,Democrat,Hillary_Clinton,3790,0.657,Sampson_NC
+North Carolina,NC,Scotland,37165,Democrat,Hillary_Clinton,2671,0.63,Scotland_NC
+North Carolina,NC,Stanly,37167,Democrat,Hillary_Clinton,2153,0.491,Stanly_NC
+North Carolina,NC,Stokes,37169,Democrat,Hillary_Clinton,1433,0.478,Stokes_NC
+North Carolina,NC,Surry,37171,Democrat,Hillary_Clinton,2380,0.475,Surry_NC
+North Carolina,NC,Swain,37173,Democrat,Bernie_Sanders,831,0.512,Swain_NC
+North Carolina,NC,Transylvania,37175,Democrat,Bernie_Sanders,1954,0.499,Transylvania_NC
+North Carolina,NC,Tyrrell,37177,Democrat,Hillary_Clinton,266,0.493,Tyrrell_NC
+North Carolina,NC,Union,37179,Democrat,Hillary_Clinton,7630,0.558,Union_NC
+North Carolina,NC,Vance,37181,Democrat,Hillary_Clinton,4561,0.64,Vance_NC
+North Carolina,NC,Wake,37183,Democrat,Hillary_Clinton,77927,0.534,Wake_NC
+North Carolina,NC,Watauga,37189,Democrat,Bernie_Sanders,5811,0.685,Watauga_NC
+North Carolina,NC,Wilkes,37193,Democrat,Hillary_Clinton,2107,0.504,Wilkes_NC
+North Carolina,NC,Wilson,37195,Democrat,Hillary_Clinton,6408,0.642,Wilson_NC
+North Carolina,NC,Yadkin,37197,Democrat,Hillary_Clinton,832,0.48,Yadkin_NC
+North Carolina,NC,Yancey,37199,Democrat,Bernie_Sanders,1386,0.495,Yancey_NC
+Ohio,OH,Allen,39003,Democrat,Hillary_Clinton,3670,0.566,Allen_OH
+Ohio,OH,Ashland,39005,Democrat,Bernie_Sanders,1465,0.495,Ashland_OH
+Ohio,OH,Ashtabula,39007,Democrat,Hillary_Clinton,5320,0.549,Ashtabula_OH
+Ohio,OH,Athens,39009,Democrat,Bernie_Sanders,5663,0.612,Athens_OH
+Ohio,OH,Auglaize,39011,Democrat,Hillary_Clinton,1031,0.51,Auglaize_OH
+Ohio,OH,Belmont,39013,Democrat,Hillary_Clinton,3982,0.531,Belmont_OH
+Ohio,OH,Brown,39015,Democrat,Hillary_Clinton,1562,0.583,Brown_OH
+Ohio,OH,Butler,39017,Democrat,Hillary_Clinton,12874,0.534,Butler_OH
+Ohio,OH,Clark,39023,Democrat,Hillary_Clinton,7107,0.587,Clark_OH
+Ohio,OH,Clermont,39025,Democrat,Bernie_Sanders,5710,0.5,Clermont_OH
+Ohio,OH,Columbiana,39029,Democrat,Hillary_Clinton,4106,0.526,Columbiana_OH
+Ohio,OH,Coshocton,39031,Democrat,Hillary_Clinton,1358,0.536,Coshocton_OH
+Ohio,OH,Cuyahoga,39035,Democrat,Hillary_Clinton,125914,0.632,Cuyahoga_OH
+Ohio,OH,Darke,39037,Democrat,Hillary_Clinton,1246,0.542,Darke_OH
+Ohio,OH,Defiance,39039,Democrat,Hillary_Clinton,1507,0.506,Defiance_OH
+Ohio,OH,Delaware,39041,Democrat,Hillary_Clinton,9552,0.579,Delaware_OH
+Ohio,OH,Erie,39043,Democrat,Hillary_Clinton,5449,0.553,Erie_OH
+Ohio,OH,Fairfield,39045,Democrat,Hillary_Clinton,6408,0.553,Fairfield_OH
+Ohio,OH,Franklin,39049,Democrat,Hillary_Clinton,84654,0.553,Franklin_OH
+Ohio,OH,Gallia,39053,Democrat,Bernie_Sanders,966,0.488,Gallia_OH
+Ohio,OH,Geauga,39055,Democrat,Hillary_Clinton,4171,0.54,Geauga_OH
+Ohio,OH,Guernsey,39059,Democrat,Hillary_Clinton,1440,0.53,Guernsey_OH
+Ohio,OH,Hamilton,39061,Democrat,Hillary_Clinton,57687,0.595,Hamilton_OH
+Ohio,OH,Hancock,39063,Democrat,Bernie_Sanders,2490,0.542,Hancock_OH
+Ohio,OH,Hardin,39065,Democrat,Hillary_Clinton,771,0.526,Hardin_OH
+Ohio,OH,Highland,39071,Democrat,Hillary_Clinton,1119,0.552,Highland_OH
+Ohio,OH,Hocking,39073,Democrat,Hillary_Clinton,1204,0.523,Hocking_OH
+Ohio,OH,Huron,39077,Democrat,Hillary_Clinton,2036,0.509,Huron_OH
+Ohio,OH,Lawrence,39087,Democrat,Hillary_Clinton,2654,0.554,Lawrence_OH
+Ohio,OH,Licking,39089,Democrat,Hillary_Clinton,6785,0.533,Licking_OH
+Ohio,OH,Lorain,39093,Democrat,Hillary_Clinton,21144,0.561,Lorain_OH
+Ohio,OH,Lucas,39095,Democrat,Hillary_Clinton,32137,0.569,Lucas_OH
+Ohio,OH,Mahoning,39099,Democrat,Hillary_Clinton,21000,0.593,Mahoning_OH
+Ohio,OH,Medina,39103,Democrat,Hillary_Clinton,7913,0.531,Medina_OH
+Ohio,OH,Meigs,39105,Democrat,Hillary_Clinton,800,0.499,Meigs_OH
+Ohio,OH,Mercer,39107,Democrat,Hillary_Clinton,1037,0.535,Mercer_OH
+Ohio,OH,Miami,39109,Democrat,Hillary_Clinton,3155,0.532,Miami_OH
+Ohio,OH,Montgomery,39113,Democrat,Hillary_Clinton,33352,0.594,Montgomery_OH
+Ohio,OH,Morrow,39117,Democrat,Hillary_Clinton,1164,0.521,Morrow_OH
+Ohio,OH,Muskingum,39119,Democrat,Hillary_Clinton,3066,0.566,Muskingum_OH
+Ohio,OH,Pickaway,39129,Democrat,Hillary_Clinton,2097,0.556,Pickaway_OH
+Ohio,OH,Portage,39133,Democrat,Bernie_Sanders,8877,0.502,Portage_OH
+Ohio,OH,Preble,39135,Democrat,Hillary_Clinton,1176,0.522,Preble_OH
+Ohio,OH,Ross,39141,Democrat,Hillary_Clinton,3582,0.572,Ross_OH
+Ohio,OH,Sandusky,39143,Democrat,Hillary_Clinton,2866,0.534,Sandusky_OH
+Ohio,OH,Scioto,39145,Democrat,Hillary_Clinton,3499,0.537,Scioto_OH
+Ohio,OH,Seneca,39147,Democrat,Hillary_Clinton,2081,0.496,Seneca_OH
+Ohio,OH,Stark,39151,Democrat,Hillary_Clinton,21515,0.565,Stark_OH
+Ohio,OH,Summit,39153,Democrat,Hillary_Clinton,38874,0.566,Summit_OH
+Ohio,OH,Trumbull,39155,Democrat,Hillary_Clinton,17903,0.539,Trumbull_OH
+Ohio,OH,Tuscarawas,39157,Democrat,Hillary_Clinton,4479,0.516,Tuscarawas_OH
+Ohio,OH,Van Wert,39161,Democrat,Hillary_Clinton,710,0.519,Van Wert_OH
+Ohio,OH,Vinton,39163,Democrat,Hillary_Clinton,515,0.495,Vinton_OH
+Ohio,OH,Warren,39165,Democrat,Hillary_Clinton,6970,0.533,Warren_OH
+Ohio,OH,Williams,39171,Democrat,Bernie_Sanders,1156,0.526,Williams_OH
+Ohio,OH,Wood,39173,Democrat,Bernie_Sanders,7165,0.537,Wood_OH
+Ohio,OH,Wyandot,39175,Democrat,Hillary_Clinton,661,0.497,Wyandot_OH
+Oklahoma,OK,Alfalfa,40003,Democrat,Bernie_Sanders,191,0.581,Alfalfa_OK
+Oklahoma,OK,Atoka,40005,Democrat,Bernie_Sanders,723,0.554,Atoka_OK
+Oklahoma,OK,Beaver,40007,Democrat,Bernie_Sanders,94,0.522,Beaver_OK
+Oklahoma,OK,Beckham,40009,Democrat,Bernie_Sanders,824,0.554,Beckham_OK
+Oklahoma,OK,Bryan,40013,Democrat,Bernie_Sanders,1913,0.568,Bryan_OK
+Oklahoma,OK,Canadian,40017,Democrat,Bernie_Sanders,4922,0.563,Canadian_OK
+Oklahoma,OK,Carter,40019,Democrat,Bernie_Sanders,2113,0.55,Carter_OK
+Oklahoma,OK,Cimarron,40025,Democrat,Bernie_Sanders,68,0.54,Cimarron_OK
+Oklahoma,OK,Cleveland,40027,Democrat,Bernie_Sanders,16428,0.593,Cleveland_OK
+Oklahoma,OK,Coal,40029,Democrat,Bernie_Sanders,456,0.636,Coal_OK
+Oklahoma,OK,Comanche,40031,Democrat,Bernie_Sanders,3804,0.485,Comanche_OK
+Oklahoma,OK,Cotton,40033,Democrat,Bernie_Sanders,388,0.564,Cotton_OK
+Oklahoma,OK,Craig,40035,Democrat,Bernie_Sanders,926,0.545,Craig_OK
+Oklahoma,OK,Creek,40037,Democrat,Bernie_Sanders,2786,0.509,Creek_OK
+Oklahoma,OK,Custer,40039,Democrat,Bernie_Sanders,1273,0.571,Custer_OK
+Oklahoma,OK,Dewey,40043,Democrat,Bernie_Sanders,270,0.554,Dewey_OK
+Oklahoma,OK,Garfield,40047,Democrat,Bernie_Sanders,1771,0.522,Garfield_OK
+Oklahoma,OK,Garvin,40049,Democrat,Bernie_Sanders,1505,0.541,Garvin_OK
+Oklahoma,OK,Grady,40051,Democrat,Bernie_Sanders,2677,0.562,Grady_OK
+Oklahoma,OK,Greer,40055,Democrat,Bernie_Sanders,332,0.558,Greer_OK
+Oklahoma,OK,Harmon,40057,Democrat,Bernie_Sanders,167,0.509,Harmon_OK
+Oklahoma,OK,Harper,40059,Democrat,Bernie_Sanders,151,0.579,Harper_OK
+Oklahoma,OK,Haskell,40061,Democrat,Bernie_Sanders,752,0.519,Haskell_OK
+Oklahoma,OK,Hughes,40063,Democrat,Bernie_Sanders,873,0.537,Hughes_OK
+Oklahoma,OK,Kay,40071,Democrat,Bernie_Sanders,1791,0.535,Kay_OK
+Oklahoma,OK,Kingfisher,40073,Democrat,Bernie_Sanders,472,0.585,Kingfisher_OK
+Oklahoma,OK,Kiowa,40075,Democrat,Bernie_Sanders,514,0.54,Kiowa_OK
+Oklahoma,OK,Latimer,40077,Democrat,Bernie_Sanders,852,0.533,Latimer_OK
+Oklahoma,OK,Logan,40083,Democrat,Bernie_Sanders,1645,0.527,Logan_OK
+Oklahoma,OK,Love,40085,Democrat,Bernie_Sanders,502,0.511,Love_OK
+Oklahoma,OK,Major,40093,Democrat,Bernie_Sanders,215,0.532,Major_OK
+Oklahoma,OK,Mayes,40097,Democrat,Bernie_Sanders,2144,0.517,Mayes_OK
+Oklahoma,OK,McClain,40087,Democrat,Bernie_Sanders,1865,0.571,McClain_OK
+Oklahoma,OK,McCurtain,40089,Democrat,Bernie_Sanders,1314,0.523,McCurtain_OK
+Oklahoma,OK,McIntosh,40091,Democrat,Bernie_Sanders,1261,0.496,McIntosh_OK
+Oklahoma,OK,Murray,40099,Democrat,Bernie_Sanders,909,0.546,Murray_OK
+Oklahoma,OK,Muskogee,40101,Democrat,Bernie_Sanders,3515,0.466,Muskogee_OK
+Oklahoma,OK,Noble,40103,Democrat,Bernie_Sanders,562,0.548,Noble_OK
+Oklahoma,OK,Nowata,40105,Democrat,Bernie_Sanders,530,0.499,Nowata_OK
+Oklahoma,OK,Okfuskee,40107,Democrat,Bernie_Sanders,596,0.523,Okfuskee_OK
+Oklahoma,OK,Oklahoma,40109,Democrat,Hillary_Clinton,34255,0.501,Oklahoma_OK
+Oklahoma,OK,Okmulgee,40111,Democrat,Bernie_Sanders,1882,0.461,Okmulgee_OK
+Oklahoma,OK,Osage,40113,Democrat,Hillary_Clinton,2390,0.475,Osage_OK
+Oklahoma,OK,Pawnee,40117,Democrat,Bernie_Sanders,762,0.511,Pawnee_OK
+Oklahoma,OK,Payne,40119,Democrat,Bernie_Sanders,3829,0.567,Payne_OK
+Oklahoma,OK,Pittsburg,40121,Democrat,Bernie_Sanders,3026,0.558,Pittsburg_OK
+Oklahoma,OK,Pontotoc,40123,Democrat,Bernie_Sanders,2392,0.598,Pontotoc_OK
+Oklahoma,OK,Pottawatomie,40125,Democrat,Bernie_Sanders,3400,0.555,Pottawatomie_OK
+Oklahoma,OK,Pushmataha,40127,Democrat,Bernie_Sanders,667,0.561,Pushmataha_OK
+Oklahoma,OK,Roger Mills,40129,Democrat,Bernie_Sanders,268,0.58,Roger Mills_OK
+Oklahoma,OK,Rogers,40131,Democrat,Bernie_Sanders,3757,0.529,Rogers_OK
+Oklahoma,OK,Sequoyah,40135,Democrat,Bernie_Sanders,1872,0.496,Sequoyah_OK
+Oklahoma,OK,Stephens,40137,Democrat,Bernie_Sanders,2108,0.561,Stephens_OK
+Oklahoma,OK,Tillman,40141,Democrat,Bernie_Sanders,346,0.537,Tillman_OK
+Oklahoma,OK,Tulsa,40143,Democrat,Bernie_Sanders,26525,0.496,Tulsa_OK
+Oklahoma,OK,Wagoner,40145,Democrat,Bernie_Sanders,2813,0.491,Wagoner_OK
+Oklahoma,OK,Washita,40149,Democrat,Bernie_Sanders,700,0.601,Washita_OK
+Oklahoma,OK,Woods,40151,Democrat,Bernie_Sanders,363,0.565,Woods_OK
+Oklahoma,OK,Woodward,40153,Democrat,Bernie_Sanders,694,0.624,Woodward_OK
+South Carolina,SC,Abbeville,45001,Democrat,Hillary_Clinton,1501,0.818,Abbeville_SC
+South Carolina,SC,Aiken,45003,Democrat,Hillary_Clinton,6888,0.702,Aiken_SC
+South Carolina,SC,Allendale,45005,Democrat,Hillary_Clinton,1022,0.908,Allendale_SC
+South Carolina,SC,Anderson,45007,Democrat,Hillary_Clinton,5550,0.669,Anderson_SC
+South Carolina,SC,Bamberg,45009,Democrat,Hillary_Clinton,1715,0.883,Bamberg_SC
+South Carolina,SC,Barnwell,45011,Democrat,Hillary_Clinton,1560,0.874,Barnwell_SC
+South Carolina,SC,Beaufort,45013,Democrat,Hillary_Clinton,9945,0.733,Beaufort_SC
+South Carolina,SC,Berkeley,45015,Democrat,Hillary_Clinton,9471,0.72,Berkeley_SC
+South Carolina,SC,Charleston,45019,Democrat,Hillary_Clinton,26535,0.66,Charleston_SC
+South Carolina,SC,Chester,45023,Democrat,Hillary_Clinton,1962,0.796,Chester_SC
+South Carolina,SC,Clarendon,45027,Democrat,Hillary_Clinton,3564,0.908,Clarendon_SC
+South Carolina,SC,Colleton,45029,Democrat,Hillary_Clinton,2932,0.825,Colleton_SC
+South Carolina,SC,Darlington,45031,Democrat,Hillary_Clinton,4988,0.819,Darlington_SC
+South Carolina,SC,Dillon,45033,Democrat,Hillary_Clinton,1615,0.841,Dillon_SC
+South Carolina,SC,Dorchester,45035,Democrat,Hillary_Clinton,6920,0.702,Dorchester_SC
+South Carolina,SC,Edgefield,45037,Democrat,Hillary_Clinton,1474,0.818,Edgefield_SC
+South Carolina,SC,Florence,45041,Democrat,Hillary_Clinton,9411,0.78,Florence_SC
+South Carolina,SC,Georgetown,45043,Democrat,Hillary_Clinton,4931,0.778,Georgetown_SC
+South Carolina,SC,Greenville,45045,Democrat,Hillary_Clinton,19807,0.641,Greenville_SC
+South Carolina,SC,Greenwood,45047,Democrat,Hillary_Clinton,3588,0.774,Greenwood_SC
+South Carolina,SC,Horry,45051,Democrat,Hillary_Clinton,11294,0.672,Horry_SC
+South Carolina,SC,Kershaw,45055,Democrat,Hillary_Clinton,3743,0.771,Kershaw_SC
+South Carolina,SC,Laurens,45059,Democrat,Hillary_Clinton,2952,0.784,Laurens_SC
+South Carolina,SC,Lexington,45063,Democrat,Hillary_Clinton,8810,0.609,Lexington_SC
+South Carolina,SC,Marlboro,45069,Democrat,Hillary_Clinton,2132,0.89,Marlboro_SC
+South Carolina,SC,McCormick,45065,Democrat,Hillary_Clinton,973,0.851,McCormick_SC
+South Carolina,SC,Newberry,45071,Democrat,Hillary_Clinton,2118,0.81,Newberry_SC
+South Carolina,SC,Oconee,45073,Democrat,Hillary_Clinton,1960,0.596,Oconee_SC
+South Carolina,SC,Orangeburg,45075,Democrat,Hillary_Clinton,11819,0.887,Orangeburg_SC
+South Carolina,SC,Pickens,45077,Democrat,Hillary_Clinton,2499,0.555,Pickens_SC
+South Carolina,SC,Richland,45079,Democrat,Hillary_Clinton,39243,0.758,Richland_SC
+South Carolina,SC,Saluda,45081,Democrat,Hillary_Clinton,1023,0.837,Saluda_SC
+South Carolina,SC,Spartanburg,45083,Democrat,Hillary_Clinton,10662,0.703,Spartanburg_SC
+South Carolina,SC,Sumter,45085,Democrat,Hillary_Clinton,9816,0.866,Sumter_SC
+South Carolina,SC,Williamsburg,45089,Democrat,Hillary_Clinton,4609,0.885,Williamsburg_SC
+South Carolina,SC,York,45091,Democrat,Hillary_Clinton,8895,0.635,York_SC
+Tennessee,TN,Bledsoe,47007,Democrat,Hillary_Clinton,398,0.607,Bledsoe_TN
+Tennessee,TN,Blount,47009,Democrat,Hillary_Clinton,2736,0.531,Blount_TN
+Tennessee,TN,Bradley,47011,Democrat,Hillary_Clinton,1644,0.552,Bradley_TN
+Tennessee,TN,Cannon,47015,Democrat,Hillary_Clinton,439,0.645,Cannon_TN
+Tennessee,TN,Cheatham,47021,Democrat,Hillary_Clinton,1065,0.562,Cheatham_TN
+Tennessee,TN,Cocke,47029,Democrat,Hillary_Clinton,463,0.556,Cocke_TN
+Tennessee,TN,Coffee,47031,Democrat,Hillary_Clinton,1503,0.625,Coffee_TN
+Tennessee,TN,Crockett,47033,Democrat,Hillary_Clinton,424,0.785,Crockett_TN
+Tennessee,TN,Davidson,47037,Democrat,Hillary_Clinton,43691,0.653,Davidson_TN
+Tennessee,TN,Dickson,47043,Democrat,Hillary_Clinton,1497,0.671,Dickson_TN
+Tennessee,TN,Dyer,47045,Democrat,Hillary_Clinton,822,0.715,Dyer_TN
+Tennessee,TN,Fentress,47049,Democrat,Hillary_Clinton,352,0.632,Fentress_TN
+Tennessee,TN,Gibson,47053,Democrat,Hillary_Clinton,1549,0.768,Gibson_TN
+Tennessee,TN,Giles,47055,Democrat,Hillary_Clinton,915,0.732,Giles_TN
+Tennessee,TN,Grainger,47057,Democrat,Hillary_Clinton,283,0.611,Grainger_TN
+Tennessee,TN,Hamblen,47063,Democrat,Hillary_Clinton,951,0.565,Hamblen_TN
+Tennessee,TN,Hardeman,47069,Democrat,Hillary_Clinton,1721,0.877,Hardeman_TN
+Tennessee,TN,Hawkins,47073,Democrat,Hillary_Clinton,906,0.587,Hawkins_TN
+Tennessee,TN,Hickman,47081,Democrat,Hillary_Clinton,543,0.609,Hickman_TN
+Tennessee,TN,Knox,47093,Democrat,Hillary_Clinton,13137,0.51,Knox_TN
+Tennessee,TN,Loudon,47105,Democrat,Hillary_Clinton,1026,0.605,Loudon_TN
+Tennessee,TN,Maury,47119,Democrat,Hillary_Clinton,2366,0.636,Maury_TN
+Tennessee,TN,McMinn,47107,Democrat,Hillary_Clinton,1027,0.608,McMinn_TN
+Tennessee,TN,McNairy,47109,Democrat,Hillary_Clinton,719,0.745,McNairy_TN
+Tennessee,TN,Obion,47131,Democrat,Hillary_Clinton,760,0.653,Obion_TN
+Tennessee,TN,Overton,47133,Democrat,Hillary_Clinton,885,0.591,Overton_TN
+Tennessee,TN,Pickett,47137,Democrat,Hillary_Clinton,214,0.756,Pickett_TN
+Tennessee,TN,Rhea,47143,Democrat,Hillary_Clinton,503,0.576,Rhea_TN
+Tennessee,TN,Roane,47145,Democrat,Hillary_Clinton,1454,0.601,Roane_TN
+Tennessee,TN,Robertson,47147,Democrat,Hillary_Clinton,1918,0.685,Robertson_TN
+Tennessee,TN,Rutherford,47149,Democrat,Hillary_Clinton,8243,0.572,Rutherford_TN
+Tennessee,TN,Sequatchie,47153,Democrat,Hillary_Clinton,273,0.561,Sequatchie_TN
+Tennessee,TN,Sevier,47155,Democrat,Hillary_Clinton,1259,0.494,Sevier_TN
+Tennessee,TN,Shelby,47157,Democrat,Hillary_Clinton,66465,0.801,Shelby_TN
+Tennessee,TN,Stewart,47161,Democrat,Hillary_Clinton,527,0.66,Stewart_TN
+Tennessee,TN,Sumner,47165,Democrat,Hillary_Clinton,4225,0.643,Sumner_TN
+Tennessee,TN,Tipton,47167,Democrat,Hillary_Clinton,1454,0.711,Tipton_TN
+Tennessee,TN,Trousdale,47169,Democrat,Hillary_Clinton,321,0.725,Trousdale_TN
+Tennessee,TN,Unicoi,47171,Democrat,Bernie_Sanders,272,0.513,Unicoi_TN
+Tennessee,TN,Weakley,47183,Democrat,Hillary_Clinton,860,0.632,Weakley_TN
+Texas,TX,Andrews,48003,Democrat,Hillary_Clinton,76,0.661,Andrews_TX
+Texas,TX,Angelina,48005,Democrat,Hillary_Clinton,1950,0.737,Angelina_TX
+Texas,TX,Aransas,48007,Democrat,Hillary_Clinton,488,0.63,Aransas_TX
+Texas,TX,Archer,48009,Democrat,Hillary_Clinton,99,0.589,Archer_TX
+Texas,TX,Armstrong,48011,Democrat,Bernie_Sanders,4,0.8,Armstrong_TX
+Texas,TX,Atascosa,48013,Democrat,Hillary_Clinton,1355,0.717,Atascosa_TX
+Texas,TX,Austin,48015,Democrat,Hillary_Clinton,492,0.734,Austin_TX
+Texas,TX,Bailey,48017,Democrat,Hillary_Clinton,84,0.712,Bailey_TX
+Texas,TX,Bandera,48019,Democrat,Hillary_Clinton,378,0.555,Bandera_TX
+Texas,TX,Bastrop,48021,Democrat,Hillary_Clinton,2894,0.591,Bastrop_TX
+Texas,TX,Baylor,48023,Democrat,Hillary_Clinton,46,0.613,Baylor_TX
+Texas,TX,Bee,48025,Democrat,Hillary_Clinton,1132,0.751,Bee_TX
+Texas,TX,Bell,48027,Democrat,Hillary_Clinton,7416,0.699,Bell_TX
+Texas,TX,Bexar,48029,Democrat,Hillary_Clinton,76502,0.668,Bexar_TX
+Texas,TX,Blanco,48031,Democrat,Hillary_Clinton,229,0.547,Blanco_TX
+Texas,TX,Borden,48033,Democrat,Hillary_Clinton,4,0.8,Borden_TX
+Texas,TX,Bosque,48035,Democrat,Hillary_Clinton,353,0.626,Bosque_TX
+Texas,TX,Bowie,48037,Democrat,Hillary_Clinton,2436,0.761,Bowie_TX
+Texas,TX,Brazoria,48039,Democrat,Hillary_Clinton,8996,0.696,Brazoria_TX
+Texas,TX,Brazos,48041,Democrat,Bernie_Sanders,3580,0.494,Brazos_TX
+Texas,TX,Brewster,48043,Democrat,Bernie_Sanders,771,0.481,Brewster_TX
+Texas,TX,Briscoe,48045,Democrat,Hillary_Clinton,16,0.571,Briscoe_TX
+Texas,TX,Brooks,48047,Democrat,Hillary_Clinton,1603,0.744,Brooks_TX
+Texas,TX,Burleson,48051,Democrat,Hillary_Clinton,469,0.74,Burleson_TX
+Texas,TX,Burnet,48053,Democrat,Hillary_Clinton,871,0.594,Burnet_TX
+Texas,TX,Callahan,48059,Democrat,Bernie_Sanders,104,0.533,Callahan_TX
+Texas,TX,Cameron,48061,Democrat,Hillary_Clinton,20326,0.682,Cameron_TX
+Texas,TX,Camp,48063,Democrat,Hillary_Clinton,484,0.766,Camp_TX
+Texas,TX,Carson,48065,Democrat,Hillary_Clinton,50,0.625,Carson_TX
+Texas,TX,Castro,48069,Democrat,Hillary_Clinton,127,0.738,Castro_TX
+Texas,TX,Childress,48075,Democrat,Hillary_Clinton,54,0.587,Childress_TX
+Texas,TX,Cochran,48079,Democrat,Hillary_Clinton,4,0.5,Cochran_TX
+Texas,TX,Coke,48081,Democrat,Hillary_Clinton,25,0.481,Coke_TX
+Texas,TX,Coleman,48083,Democrat,Hillary_Clinton,75,0.6,Coleman_TX
+Texas,TX,Collin,48085,Democrat,Hillary_Clinton,23591,0.592,Collin_TX
+Texas,TX,Collingsworth,48087,Democrat,Hillary_Clinton,36,0.59,Collingsworth_TX
+Texas,TX,Colorado,48089,Democrat,Hillary_Clinton,474,0.748,Colorado_TX
+Texas,TX,Comal,48091,Democrat,Hillary_Clinton,3109,0.6,Comal_TX
+Texas,TX,Concho,48095,Democrat,Hillary_Clinton,27,0.692,Concho_TX
+Texas,TX,Cooke,48097,Democrat,Hillary_Clinton,449,0.564,Cooke_TX
+Texas,TX,Coryell,48099,Democrat,Hillary_Clinton,1010,0.627,Coryell_TX
+Texas,TX,Cottle,48101,Democrat,Hillary_Clinton,26,0.565,Cottle_TX
+Texas,TX,Crane,48103,Democrat,Hillary_Clinton,62,0.66,Crane_TX
+Texas,TX,Crosby,48107,Democrat,Hillary_Clinton,131,0.582,Crosby_TX
+Texas,TX,Culberson,48109,Democrat,Hillary_Clinton,355,0.62,Culberson_TX
+Texas,TX,Dallam,48111,Democrat,Hillary_Clinton,24,0.615,Dallam_TX
+Texas,TX,Dallas,48113,Democrat,Hillary_Clinton,113574,0.715,Dallas_TX
+Texas,TX,De Witt,48123,Democrat,Hillary_Clinton,293,0.703,De Witt_TX
+Texas,TX,Deaf Smith,48117,Democrat,Hillary_Clinton,200,0.678,Deaf Smith_TX
+Texas,TX,Denton,48121,Democrat,Hillary_Clinton,16470,0.508,Denton_TX
+Texas,TX,Dickens,48125,Democrat,Hillary_Clinton,13,0.52,Dickens_TX
+Texas,TX,Dimmit,48127,Democrat,Hillary_Clinton,1804,0.689,Dimmit_TX
+Texas,TX,Donley,48129,Democrat,Bernie_Sanders,35,0.507,Donley_TX
+Texas,TX,Eastland,48133,Democrat,Hillary_Clinton,171,0.557,Eastland_TX
+Texas,TX,Ector,48135,Democrat,Hillary_Clinton,1852,0.649,Ector_TX
+Texas,TX,El Paso,48141,Democrat,Hillary_Clinton,36067,0.66,El Paso_TX
+Texas,TX,Ellis,48139,Democrat,Hillary_Clinton,3719,0.695,Ellis_TX
+Texas,TX,Erath,48143,Democrat,Hillary_Clinton,427,0.525,Erath_TX
+Texas,TX,Falls,48145,Democrat,Hillary_Clinton,551,0.814,Falls_TX
+Texas,TX,Fisher,48151,Democrat,Hillary_Clinton,226,0.533,Fisher_TX
+Texas,TX,Foard,48155,Democrat,Bernie_Sanders,112,0.481,Foard_TX
+Texas,TX,Fort Bend,48157,Democrat,Hillary_Clinton,29248,0.746,Fort Bend_TX
+Texas,TX,Freestone,48161,Democrat,Hillary_Clinton,380,0.768,Freestone_TX
+Texas,TX,Frio,48163,Democrat,Hillary_Clinton,1864,0.677,Frio_TX
+Texas,TX,Gaines,48165,Democrat,Hillary_Clinton,91,0.558,Gaines_TX
+Texas,TX,Garza,48169,Democrat,Hillary_Clinton,35,0.565,Garza_TX
+Texas,TX,Gillespie,48171,Democrat,Hillary_Clinton,813,0.719,Gillespie_TX
+Texas,TX,Glasscock,48173,Democrat,Hillary_Clinton,4,0.5,Glasscock_TX
+Texas,TX,Goliad,48175,Democrat,Hillary_Clinton,389,0.664,Goliad_TX
+Texas,TX,Gonzales,48177,Democrat,Hillary_Clinton,368,0.723,Gonzales_TX
+Texas,TX,Gray,48179,Democrat,Hillary_Clinton,111,0.539,Gray_TX
+Texas,TX,Grayson,48181,Democrat,Hillary_Clinton,1940,0.528,Grayson_TX
+Texas,TX,Gregg,48183,Democrat,Hillary_Clinton,3411,0.781,Gregg_TX
+Texas,TX,Grimes,48185,Democrat,Hillary_Clinton,583,0.731,Grimes_TX
+Texas,TX,Guadalupe,48187,Democrat,Hillary_Clinton,3787,0.64,Guadalupe_TX
+Texas,TX,Hansford,48195,Democrat,Hillary_Clinton,21,0.583,Hansford_TX
+Texas,TX,Harris,48201,Democrat,Hillary_Clinton,156729,0.705,Harris_TX
+Texas,TX,Hartley,48205,Democrat,Hillary_Clinton,29,0.558,Hartley_TX
+Texas,TX,Hays,48209,Democrat,Bernie_Sanders,7311,0.518,Hays_TX
+Texas,TX,Hemphill,48211,Democrat,Hillary_Clinton,15,0.652,Hemphill_TX
+Texas,TX,Hidalgo,48215,Democrat,Hillary_Clinton,40276,0.691,Hidalgo_TX
+Texas,TX,Hill,48217,Democrat,Hillary_Clinton,718,0.691,Hill_TX
+Texas,TX,Hockley,48219,Democrat,Hillary_Clinton,183,0.583,Hockley_TX
+Texas,TX,Hood,48221,Democrat,Hillary_Clinton,928,0.626,Hood_TX
+Texas,TX,Hopkins,48223,Democrat,Hillary_Clinton,628,0.668,Hopkins_TX
+Texas,TX,Hudspeth,48229,Democrat,Hillary_Clinton,147,0.538,Hudspeth_TX
+Texas,TX,Hunt,48231,Democrat,Hillary_Clinton,1328,0.605,Hunt_TX
+Texas,TX,Hutchinson,48233,Democrat,Hillary_Clinton,153,0.565,Hutchinson_TX
+Texas,TX,Irion,48235,Democrat,Hillary_Clinton,28,0.651,Irion_TX
+Texas,TX,Jack,48237,Democrat,Hillary_Clinton,87,0.621,Jack_TX
+Texas,TX,Jim Hogg,48247,Democrat,Hillary_Clinton,1421,0.75,Jim Hogg_TX
+Texas,TX,Jim Wells,48249,Democrat,Hillary_Clinton,4688,0.716,Jim Wells_TX
+Texas,TX,Karnes,48255,Democrat,Hillary_Clinton,719,0.528,Karnes_TX
+Texas,TX,Kaufman,48257,Democrat,Hillary_Clinton,2229,0.697,Kaufman_TX
+Texas,TX,Kenedy,48261,Democrat,Hillary_Clinton,63,0.594,Kenedy_TX
+Texas,TX,Kerr,48265,Democrat,Hillary_Clinton,1016,0.584,Kerr_TX
+Texas,TX,Kimble,48267,Democrat,Bernie_Sanders,34,0.523,Kimble_TX
+Texas,TX,King,48269,Democrat,Hillary_Clinton,2,0.667,King_TX
+Texas,TX,Kinney,48271,Democrat,Hillary_Clinton,211,0.608,Kinney_TX
+Texas,TX,Kleberg,48273,Democrat,Hillary_Clinton,1738,0.707,Kleberg_TX
+Texas,TX,La Salle,48283,Democrat,Hillary_Clinton,557,0.701,La Salle_TX
+Texas,TX,Lamb,48279,Democrat,Hillary_Clinton,172,0.533,Lamb_TX
+Texas,TX,Lampasas,48281,Democrat,Hillary_Clinton,324,0.6,Lampasas_TX
+Texas,TX,Lipscomb,48295,Democrat,Hillary_Clinton,22,0.647,Lipscomb_TX
+Texas,TX,Live Oak,48297,Democrat,Hillary_Clinton,203,0.677,Live Oak_TX
+Texas,TX,Llano,48299,Democrat,Hillary_Clinton,512,0.645,Llano_TX
+Texas,TX,Loving,48301,Democrat,Bernie_Sanders,5,0.417,Loving_TX
+Texas,TX,Lubbock,48303,Democrat,Hillary_Clinton,5767,0.574,Lubbock_TX
+Texas,TX,Lynn,48305,Democrat,Hillary_Clinton,14,0.583,Lynn_TX
+Texas,TX,Matagorda,48321,Democrat,Hillary_Clinton,1088,0.742,Matagorda_TX
+Texas,TX,Maverick,48323,Democrat,Hillary_Clinton,4342,0.695,Maverick_TX
+Texas,TX,McCulloch,48307,Democrat,Hillary_Clinton,93,0.664,McCulloch_TX
+Texas,TX,McLennan,48309,Democrat,Hillary_Clinton,5531,0.67,McLennan_TX
+Texas,TX,McMullen,48311,Democrat,Hillary_Clinton,4,0.8,McMullen_TX
+Texas,TX,Milam,48331,Democrat,Hillary_Clinton,577,0.678,Milam_TX
+Texas,TX,Montague,48337,Democrat,Hillary_Clinton,153,0.543,Montague_TX
+Texas,TX,Morris,48343,Democrat,Hillary_Clinton,461,0.733,Morris_TX
+Texas,TX,Motley,48345,Democrat,Hillary_Clinton,13,0.684,Motley_TX
+Texas,TX,Nacogdoches,48347,Democrat,Hillary_Clinton,1597,0.652,Nacogdoches_TX
+Texas,TX,Navarro,48349,Democrat,Hillary_Clinton,955,0.725,Navarro_TX
+Texas,TX,Nolan,48353,Democrat,Hillary_Clinton,270,0.655,Nolan_TX
+Texas,TX,Nueces,48355,Democrat,Hillary_Clinton,15662,0.705,Nueces_TX
+Texas,TX,Ochiltree,48357,Democrat,Hillary_Clinton,35,0.53,Ochiltree_TX
+Texas,TX,Oldham,48359,Democrat,Hillary_Clinton,11,0.688,Oldham_TX
+Texas,TX,Palo Pinto,48363,Democrat,Hillary_Clinton,361,0.595,Palo Pinto_TX
+Texas,TX,Parker,48367,Democrat,Hillary_Clinton,1800,0.545,Parker_TX
+Texas,TX,Parmer,48369,Democrat,Hillary_Clinton,82,0.726,Parmer_TX
+Texas,TX,Pecos,48371,Democrat,Hillary_Clinton,816,0.554,Pecos_TX
+Texas,TX,Potter,48375,Democrat,Hillary_Clinton,1490,0.566,Potter_TX
+Texas,TX,Presidio,48377,Democrat,Hillary_Clinton,776,0.574,Presidio_TX
+Texas,TX,Rains,48379,Democrat,Hillary_Clinton,173,0.643,Rains_TX
+Texas,TX,Randall,48381,Democrat,Hillary_Clinton,1586,0.511,Randall_TX
+Texas,TX,Reagan,48383,Democrat,Hillary_Clinton,12,0.632,Reagan_TX
+Texas,TX,Real,48385,Democrat,Hillary_Clinton,28,0.538,Real_TX
+Texas,TX,Reeves,48389,Democrat,Hillary_Clinton,1128,0.596,Reeves_TX
+Texas,TX,Refugio,48391,Democrat,Hillary_Clinton,549,0.642,Refugio_TX
+Texas,TX,Roberts,48393,Democrat,Hillary_Clinton,3,0.6,Roberts_TX
+Texas,TX,Rockwall,48397,Democrat,Hillary_Clinton,1722,0.596,Rockwall_TX
+Texas,TX,Runnels,48399,Democrat,Hillary_Clinton,80,0.576,Runnels_TX
+Texas,TX,Rusk,48401,Democrat,Hillary_Clinton,1114,0.781,Rusk_TX
+Texas,TX,San Augustine,48405,Democrat,Hillary_Clinton,366,0.83,San Augustine_TX
+Texas,TX,San Jacinto,48407,Democrat,Hillary_Clinton,561,0.72,San Jacinto_TX
+Texas,TX,San Patricio,48409,Democrat,Hillary_Clinton,2633,0.732,San Patricio_TX
+Texas,TX,San Saba,48411,Democrat,Hillary_Clinton,58,0.674,San Saba_TX
+Texas,TX,Schleicher,48413,Democrat,Hillary_Clinton,58,0.644,Schleicher_TX
+Texas,TX,Scurry,48415,Democrat,Hillary_Clinton,154,0.616,Scurry_TX
+Texas,TX,Shackelford,48417,Democrat,Hillary_Clinton,15,0.5,Shackelford_TX
+Texas,TX,Smith,48423,Democrat,Hillary_Clinton,5752,0.736,Smith_TX
+Texas,TX,Somervell,48425,Democrat,Hillary_Clinton,66,0.508,Somervell_TX
+Texas,TX,Starr,48427,Democrat,Hillary_Clinton,6918,0.778,Starr_TX
+Texas,TX,Sterling,48431,Democrat,Hillary_Clinton,5,0.5,Sterling_TX
+Texas,TX,Stonewall,48433,Democrat,Hillary_Clinton,59,0.578,Stonewall_TX
+Texas,TX,Sutton,48435,Democrat,Hillary_Clinton,27,0.692,Sutton_TX
+Texas,TX,Swisher,48437,Democrat,Hillary_Clinton,141,0.605,Swisher_TX
+Texas,TX,Tarrant,48439,Democrat,Hillary_Clinton,67590,0.651,Tarrant_TX
+Texas,TX,Taylor,48441,Democrat,Hillary_Clinton,1789,0.546,Taylor_TX
+Texas,TX,Terry,48445,Democrat,Hillary_Clinton,141,0.59,Terry_TX
+Texas,TX,Throckmorton,48447,Democrat,Hillary_Clinton,26,0.619,Throckmorton_TX
+Texas,TX,Titus,48449,Democrat,Hillary_Clinton,475,0.701,Titus_TX
+Texas,TX,Tom Green,48451,Democrat,Hillary_Clinton,1650,0.559,Tom Green_TX
+Texas,TX,Travis,48453,Democrat,Bernie_Sanders,73889,0.514,Travis_TX
+Texas,TX,Trinity,48455,Democrat,Hillary_Clinton,333,0.718,Trinity_TX
+Texas,TX,Tyler,48457,Democrat,Hillary_Clinton,453,0.743,Tyler_TX
+Texas,TX,Upshur,48459,Democrat,Hillary_Clinton,725,0.717,Upshur_TX
+Texas,TX,Upton,48461,Democrat,Hillary_Clinton,91,0.558,Upton_TX
+Texas,TX,Uvalde,48463,Democrat,Hillary_Clinton,1740,0.633,Uvalde_TX
+Texas,TX,Val Verde,48465,Democrat,Hillary_Clinton,1777,0.657,Val Verde_TX
+Texas,TX,Van Zandt,48467,Democrat,Hillary_Clinton,722,0.641,Van Zandt_TX
+Texas,TX,Victoria,48469,Democrat,Hillary_Clinton,2205,0.645,Victoria_TX
+Texas,TX,Waller,48473,Democrat,Hillary_Clinton,1221,0.675,Waller_TX
+Texas,TX,Ward,48475,Democrat,Hillary_Clinton,306,0.622,Ward_TX
+Texas,TX,Webb,48479,Democrat,Hillary_Clinton,18559,0.719,Webb_TX
+Texas,TX,Wharton,48481,Democrat,Hillary_Clinton,960,0.786,Wharton_TX
+Texas,TX,Wichita,48485,Democrat,Hillary_Clinton,1958,0.552,Wichita_TX
+Texas,TX,Wilbarger,48487,Democrat,Hillary_Clinton,136,0.615,Wilbarger_TX
+Texas,TX,Willacy,48489,Democrat,Hillary_Clinton,2072,0.701,Willacy_TX
+Texas,TX,Williamson,48491,Democrat,Hillary_Clinton,16374,0.527,Williamson_TX
+Texas,TX,Winkler,48495,Democrat,Hillary_Clinton,30,0.698,Winkler_TX
+Texas,TX,Wise,48497,Democrat,Hillary_Clinton,750,0.562,Wise_TX
+Texas,TX,Yoakum,48501,Democrat,Bernie_Sanders,10,0.476,Yoakum_TX
+Texas,TX,Young,48503,Democrat,Hillary_Clinton,198,0.586,Young_TX
+Texas,TX,Zapata,48505,Democrat,Hillary_Clinton,1969,0.678,Zapata_TX
+Texas,TX,Zavala,48507,Democrat,Hillary_Clinton,1557,0.755,Zavala_TX
+Utah,UT,Box Elder,49003,Democrat,Bernie_Sanders,281,0.755,Box Elder_UT
+Utah,UT,Cache,49005,Democrat,Bernie_Sanders,2906,0.815,Cache_UT
+Utah,UT,Carbon,49007,Democrat,Bernie_Sanders,235,0.615,Carbon_UT
+Utah,UT,Daggett,49009,Democrat,Bernie_Sanders,13,0.867,Daggett_UT
+Utah,UT,Davis,49011,Democrat,Bernie_Sanders,3563,0.824,Davis_UT
+Utah,UT,Duchesne,49013,Democrat,Bernie_Sanders,87,0.69,Duchesne_UT
+Utah,UT,Emery,49015,Democrat,Bernie_Sanders,66,0.653,Emery_UT
+Utah,UT,Grand,49019,Democrat,Bernie_Sanders,636,0.796,Grand_UT
+Utah,UT,Iron,49021,Democrat,Bernie_Sanders,639,0.815,Iron_UT
+Utah,UT,Juab,49023,Democrat,Bernie_Sanders,55,0.775,Juab_UT
+Utah,UT,Millard,49027,Democrat,Bernie_Sanders,11,0.44,Millard_UT
+Utah,UT,Piute,49031,Democrat,Hillary_Clinton,0,0,Piute_UT
+Utah,UT,Rich,49033,Democrat,Hillary_Clinton,0,0,Rich_UT
+Utah,UT,Salt Lake,49035,Democrat,Bernie_Sanders,35610,0.788,Salt Lake_UT
+Utah,UT,San Juan,49037,Democrat,Bernie_Sanders,81,0.648,San Juan_UT
+Utah,UT,Sanpete,49039,Democrat,Bernie_Sanders,264,0.849,Sanpete_UT
+Utah,UT,Tooele,49045,Democrat,Bernie_Sanders,986,0.8,Tooele_UT
+Utah,UT,Uintah,49047,Democrat,Bernie_Sanders,135,0.763,Uintah_UT
+Utah,UT,Utah,49049,Democrat,Bernie_Sanders,6071,0.853,Utah_UT
+Utah,UT,Wasatch,49051,Democrat,Bernie_Sanders,557,0.764,Wasatch_UT
+Utah,UT,Weber,49057,Democrat,Bernie_Sanders,5465,0.828,Weber_UT
+Vermont,VT,Addison,50001,Democrat,Bernie_Sanders,251,0.863,Addison_VT
+Vermont,VT,Bennington,50003,Democrat,Bernie_Sanders,2121,0.838,Bennington_VT
+Vermont,VT,Chittenden,50007,Democrat,Bernie_Sanders,254,0.904,Chittenden_VT
+Vermont,VT,Essex,50009,Democrat,Bernie_Sanders,3622,0.866,Essex_VT
+Vermont,VT,Grand Isle,50013,Democrat,Bernie_Sanders,426,0.857,Grand Isle_VT
+Vermont,VT,Rutland,50021,Democrat,Bernie_Sanders,2318,0.841,Rutland_VT
+Vermont,VT,Windham,50025,Democrat,Bernie_Sanders,110,0.88,Windham_VT
+Vermont,VT,Windsor,50027,Democrat,Bernie_Sanders,709,0.865,Windsor_VT
+Virginia,VA,Albemarle,51003,Democrat,Hillary_Clinton,8284,0.545,Albemarle_VA
+Virginia,VA,Amelia,51007,Democrat,Hillary_Clinton,671,0.788,Amelia_VA
+Virginia,VA,Amherst,51009,Democrat,Hillary_Clinton,1044,0.652,Amherst_VA
+Virginia,VA,Appomattox,51011,Democrat,Hillary_Clinton,448,0.67,Appomattox_VA
+Virginia,VA,Arlington,51013,Democrat,Hillary_Clinton,25561,0.669,Arlington_VA
+Virginia,VA,Augusta,51015,Democrat,Bernie_Sanders,1754,0.514,Augusta_VA
+Virginia,VA,Bath,51017,Democrat,Hillary_Clinton,148,0.63,Bath_VA
+Virginia,VA,Bedford,51019,Democrat,Hillary_Clinton,1876,0.565,Bedford_VA
+Virginia,VA,Bland,51021,Democrat,Hillary_Clinton,125,0.517,Bland_VA
+Virginia,VA,Botetourt,51023,Democrat,Hillary_Clinton,888,0.557,Botetourt_VA
+Virginia,VA,Buckingham,51029,Democrat,Hillary_Clinton,806,0.75,Buckingham_VA
+Virginia,VA,Campbell,51031,Democrat,Hillary_Clinton,1296,0.657,Campbell_VA
+Virginia,VA,Caroline,51033,Democrat,Hillary_Clinton,1902,0.743,Caroline_VA
+Virginia,VA,Charles City,51036,Democrat,Hillary_Clinton,863,0.856,Charles City_VA
+Virginia,VA,Chesterfield,51041,Democrat,Hillary_Clinton,22674,0.661,Chesterfield_VA
+Virginia,VA,Culpeper,51047,Democrat,Hillary_Clinton,1421,0.547,Culpeper_VA
+Virginia,VA,Dickenson,51051,Democrat,Hillary_Clinton,346,0.6,Dickenson_VA
+Virginia,VA,Dinwiddie,51053,Democrat,Hillary_Clinton,1935,0.833,Dinwiddie_VA
+Virginia,VA,Fairfax,51059,Democrat,Hillary_Clinton,86898,0.63,Fairfax_VA
+Virginia,VA,Fauquier,51061,Democrat,Hillary_Clinton,2860,0.545,Fauquier_VA
+Virginia,VA,Fluvanna,51065,Democrat,Hillary_Clinton,1355,0.576,Fluvanna_VA
+Virginia,VA,Frederick,51069,Democrat,Hillary_Clinton,2136,0.505,Frederick_VA
+Virginia,VA,Gloucester,51073,Democrat,Hillary_Clinton,1448,0.591,Gloucester_VA
+Virginia,VA,Goochland,51075,Democrat,Hillary_Clinton,1572,0.716,Goochland_VA
+Virginia,VA,Greensville,51081,Democrat,Hillary_Clinton,832,0.877,Greensville_VA
+Virginia,VA,Hampton,51650,Democrat,Hillary_Clinton,13529,0.779,Hampton_VA
+Virginia,VA,Hanover,51085,Democrat,Hillary_Clinton,4915,0.599,Hanover_VA
+Virginia,VA,Henrico,51087,Democrat,Hillary_Clinton,28121,0.698,Henrico_VA
+Virginia,VA,Isle of Wight,51093,Democrat,Hillary_Clinton,2446,0.739,Isle of Wight_VA
+Virginia,VA,James City,51095,Democrat,Hillary_Clinton,5210,0.651,James City_VA
+Virginia,VA,King George,51099,Democrat,Hillary_Clinton,916,0.594,King George_VA
+Virginia,VA,King William,51101,Democrat,Hillary_Clinton,841,0.719,King William_VA
+Virginia,VA,King and Queen,51097,Democrat,Hillary_Clinton,477,0.787,King and Queen_VA
+Virginia,VA,Loudoun,51107,Democrat,Hillary_Clinton,21171,0.586,Loudoun_VA
+Virginia,VA,Louisa,51109,Democrat,Hillary_Clinton,1630,0.655,Louisa_VA
+Virginia,VA,Lunenburg,51111,Democrat,Hillary_Clinton,738,0.836,Lunenburg_VA
+Virginia,VA,Mathews,51115,Democrat,Hillary_Clinton,435,0.633,Mathews_VA
+Virginia,VA,Middlesex,51119,Democrat,Hillary_Clinton,559,0.653,Middlesex_VA
+Virginia,VA,Nelson,51125,Democrat,Hillary_Clinton,991,0.562,Nelson_VA
+Virginia,VA,New Kent,51127,Democrat,Hillary_Clinton,951,0.678,New Kent_VA
+Virginia,VA,Newport News,51700,Democrat,Hillary_Clinton,12495,0.73,Newport News_VA
+Virginia,VA,Norfolk,51710,Democrat,Hillary_Clinton,15747,0.692,Norfolk_VA
+Virginia,VA,Northumberland,51133,Democrat,Hillary_Clinton,818,0.75,Northumberland_VA
+Virginia,VA,Nottoway,51135,Democrat,Hillary_Clinton,829,0.781,Nottoway_VA
+Virginia,VA,Page,51139,Democrat,Hillary_Clinton,411,0.536,Page_VA
+Virginia,VA,Patrick,51141,Democrat,Bernie_Sanders,372,0.503,Patrick_VA
+Virginia,VA,Pittsylvania,51143,Democrat,Hillary_Clinton,2369,0.752,Pittsylvania_VA
+Virginia,VA,Powhatan,51145,Democrat,Hillary_Clinton,1079,0.644,Powhatan_VA
+Virginia,VA,Prince Edward,51147,Democrat,Hillary_Clinton,1366,0.758,Prince Edward_VA
+Virginia,VA,Prince George,51149,Democrat,Hillary_Clinton,1992,0.777,Prince George_VA
+Virginia,VA,Prince William,51153,Democrat,Hillary_Clinton,26439,0.638,Prince William_VA
+Virginia,VA,Rappahannock,51157,Democrat,Hillary_Clinton,416,0.501,Rappahannock_VA
+Virginia,VA,Roanoke,51161,Democrat,Hillary_Clinton,3323,0.543,Roanoke_VA
+Virginia,VA,Rockbridge,51163,Democrat,Hillary_Clinton,902,0.571,Rockbridge_VA
+Virginia,VA,Shenandoah,51171,Democrat,Hillary_Clinton,958,0.505,Shenandoah_VA
+Virginia,VA,Smyth,51173,Democrat,Hillary_Clinton,526,0.586,Smyth_VA
+Virginia,VA,Southampton,51175,Democrat,Hillary_Clinton,1199,0.838,Southampton_VA
+Virginia,VA,Spotsylvania,51177,Democrat,Hillary_Clinton,5399,0.604,Spotsylvania_VA
+Virginia,VA,Stafford,51179,Democrat,Hillary_Clinton,6437,0.603,Stafford_VA
+Virginia,VA,Suffolk,51800,Democrat,Hillary_Clinton,7533,0.795,Suffolk_VA
+Virginia,VA,Sussex,51183,Democrat,Hillary_Clinton,958,0.905,Sussex_VA
+Virginia,VA,Virginia Beach,51810,Democrat,Hillary_Clinton,22352,0.63,Virginia Beach_VA
+Virginia,VA,Westmoreland,51193,Democrat,Hillary_Clinton,879,0.745,Westmoreland_VA
+Virginia,VA,Wythe,51197,Democrat,Hillary_Clinton,528,0.552,Wythe_VA
